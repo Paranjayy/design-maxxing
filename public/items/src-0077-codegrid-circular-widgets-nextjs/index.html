@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Codegrid Circular Widgets Nextjs</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: system-ui, -apple-system, sans-serif; background: #0a0a0a; color: #e4e4e7; padding: 24px; }
+.header { margin-bottom: 24px; }
+.title { font-size: 1.25rem; font-weight: 600; color: #fff; margin-bottom: 4px; }
+.meta { font-size: 0.75rem; color: #71717a; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.65rem; font-weight: 500; }
+.badge-js { background: #f59e0b22; color: #fbbf24; border: 1px solid #f59e0b44; }
+.badge-react { background: #3b82f622; color: #60a5fa; border: 1px solid #3b82f644; }
+.badge-next { background: #fff1; color: #a1a1aa; border: 1px solid #fff2; }
+.badge-other { background: #8b5cf622; color: #a78bfa; border: 1px solid #8b5cf644; }
+.files { background: #111; border: 1px solid #222; border-radius: 8px; padding: 16px; margin-top: 16px; }
+.files-title { font-size: 0.75rem; font-weight: 600; color: #a1a1aa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em; }
+.file-row { display: flex; align-items: center; gap: 8px; padding: 4px 0; font-size: 0.8rem; }
+.file-icon { color: #52525b; font-size: 0.7rem; width: 16px; text-align: center; }
+.file-name { color: #d4d4d8; font-family: 'SF Mono', Monaco, monospace; font-size: 0.75rem; }
+.file-ext { color: #52525b; font-size: 0.65rem; margin-left: auto; }
+.source { background: #111; border: 1px solid #222; border-radius: 8px; padding: 16px; margin-top: 16px; }
+.source pre { font-family: 'SF Mono', Monaco, monospace; font-size: 0.7rem; color: #a1a1aa; white-space: pre-wrap; word-break: break-all; max-height: 400px; overflow-y: auto; }
+.code-header { font-size: 0.7rem; color: #52525b; margin-bottom: 8px; font-family: 'SF Mono', Monaco, monospace; }
+.no-preview { text-align: center; padding: 48px; color: #52525b; font-size: 0.85rem; }
+.icon { font-size: 2rem; margin-bottom: 12px; opacity: 0.4; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="title">Codegrid Circular Widgets Nextjs</div>
+  <div class="meta">
+    <span class="badge badge-other">Source</span>
+    &middot; 01 Scroll Animations
+  </div>
+</div>
+<div class="files"><div class="files-title">File Types</div><div class="file-row"><span class="file-icon">IMG</span><span class="file-name">.jpg</span><span class="file-ext">10 files</span></div><div class="file-row"><span class="file-icon">SVG</span><span class="file-name">.svg</span><span class="file-ext">5 files</span></div><div class="file-row"><span class="file-icon">{}</span><span class="file-name">.json</span><span class="file-ext">2 files</span></div><div class="file-row"><span class="file-icon">JS</span><span class="file-name">.js</span><span class="file-ext">2 files</span></div><div class="file-row"><span class="file-icon">CSS</span><span class="file-name">.css</span><span class="file-ext">2 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.mjs</span><span class="file-ext">1 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.md</span><span class="file-ext">1 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.ico</span><span class="file-ext">1 files</span></div></div><div class="source"><div class="code-header">src/app/layout.js</div><pre>import "./globals.css";
+
+export const metadata = {
+  title: "Scroll-Powered Circular Widgets | Codegrid",
+  description: "Scroll-Powered Circular Widgets | Codegrid",
+};
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
+}
+</pre></div>
+</body>
+</html>

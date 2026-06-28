@@ -1,0 +1,4362 @@
+[
+  {
+    "id": "tpl-0000-2023-05-portfolio",
+    "zipName": "2023-05-portfolio.zip",
+    "folderName": "tpl-0000-2023-05-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0001-2023-06-portfolio",
+    "zipName": "2023-06-portfolio.zip",
+    "folderName": "tpl-0001-2023-06-portfolio",
+    "indexFile": "codegrid-react-portfolio/public/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0002-2023-07-creative-agency",
+    "zipName": "2023-07-creative-agency.zip",
+    "folderName": "tpl-0002-2023-07-creative-agency",
+    "indexFile": "unusual-studio/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Creative Agency",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0003-2023-08-brutalist-portfolio",
+    "zipName": "2023-08-brutalist-portfolio.zip",
+    "folderName": "tpl-0003-2023-08-brutalist-portfolio",
+    "indexFile": "Brutalist Portfolio/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Brutalist Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0004-2023-09-minimal-creative-studio",
+    "zipName": "2023-09-minimal-creative-studio.zip",
+    "folderName": "tpl-0004-2023-09-minimal-creative-studio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Minimal Creative Studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0005-2023-10-creative-agency",
+    "zipName": "2023-10-creative-agency.zip",
+    "folderName": "tpl-0005-2023-10-creative-agency",
+    "indexFile": "neoteric/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Creative Agency",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0006-2023-11-modern-saas",
+    "zipName": "2023-11-modern-saas.zip",
+    "folderName": "tpl-0006-2023-11-modern-saas",
+    "indexFile": "vertex/blog.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Modern Saas",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0007-2023-12-portfolio-video-gallery",
+    "zipName": "2023-12-portfolio-video-gallery.zip",
+    "folderName": "tpl-0007-2023-12-portfolio-video-gallery",
+    "indexFile": "velasco-solari/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Portfolio Video Gallery",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0008-2024-01-creative-studio",
+    "zipName": "2024-01-creative-studio.zip",
+    "folderName": "tpl-0008-2024-01-creative-studio",
+    "indexFile": "elevate/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Creative Studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0009-2024-02-saas-website",
+    "zipName": "2024-02-saas-website.zip",
+    "folderName": "tpl-0009-2024-02-saas-website",
+    "indexFile": "byteforge/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Saas Website",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0010-2024-03-responsive-portfolio",
+    "zipName": "2024-03-responsive-portfolio.zip",
+    "folderName": "tpl-0010-2024-03-responsive-portfolio",
+    "indexFile": "cura-futuri/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Responsive Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0011-2024-04-minimalist-portfolio",
+    "zipName": "2024-04-minimalist-portfolio.zip",
+    "folderName": "tpl-0011-2024-04-minimalist-portfolio",
+    "indexFile": "soren/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Minimalist Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0012-2024-05-responsive-portfolio",
+    "zipName": "2024-05-responsive-portfolio.zip",
+    "folderName": "tpl-0012-2024-05-responsive-portfolio",
+    "indexFile": "Source Code /alejandro-ortiz/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Responsive Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0013-2024-06-web3-ai-studio",
+    "zipName": "2024-06-web3-ai-studio.zip",
+    "folderName": "tpl-0013-2024-06-web3-ai-studio",
+    "indexFile": "nexus/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Web3 Ai Studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0014-2024-07-creative-director-portfolio",
+    "zipName": "2024-07-creative-director-portfolio.zip",
+    "folderName": "tpl-0014-2024-07-creative-director-portfolio",
+    "indexFile": "damien-tsarantos/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Creative Director Portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0015-2025-02-isochrome",
+    "zipName": "2025-02-isochrome.zip",
+    "folderName": "tpl-0015-2025-02-isochrome",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Isochrome",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0016-2025-03-nico-palmer",
+    "zipName": "2025-03-nico-palmer.zip",
+    "folderName": "tpl-0016-2025-03-nico-palmer",
+    "indexFile": "nico-palmer/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Nico Palmer",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0017-2025-04-format-archive",
+    "zipName": "2025-04-format-archive.zip",
+    "folderName": "tpl-0017-2025-04-format-archive",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Format Archive",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0018-2025-05-otis-valen",
+    "zipName": "2025-05-otis-valen.zip",
+    "folderName": "tpl-0018-2025-05-otis-valen",
+    "indexFile": "otis-valen/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Otis Valen",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0019-2025-06-wu-wei",
+    "zipName": "2025-06-wu-wei.zip",
+    "folderName": "tpl-0019-2025-06-wu-wei",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Wu Wei",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0020-2025-07-juno-watts",
+    "zipName": "2025-07-juno-watts.zip",
+    "folderName": "tpl-0020-2025-07-juno-watts",
+    "indexFile": "juno-watts/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Juno Watts",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0021-2025-08-terrene",
+    "zipName": "2025-08-terrene.zip",
+    "folderName": "tpl-0021-2025-08-terrene",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Terrene",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0022-2025-09-negative-films",
+    "zipName": "2025-09-negative-films.zip",
+    "folderName": "tpl-0022-2025-09-negative-films",
+    "indexFile": "negative-films/directors.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Negative Films",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0023-2025-10-polite-chaos",
+    "zipName": "2025-10-polite-chaos.zip",
+    "folderName": "tpl-0023-2025-10-polite-chaos",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Polite Chaos",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0024-2025-11-orbit-matter",
+    "zipName": "2025-11-orbit-matter.zip",
+    "folderName": "tpl-0024-2025-11-orbit-matter",
+    "indexFile": "orbit-matter/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Orbit Matter",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0025-2025-12-nrmlss",
+    "zipName": "2025-12-nrmlss.zip",
+    "folderName": "tpl-0025-2025-12-nrmlss",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Nrmlss",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0026-2026-01-deadspace",
+    "zipName": "2026-01-deadspace.zip",
+    "folderName": "tpl-0026-2026-01-deadspace",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Deadspace",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0027-2026-02-salle-blanche",
+    "zipName": "2026-02-salle-blanche.zip",
+    "folderName": "tpl-0027-2026-02-salle-blanche",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Salle Blanche",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0028-2026-03-house-of-epochs",
+    "zipName": "2026-03-house-of-epochs.zip",
+    "folderName": "tpl-0028-2026-03-house-of-epochs",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "House Of Epochs",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0029-2026-04-lemon-bureau",
+    "zipName": "2026-04-lemon-bureau.zip",
+    "folderName": "tpl-0029-2026-04-lemon-bureau",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Lemon Bureau",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0030-2026-05-deadlock-studios",
+    "zipName": "2026-05-deadlock-studios.zip",
+    "folderName": "tpl-0030-2026-05-deadlock-studios",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "Deadlock Studios",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "src-0000-04022024-image-reveal-on-scroll",
+    "zipName": "04022024-Image-Reveal-On-Scroll.zip",
+    "folderName": "src-0000-04022024-image-reveal-on-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "04022024 Image Reveal On Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0001-21012024-search-modal",
+    "zipName": "21012024-Search-Modal.zip",
+    "folderName": "src-0001-21012024-search-modal",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "21012024 Search Modal",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0002-minimal-portfolio-website-html-css-javascript-main",
+    "zipName": "Minimal-Portfolio-Website-HTML-CSS-JavaScript-main.zip",
+    "folderName": "src-0002-minimal-portfolio-website-html-css-javascript-main",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Minimal Portfolio Website Html Css Javascript Main",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0003-cg-404",
+    "zipName": "cg-404.zip",
+    "folderName": "src-0003-cg-404",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg 404",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0004-cg-adaline-scroll-animation-nextjs",
+    "zipName": "cg-adaline-scroll-animation-nextjs.zip",
+    "folderName": "src-0004-cg-adaline-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Adaline Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0005-cg-adaline-scroll-animation",
+    "zipName": "cg-adaline-scroll-animation.zip",
+    "folderName": "src-0005-cg-adaline-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Adaline Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0006-cg-advanced-infinite-scroll",
+    "zipName": "cg-advanced-infinite-scroll.zip",
+    "folderName": "src-0006-cg-advanced-infinite-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Advanced Infinite Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0007-cg-bennett-clive-scroll-animation",
+    "zipName": "cg-bennett-clive-scroll-animation.zip",
+    "folderName": "src-0007-cg-bennett-clive-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Bennett Clive Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0008-cg-button-click-animation",
+    "zipName": "cg-button-click-animation.zip",
+    "folderName": "src-0008-cg-button-click-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Button Click Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0009-cg-capsules-animated-columns-nextjs",
+    "zipName": "cg-capsules-animated-columns-nextjs.zip",
+    "folderName": "src-0009-cg-capsules-animated-columns-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Capsules Animated Columns Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0010-cg-capsules-animated-columns",
+    "zipName": "cg-capsules-animated-columns.zip",
+    "folderName": "src-0010-cg-capsules-animated-columns",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Capsules Animated Columns",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0011-cg-crftd",
+    "zipName": "cg-crftd.zip",
+    "folderName": "src-0011-cg-crftd",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Crftd",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0012-cg-criticaldanger-rebuild",
+    "zipName": "cg-criticaldanger-rebuild.zip",
+    "folderName": "src-0012-cg-criticaldanger-rebuild",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Criticaldanger Rebuild",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0013-cg-eduardbodak-scroll-animation",
+    "zipName": "cg-eduardbodak-scroll-animation.zip",
+    "folderName": "src-0013-cg-eduardbodak-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Eduardbodak Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0014-cg-epic-mousemove-scrolltrigger-anim",
+    "zipName": "cg-epic-mousemove-scrolltrigger-anim.zip",
+    "folderName": "src-0014-cg-epic-mousemove-scrolltrigger-anim",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Epic Mousemove Scrolltrigger Anim",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0015-cg-epic-scroll-anims-scrolltrigger-gsap",
+    "zipName": "cg-epic-scroll-anims-scrolltrigger-gsap.zip",
+    "folderName": "src-0015-cg-epic-scroll-anims-scrolltrigger-gsap",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Epic Scroll Anims Scrolltrigger Gsap",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0016-cg-ethnocare",
+    "zipName": "cg-ethnocare.zip",
+    "folderName": "src-0016-cg-ethnocare",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Ethnocare",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0017-cg-explode-text-on-scroll-matterjs",
+    "zipName": "cg-explode-text-on-scroll-matterjs.zip",
+    "folderName": "src-0017-cg-explode-text-on-scroll-matterjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Explode Text On Scroll Matterjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0018-cg-filters-fielddaysound",
+    "zipName": "cg-filters-fielddaysound.zip",
+    "folderName": "src-0018-cg-filters-fielddaysound",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Filters Fielddaysound",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0019-cg-gabrielcontassot-scroll",
+    "zipName": "cg-gabrielcontassot-scroll.zip",
+    "folderName": "src-0019-cg-gabrielcontassot-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Gabrielcontassot Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0020-cg-gentlerain",
+    "zipName": "cg-gentlerain.zip",
+    "folderName": "src-0020-cg-gentlerain",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Gentlerain",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0021-cg-gregorylalle",
+    "zipName": "cg-gregorylalle.zip",
+    "folderName": "src-0021-cg-gregorylalle",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Gregorylalle",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0022-cg-heurebleue-scroll-animation",
+    "zipName": "cg-heurebleue-scroll-animation.zip",
+    "folderName": "src-0022-cg-heurebleue-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Heurebleue Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0023-cg-image-scroll-reveal",
+    "zipName": "cg-image-scroll-reveal.zip",
+    "folderName": "src-0023-cg-image-scroll-reveal",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Image Scroll Reveal",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0024-cg-inkfish-horizontal-scroll",
+    "zipName": "cg-inkfish-horizontal-scroll.zip",
+    "folderName": "src-0024-cg-inkfish-horizontal-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Inkfish Horizontal Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0025-cg-junni",
+    "zipName": "cg-junni.zip",
+    "folderName": "src-0025-cg-junni",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Junni",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0026-cg-karim-saab-scroll-animation",
+    "zipName": "cg-karim-saab-scroll-animation.zip",
+    "folderName": "src-0026-cg-karim-saab-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Karim Saab Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0027-cg-lava-buster",
+    "zipName": "cg-lava-buster.zip",
+    "folderName": "src-0027-cg-lava-buster",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Lava Buster",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0028-cg-lottie-scroll-animation",
+    "zipName": "cg-lottie-scroll-animation.zip",
+    "folderName": "src-0028-cg-lottie-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Lottie Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0029-cg-mat-voyce-scroll-animation",
+    "zipName": "cg-mat-voyce-scroll-animation.zip",
+    "folderName": "src-0029-cg-mat-voyce-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Mat Voyce Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0030-cg-metalab-lp-rebuild",
+    "zipName": "cg-metalab-lp-rebuild.zip",
+    "folderName": "src-0030-cg-metalab-lp-rebuild",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Metalab Lp Rebuild",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0031-cg-mormal",
+    "zipName": "cg-mormal.zip",
+    "folderName": "src-0031-cg-mormal",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Mormal",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0032-cg-navigate-scroll-animated-text-javascript",
+    "zipName": "cg-navigate-scroll-animated-text-javascript.zip",
+    "folderName": "src-0032-cg-navigate-scroll-animated-text-javascript",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Navigate Scroll Animated Text Javascript",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0033-cg-nordquantique-scroll",
+    "zipName": "cg-nordquantique-scroll.zip",
+    "folderName": "src-0033-cg-nordquantique-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Nordquantique Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0034-cg-nvg8-scroll-animation",
+    "zipName": "cg-nvg8-scroll-animation.zip",
+    "folderName": "src-0034-cg-nvg8-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Nvg8 Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0035-cg-offficestud",
+    "zipName": "cg-offficestud.zip",
+    "folderName": "src-0035-cg-offficestud",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Offficestud",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0036-cg-orken-world-scroll-animation",
+    "zipName": "cg-orken-world-scroll-animation.zip",
+    "folderName": "src-0036-cg-orken-world-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Orken World Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0037-cg-our-revolution-lp",
+    "zipName": "cg-our-revolution-lp.zip",
+    "folderName": "src-0037-cg-our-revolution-lp",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Our Revolution Lp",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0038-cg-phive-text-scroll-animation-nextjs",
+    "zipName": "cg-phive-text-scroll-animation-nextjs.zip",
+    "folderName": "src-0038-cg-phive-text-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Phive Text Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0039-cg-phive-text-scroll-animation",
+    "zipName": "cg-phive-text-scroll-animation.zip",
+    "folderName": "src-0039-cg-phive-text-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Phive Text Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0040-cg-physics-anim",
+    "zipName": "cg-physics-anim.zip",
+    "folderName": "src-0040-cg-physics-anim",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Physics Anim",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0041-cg-playable-objects",
+    "zipName": "cg-playable-objects.zip",
+    "folderName": "src-0041-cg-playable-objects",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Playable Objects",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0042-cg-product-page-on-scroll",
+    "zipName": "cg-product-page-on-scroll.zip",
+    "folderName": "src-0042-cg-product-page-on-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Product Page On Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0043-cg-qindustrial-scroll",
+    "zipName": "cg-qindustrial-scroll.zip",
+    "folderName": "src-0043-cg-qindustrial-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Qindustrial Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0044-cg-radga-horizontal-scroll-animation",
+    "zipName": "cg-radga-horizontal-scroll-animation.zip",
+    "folderName": "src-0044-cg-radga-horizontal-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Radga Horizontal Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0045-cg-radial-rotating-texts",
+    "zipName": "cg-radial-rotating-texts.zip",
+    "folderName": "src-0045-cg-radial-rotating-texts",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Radial Rotating Texts",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0046-cg-sageeast-3d-scroll",
+    "zipName": "cg-sageeast-3d-scroll.zip",
+    "folderName": "src-0046-cg-sageeast-3d-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Sageeast 3D Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0047-cg-samuelsiebler-js",
+    "zipName": "cg-samuelsiebler-js.zip",
+    "folderName": "src-0047-cg-samuelsiebler-js",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Samuelsiebler Js",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0048-cg-sarah-bassett",
+    "zipName": "cg-sarah-bassett.zip",
+    "folderName": "src-0048-cg-sarah-bassett",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Sarah Bassett",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0049-cg-savoirfaire-lp",
+    "zipName": "cg-savoirfaire-lp.zip",
+    "folderName": "src-0049-cg-savoirfaire-lp",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Savoirfaire Lp",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0050-cg-scroll-controlled-3d-cubes",
+    "zipName": "cg-scroll-controlled-3d-cubes.zip",
+    "folderName": "src-0050-cg-scroll-controlled-3d-cubes",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scroll Controlled 3D Cubes",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0051-cg-scroll-img-scale",
+    "zipName": "cg-scroll-img-scale.zip",
+    "folderName": "src-0051-cg-scroll-img-scale",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scroll Img Scale",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0052-cg-scroll-text-animation-rebuild-sotd",
+    "zipName": "cg-scroll-text-animation-rebuild-sotd.zip",
+    "folderName": "src-0052-cg-scroll-text-animation-rebuild-sotd",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scroll Text Animation Rebuild Sotd",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0053-cg-scroll-triggered-cards-js",
+    "zipName": "cg-scroll-triggered-cards-js.zip",
+    "folderName": "src-0053-cg-scroll-triggered-cards-js",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scroll Triggered Cards Js",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0054-cg-scrolltrigger-dash",
+    "zipName": "cg-scrolltrigger-dash.zip",
+    "folderName": "src-0054-cg-scrolltrigger-dash",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scrolltrigger Dash",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0055-cg-scrolltrigger-gsap-clipmask",
+    "zipName": "cg-scrolltrigger-gsap-clipmask.zip",
+    "folderName": "src-0055-cg-scrolltrigger-gsap-clipmask",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Scrolltrigger Gsap Clipmask",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0056-cg-silenceo",
+    "zipName": "cg-silenceo.zip",
+    "folderName": "src-0056-cg-silenceo",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Silenceo",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0057-cg-sofihealth-product-scroll-animation",
+    "zipName": "cg-sofihealth-product-scroll-animation.zip",
+    "folderName": "src-0057-cg-sofihealth-product-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Sofihealth Product Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0058-cg-stories",
+    "zipName": "cg-stories.zip",
+    "folderName": "src-0058-cg-stories",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Stories",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0059-cg-takepill",
+    "zipName": "cg-takepill.zip",
+    "folderName": "src-0059-cg-takepill",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Takepill",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0060-cg-telescope-img-scroll-animation-nextjs",
+    "zipName": "cg-telescope-img-scroll-animation-nextjs.zip",
+    "folderName": "src-0060-cg-telescope-img-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Telescope Img Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0061-cg-telescope-img-scroll-animation",
+    "zipName": "cg-telescope-img-scroll-animation.zip",
+    "folderName": "src-0061-cg-telescope-img-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Telescope Img Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0062-cg-telescope-scroll-animation",
+    "zipName": "cg-telescope-scroll-animation.zip",
+    "folderName": "src-0062-cg-telescope-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Telescope Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0063-cg-the-happy-few",
+    "zipName": "cg-the-happy-few.zip",
+    "folderName": "src-0063-cg-the-happy-few",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg The Happy Few",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0064-cg-thefirstthelast-scroll-animation",
+    "zipName": "cg-thefirstthelast-scroll-animation.zip",
+    "folderName": "src-0064-cg-thefirstthelast-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Thefirstthelast Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0065-cg-toyfight-filters-js",
+    "zipName": "cg-toyfight-filters-js.zip",
+    "folderName": "src-0065-cg-toyfight-filters-js",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Toyfight Filters Js",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0066-cg-tunnel",
+    "zipName": "cg-tunnel.zip",
+    "folderName": "src-0066-cg-tunnel",
+    "indexFile": "version1/index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Tunnel",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0067-cg-var-font-anim",
+    "zipName": "cg-var-font-anim.zip",
+    "folderName": "src-0067-cg-var-font-anim",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Var Font Anim",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0068-cg-video-player",
+    "zipName": "cg-video-player.zip",
+    "folderName": "src-0068-cg-video-player",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Video Player",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0069-cg-villainy-scroll",
+    "zipName": "cg-villainy-scroll.zip",
+    "folderName": "src-0069-cg-villainy-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Villainy Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0070-cg-we-go-again",
+    "zipName": "cg-we-go-again.zip",
+    "folderName": "src-0070-cg-we-go-again",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg We Go Again",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0071-cg-wodniack-work-section-scroll",
+    "zipName": "cg-wodniack-work-section-scroll.zip",
+    "folderName": "src-0071-cg-wodniack-work-section-scroll",
+    "indexFile": "v1/index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Wodniack Work Section Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0072-cg-zajno-lp",
+    "zipName": "cg-zajno-lp.zip",
+    "folderName": "src-0072-cg-zajno-lp",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Zajno Lp",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0073-cg-zentry-scroll",
+    "zipName": "cg-zentry-scroll.zip",
+    "folderName": "src-0073-cg-zentry-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Zentry Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0074-cg-zetr-scroll-animations",
+    "zipName": "cg-zetr-scroll-animations.zip",
+    "folderName": "src-0074-cg-zetr-scroll-animations",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Cg Zetr Scroll Animations",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0075-codegrid-3d-scroll-tunnel",
+    "zipName": "codegrid-3d-scroll-tunnel.zip",
+    "folderName": "src-0075-codegrid-3d-scroll-tunnel",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid 3D Scroll Tunnel",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0076-codegrid-artefakt-interactive-ascii-logo",
+    "zipName": "codegrid-artefakt-interactive-ascii-logo.zip",
+    "folderName": "src-0076-codegrid-artefakt-interactive-ascii-logo",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Artefakt Interactive Ascii Logo",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0077-codegrid-circular-widgets-nextjs",
+    "zipName": "codegrid-circular-widgets-nextjs.zip",
+    "folderName": "src-0077-codegrid-circular-widgets-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Circular Widgets Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0078-codegrid-circular-widgets",
+    "zipName": "codegrid-circular-widgets.zip",
+    "folderName": "src-0078-codegrid-circular-widgets",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Circular Widgets",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0079-codegrid-clayboan-scroll-animation",
+    "zipName": "codegrid-clayboan-scroll-animation.zip",
+    "folderName": "src-0079-codegrid-clayboan-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Clayboan Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0080-codegrid-deepjudge-scroll-animation",
+    "zipName": "codegrid-deepjudge-scroll-animation.zip",
+    "folderName": "src-0080-codegrid-deepjudge-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Deepjudge Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0081-codegrid-elementis-scroll-animation-javascript",
+    "zipName": "codegrid-elementis-scroll-animation-javascript.zip",
+    "folderName": "src-0081-codegrid-elementis-scroll-animation-javascript",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Elementis Scroll Animation Javascript",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0082-codegrid-eseagency-scroll-carousel-javascript",
+    "zipName": "codegrid-eseagency-scroll-carousel-javascript.zip",
+    "folderName": "src-0082-codegrid-eseagency-scroll-carousel-javascript",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Eseagency Scroll Carousel Javascript",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0083-codegrid-fameestate-scroll-animation",
+    "zipName": "codegrid-fameestate-scroll-animation.zip",
+    "folderName": "src-0083-codegrid-fameestate-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Fameestate Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0084-codegrid-fiddle-digital-scroll-animation",
+    "zipName": "codegrid-fiddle-digital-scroll-animation.zip",
+    "folderName": "src-0084-codegrid-fiddle-digital-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Fiddle Digital Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0085-codegrid-followart-scroll-animation-nextjs",
+    "zipName": "codegrid-followart-scroll-animation-nextjs.zip",
+    "folderName": "src-0085-codegrid-followart-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Followart Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0086-codegrid-followart-scroll-animation",
+    "zipName": "codegrid-followart-scroll-animation.zip",
+    "folderName": "src-0086-codegrid-followart-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Followart Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0087-codegrid-gsap-creative-clutter",
+    "zipName": "codegrid-gsap-creative-clutter.zip",
+    "folderName": "src-0087-codegrid-gsap-creative-clutter",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Gsap Creative Clutter",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0088-codegrid-gta-vi-landing-page-scroll-final",
+    "zipName": "codegrid-gta-vi-landing-page-scroll-final.zip",
+    "folderName": "src-0088-codegrid-gta-vi-landing-page-scroll-final",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Gta Vi Landing Page Scroll Final",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0089-codegrid-gta-vi-landing-page-scroll-javascript",
+    "zipName": "codegrid-gta-vi-landing-page-scroll-javascript.zip",
+    "folderName": "src-0089-codegrid-gta-vi-landing-page-scroll-javascript",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Gta Vi Landing Page Scroll Javascript",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0090-codegrid-guiding-light",
+    "zipName": "codegrid-guiding-light.zip",
+    "folderName": "src-0090-codegrid-guiding-light",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Guiding Light",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0091-codegrid-image-explosion-scroll-animation-js",
+    "zipName": "codegrid-image-explosion-scroll-animation-js.zip",
+    "folderName": "src-0091-codegrid-image-explosion-scroll-animation-js",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Image Explosion Scroll Animation Js",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0092-codegrid-image-explosion-scroll-animation-nextjs",
+    "zipName": "codegrid-image-explosion-scroll-animation-nextjs.zip",
+    "folderName": "src-0092-codegrid-image-explosion-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Image Explosion Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0093-codegrid-ingamana-scroll-animation-nextjs",
+    "zipName": "codegrid-ingamana-scroll-animation-nextjs.zip",
+    "folderName": "src-0093-codegrid-ingamana-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Ingamana Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0094-codegrid-ingamana-scroll-animation",
+    "zipName": "codegrid-ingamana-scroll-animation.zip",
+    "folderName": "src-0094-codegrid-ingamana-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Ingamana Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0095-codegrid-inversa-scroll-animation",
+    "zipName": "codegrid-inversa-scroll-animation.zip",
+    "folderName": "src-0095-codegrid-inversa-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Inversa Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0096-codegrid-ironhill-scroll-animation",
+    "zipName": "codegrid-ironhill-scroll-animation.zip",
+    "folderName": "src-0096-codegrid-ironhill-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Ironhill Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0097-codegrid-jeskojets-scroll-animation",
+    "zipName": "codegrid-jeskojets-scroll-animation.zip",
+    "folderName": "src-0097-codegrid-jeskojets-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Jeskojets Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0098-codegrid-larevoltosa-scroll-animation",
+    "zipName": "codegrid-larevoltosa-scroll-animation.zip",
+    "folderName": "src-0098-codegrid-larevoltosa-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Larevoltosa Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0099-codegrid-moblinks-interactive-logo",
+    "zipName": "codegrid-moblinks-interactive-logo.zip",
+    "folderName": "src-0099-codegrid-moblinks-interactive-logo",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Moblinks Interactive Logo",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0100-codegrid-mubien-scroll-animation-nextjs",
+    "zipName": "codegrid-mubien-scroll-animation-nextjs.zip",
+    "folderName": "src-0100-codegrid-mubien-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Mubien Scroll Animation Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0101-codegrid-mubien-scroll-animation",
+    "zipName": "codegrid-mubien-scroll-animation.zip",
+    "folderName": "src-0101-codegrid-mubien-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Mubien Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0102-codegrid-nakedcityfilms-scroll-animation",
+    "zipName": "codegrid-nakedcityfilms-scroll-animation.zip",
+    "folderName": "src-0102-codegrid-nakedcityfilms-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Nakedcityfilms Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0103-codegrid-next-accordion-frames",
+    "zipName": "codegrid-next-accordion-frames.zip",
+    "folderName": "src-0103-codegrid-next-accordion-frames",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Next Accordion Frames",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0104-codegrid-next-vinyl-cover",
+    "zipName": "codegrid-next-vinyl-cover.zip",
+    "folderName": "src-0104-codegrid-next-vinyl-cover",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Next Vinyl Cover",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0105-codegrid-nextjs-cards-reveal-scroll-animation",
+    "zipName": "codegrid-nextjs-cards-reveal-scroll-animation.zip",
+    "folderName": "src-0105-codegrid-nextjs-cards-reveal-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Nextjs Cards Reveal Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0106-codegrid-nvg8-scroll-animation",
+    "zipName": "codegrid-nvg8-scroll-animation.zip",
+    "folderName": "src-0106-codegrid-nvg8-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Nvg8 Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0107-codegrid-poly-app-photo-dump",
+    "zipName": "codegrid-poly-app-photo-dump.zip",
+    "folderName": "src-0107-codegrid-poly-app-photo-dump",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Poly App Photo Dump",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0108-codegrid-prototypestudio-scroll-animation",
+    "zipName": "codegrid-prototypestudio-scroll-animation.zip",
+    "folderName": "src-0108-codegrid-prototypestudio-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Prototypestudio Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0109-codegrid-ribbit-lottie-scroll-animation",
+    "zipName": "codegrid-ribbit-lottie-scroll-animation.zip",
+    "folderName": "src-0109-codegrid-ribbit-lottie-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Ribbit Lottie Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0110-codegrid-samuelsiebler-scroll-animation",
+    "zipName": "codegrid-samuelsiebler-scroll-animation.zip",
+    "folderName": "src-0110-codegrid-samuelsiebler-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Samuelsiebler Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0111-codegrid-scroll-activated-text-blocks",
+    "zipName": "codegrid-scroll-activated-text-blocks.zip",
+    "folderName": "src-0111-codegrid-scroll-activated-text-blocks",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Scroll Activated Text Blocks",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0112-codegrid-scroll-powered-svg-stroke-nextjs",
+    "zipName": "codegrid-scroll-powered-svg-stroke-nextjs.zip",
+    "folderName": "src-0112-codegrid-scroll-powered-svg-stroke-nextjs",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Scroll Powered Svg Stroke Nextjs",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0113-codegrid-scroll-powered-svg-stroke",
+    "zipName": "codegrid-scroll-powered-svg-stroke.zip",
+    "folderName": "src-0113-codegrid-scroll-powered-svg-stroke",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Scroll Powered Svg Stroke",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0114-codegrid-senseitech-scroll-animation",
+    "zipName": "codegrid-senseitech-scroll-animation.zip",
+    "folderName": "src-0114-codegrid-senseitech-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Senseitech Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0115-codegrid-seventeenagency-scroll-animation",
+    "zipName": "codegrid-seventeenagency-scroll-animation.zip",
+    "folderName": "src-0115-codegrid-seventeenagency-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Seventeenagency Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0116-codegrid-split-card-scroll-animation",
+    "zipName": "codegrid-split-card-scroll-animation.zip",
+    "folderName": "src-0116-codegrid-split-card-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Split Card Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0117-codegrid-vanilla-js-music-player",
+    "zipName": "codegrid-vanilla-js-music-player.zip",
+    "folderName": "src-0117-codegrid-vanilla-js-music-player",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Vanilla Js Music Player",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0118-codegrid-vucko-scroll-animation-javascript",
+    "zipName": "codegrid-vucko-scroll-animation-javascript.zip",
+    "folderName": "src-0118-codegrid-vucko-scroll-animation-javascript",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Vucko Scroll Animation Javascript",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0119-codegrid-waabi-scroll-animation",
+    "zipName": "codegrid-waabi-scroll-animation.zip",
+    "folderName": "src-0119-codegrid-waabi-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Waabi Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0120-codegrid-werowallet-scroll-animation",
+    "zipName": "codegrid-werowallet-scroll-animation.zip",
+    "folderName": "src-0120-codegrid-werowallet-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Werowallet Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0121-codegrid-wonjyou-horizontal-scroll",
+    "zipName": "codegrid-wonjyou-horizontal-scroll.zip",
+    "folderName": "src-0121-codegrid-wonjyou-horizontal-scroll",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Wonjyou Horizontal Scroll",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0122-codegrid-wonjyou-scroll-animation",
+    "zipName": "codegrid-wonjyou-scroll-animation.zip",
+    "folderName": "src-0122-codegrid-wonjyou-scroll-animation",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Codegrid Wonjyou Scroll Animation",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0123-infinite-horizontal-scroll-codegrid",
+    "zipName": "infinite-horizontal-scroll-codegrid.zip",
+    "folderName": "src-0123-infinite-horizontal-scroll-codegrid",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Infinite Horizontal Scroll Codegrid",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0124-next-transitions",
+    "zipName": "next-transitions.zip",
+    "folderName": "src-0124-next-transitions",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Next Transitions",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0125-scrolltrigger-1",
+    "zipName": "scrolltrigger-1.zip",
+    "folderName": "src-0125-scrolltrigger-1",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Scrolltrigger 1",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0126-scrolltrigger",
+    "zipName": "scrolltrigger.zip",
+    "folderName": "src-0126-scrolltrigger",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Scrolltrigger",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0127-shooting-fire-microinteraction",
+    "zipName": "shooting-fire-microinteraction.zip",
+    "folderName": "src-0127-shooting-fire-microinteraction",
+    "indexFile": "index.html",
+    "category": "01-scroll-animations",
+    "kind": "source",
+    "title": "Shooting Fire Microinteraction",
+    "displayName": "Scroll Animations"
+  },
+  {
+    "id": "src-0128-24012024-landing-page-reveal",
+    "zipName": "24012024-Landing-Page-Reveal.zip",
+    "folderName": "src-0128-24012024-landing-page-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "24012024 Landing Page Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0129-block-reveal-landing-page",
+    "zipName": "block-reveal-landing-page.zip",
+    "folderName": "src-0129-block-reveal-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Block Reveal Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0130-cg-kin-landing-page",
+    "zipName": "cg-kin-landing-page.zip",
+    "folderName": "src-0130-cg-kin-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Kin Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0131-cg-konpo-lp-reveal",
+    "zipName": "cg-konpo-lp-reveal.zip",
+    "folderName": "src-0131-cg-konpo-lp-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Konpo Lp Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0132-cg-lp-reveal-anim",
+    "zipName": "cg-lp-reveal-anim.zip",
+    "folderName": "src-0132-cg-lp-reveal-anim",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Lp Reveal Anim",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0133-cg-lusion-lp-reveal",
+    "zipName": "cg-lusion-lp-reveal.zip",
+    "folderName": "src-0133-cg-lusion-lp-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Lusion Lp Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0134-cg-mousemove-landing-page-reveal",
+    "zipName": "cg-mousemove-landing-page-reveal.zip",
+    "folderName": "src-0134-cg-mousemove-landing-page-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Mousemove Landing Page Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0135-cg-p10-landing-page-reveal-gsap",
+    "zipName": "cg-p10-landing-page-reveal-gsap.zip",
+    "folderName": "src-0135-cg-p10-landing-page-reveal-gsap",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg P10 Landing Page Reveal Gsap",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0136-cg-portfolio-landing-page",
+    "zipName": "cg-portfolio-landing-page.zip",
+    "folderName": "src-0136-cg-portfolio-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Portfolio Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0137-cg-responsive-landing-page",
+    "zipName": "cg-responsive-landing-page.zip",
+    "folderName": "src-0137-cg-responsive-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Responsive Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0138-cg-savoirfaire-landing-page-reveal-animation",
+    "zipName": "cg-savoirfaire-landing-page-reveal-animation.zip",
+    "folderName": "src-0138-cg-savoirfaire-landing-page-reveal-animation",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Cg Savoirfaire Landing Page Reveal Animation",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0139-codegrid-abetkaua-landing-page-reveal-animation",
+    "zipName": "codegrid-abetkaua-landing-page-reveal-animation.zip",
+    "folderName": "src-0139-codegrid-abetkaua-landing-page-reveal-animation",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Abetkaua Landing Page Reveal Animation",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0140-codegrid-aladesign-landing-page-reveal-js",
+    "zipName": "codegrid-aladesign-landing-page-reveal-js.zip",
+    "folderName": "src-0140-codegrid-aladesign-landing-page-reveal-js",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Aladesign Landing Page Reveal Js",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0141-codegrid-aladesign-landing-page-reveal-nextjs",
+    "zipName": "codegrid-aladesign-landing-page-reveal-nextjs.zip",
+    "folderName": "src-0141-codegrid-aladesign-landing-page-reveal-nextjs",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Aladesign Landing Page Reveal Nextjs",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0142-codegrid-aminezegmou-landing-page",
+    "zipName": "codegrid-aminezegmou-landing-page.zip",
+    "folderName": "src-0142-codegrid-aminezegmou-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Aminezegmou Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0143-codegrid-capsules-landing-page-reveal-animation",
+    "zipName": "codegrid-capsules-landing-page-reveal-animation.zip",
+    "folderName": "src-0143-codegrid-capsules-landing-page-reveal-animation",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Capsules Landing Page Reveal Animation",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0144-codegrid-davidalaba-landing-page-reveal",
+    "zipName": "codegrid-davidalaba-landing-page-reveal.zip",
+    "folderName": "src-0144-codegrid-davidalaba-landing-page-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Davidalaba Landing Page Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0145-codegrid-landonorris-interactive-landing-page",
+    "zipName": "codegrid-landonorris-interactive-landing-page.zip",
+    "folderName": "src-0145-codegrid-landonorris-interactive-landing-page",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Landonorris Interactive Landing Page",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0146-codegrid-laserbysonymusic-landing-page-reveal-animation",
+    "zipName": "codegrid-laserbysonymusic-landing-page-reveal-animation.zip",
+    "folderName": "src-0146-codegrid-laserbysonymusic-landing-page-reveal-animation",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Laserbysonymusic Landing Page Reveal Animation",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0147-codegrid-nite-riot-landing-page-reveal-javascript",
+    "zipName": "codegrid-nite-riot-landing-page-reveal-javascript.zip",
+    "folderName": "src-0147-codegrid-nite-riot-landing-page-reveal-javascript",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Nite Riot Landing Page Reveal Javascript",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0148-codegrid-outfit-landing-page-reveal",
+    "zipName": "codegrid-outfit-landing-page-reveal.zip",
+    "folderName": "src-0148-codegrid-outfit-landing-page-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Outfit Landing Page Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0149-codegrid-permianworld-landing-page-animation",
+    "zipName": "codegrid-permianworld-landing-page-animation.zip",
+    "folderName": "src-0149-codegrid-permianworld-landing-page-animation",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Permianworld Landing Page Animation",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0150-codegrid-steelworks-landing-page-reveal",
+    "zipName": "codegrid-steelworks-landing-page-reveal.zip",
+    "folderName": "src-0150-codegrid-steelworks-landing-page-reveal",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Steelworks Landing Page Reveal",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0151-codegrid-truekindskincare-landing-page-reveal-javascript",
+    "zipName": "codegrid-truekindskincare-landing-page-reveal-javascript.zip",
+    "folderName": "src-0151-codegrid-truekindskincare-landing-page-reveal-javascript",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Truekindskincare Landing Page Reveal Javascript",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0152-codegrid-truekindskincare-landing-page-reveal-nextjs",
+    "zipName": "codegrid-truekindskincare-landing-page-reveal-nextjs.zip",
+    "folderName": "src-0152-codegrid-truekindskincare-landing-page-reveal-nextjs",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Codegrid Truekindskincare Landing Page Reveal Nextjs",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0153-gsap-landing-page-reveal-codegrid",
+    "zipName": "gsap-landing-page-reveal-codegrid.zip",
+    "folderName": "src-0153-gsap-landing-page-reveal-codegrid",
+    "indexFile": "index.html",
+    "category": "02-landing-page-reveals",
+    "kind": "source",
+    "title": "Gsap Landing Page Reveal Codegrid",
+    "displayName": "Landing Pages"
+  },
+  {
+    "id": "src-0154-awwwards-foam-nav",
+    "zipName": "awwwards-foam-nav.zip",
+    "folderName": "src-0154-awwwards-foam-nav",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Awwwards Foam Nav",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0155-block-reveal-menu-awwwards-rebuild",
+    "zipName": "block-reveal-menu-awwwards-rebuild.zip",
+    "folderName": "src-0155-block-reveal-menu-awwwards-rebuild",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Block Reveal Menu Awwwards Rebuild",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0156-cg-akaru-menu-js",
+    "zipName": "cg-akaru-menu-js.zip",
+    "folderName": "src-0156-cg-akaru-menu-js",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Akaru Menu Js",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0157-cg-arock-menu",
+    "zipName": "cg-arock-menu.zip",
+    "folderName": "src-0157-cg-arock-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Arock Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0158-cg-art-tech-nav",
+    "zipName": "cg-art-tech-nav.zip",
+    "folderName": "src-0158-cg-art-tech-nav",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Art Tech Nav",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0159-cg-awwwards-nav",
+    "zipName": "cg-awwwards-nav.zip",
+    "folderName": "src-0159-cg-awwwards-nav",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Awwwards Nav",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0160-cg-bitkraft-menu-nextjs",
+    "zipName": "cg-bitkraft-menu-nextjs.zip",
+    "folderName": "src-0160-cg-bitkraft-menu-nextjs",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Bitkraft Menu Nextjs",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0161-cg-bitkraft-menu",
+    "zipName": "cg-bitkraft-menu.zip",
+    "folderName": "src-0161-cg-bitkraft-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Bitkraft Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0162-cg-clip-menu",
+    "zipName": "cg-clip-menu.zip",
+    "folderName": "src-0162-cg-clip-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Clip Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0163-cg-fs-responsive-menu",
+    "zipName": "cg-fs-responsive-menu.zip",
+    "folderName": "src-0163-cg-fs-responsive-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Fs Responsive Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0164-cg-jamarea-menu-nextjs",
+    "zipName": "cg-jamarea-menu-nextjs.zip",
+    "folderName": "src-0164-cg-jamarea-menu-nextjs",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Jamarea Menu Nextjs",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0165-cg-jamarea-menu",
+    "zipName": "cg-jamarea-menu.zip",
+    "folderName": "src-0165-cg-jamarea-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Jamarea Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0166-cg-kpverse-menu",
+    "zipName": "cg-kpverse-menu.zip",
+    "folderName": "src-0166-cg-kpverse-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Kpverse Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0167-cg-menu-root-food",
+    "zipName": "cg-menu-root-food.zip",
+    "folderName": "src-0167-cg-menu-root-food",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Menu Root Food",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0168-cg-next-navigation",
+    "zipName": "cg-next-navigation.zip",
+    "folderName": "src-0168-cg-next-navigation",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Next Navigation",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0169-cg-nm-menu-rebuild",
+    "zipName": "cg-nm-menu-rebuild.zip",
+    "folderName": "src-0169-cg-nm-menu-rebuild",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Nm Menu Rebuild",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0170-cg-push-over-overlay-menu",
+    "zipName": "cg-push-over-overlay-menu.zip",
+    "folderName": "src-0170-cg-push-over-overlay-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Push Over Overlay Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0171-cg-rejoice-menu",
+    "zipName": "cg-rejoice-menu.zip",
+    "folderName": "src-0171-cg-rejoice-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Rejoice Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0172-cg-responsive-nav",
+    "zipName": "cg-responsive-nav.zip",
+    "folderName": "src-0172-cg-responsive-nav",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Responsive Nav",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0173-cg-sidebar-slide-out-menu",
+    "zipName": "cg-sidebar-slide-out-menu.zip",
+    "folderName": "src-0173-cg-sidebar-slide-out-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Cg Sidebar Slide Out Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0174-codegrid-akaru-menu-nextjs",
+    "zipName": "codegrid-akaru-menu-nextjs.zip",
+    "folderName": "src-0174-codegrid-akaru-menu-nextjs",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Akaru Menu Nextjs",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0175-codegrid-audemarspiguet-menu",
+    "zipName": "codegrid-audemarspiguet-menu.zip",
+    "folderName": "src-0175-codegrid-audemarspiguet-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Audemarspiguet Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0176-codegrid-draggable-menu",
+    "zipName": "codegrid-draggable-menu.zip",
+    "folderName": "src-0176-codegrid-draggable-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Draggable Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0177-codegrid-exoape-menu-javascript",
+    "zipName": "codegrid-exoape-menu-javascript.zip",
+    "folderName": "src-0177-codegrid-exoape-menu-javascript",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Exoape Menu Javascript",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0178-codegrid-menuxl-text-displacement-animation-nextjs",
+    "zipName": "codegrid-menuxl-text-displacement-animation-nextjs.zip",
+    "folderName": "src-0178-codegrid-menuxl-text-displacement-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Menuxl Text Displacement Animation Nextjs",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0179-codegrid-menuxl-text-displacement-animation",
+    "zipName": "codegrid-menuxl-text-displacement-animation.zip",
+    "folderName": "src-0179-codegrid-menuxl-text-displacement-animation",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Menuxl Text Displacement Animation",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0180-codegrid-poppr-menu-nextjs",
+    "zipName": "codegrid-poppr-menu-nextjs.zip",
+    "folderName": "src-0180-codegrid-poppr-menu-nextjs",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Poppr Menu Nextjs",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0181-codegrid-poppr-menu",
+    "zipName": "codegrid-poppr-menu.zip",
+    "folderName": "src-0181-codegrid-poppr-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Poppr Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0182-codegrid-silver-pinewood-menu",
+    "zipName": "codegrid-silver-pinewood-menu.zip",
+    "folderName": "src-0182-codegrid-silver-pinewood-menu",
+    "indexFile": "index.html",
+    "category": "03-menus-navigation",
+    "kind": "source",
+    "title": "Codegrid Silver Pinewood Menu",
+    "displayName": "Menus & Navigation"
+  },
+  {
+    "id": "src-0183-cg25022024-cg-3d-slider",
+    "zipName": "CG25022024-CG-3D-SLIDER.zip",
+    "folderName": "src-0183-cg25022024-cg-3d-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg25022024 Cg 3D Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0184-benmingo-slider",
+    "zipName": "benmingo-slider.zip",
+    "folderName": "src-0184-benmingo-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Benmingo Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0185-cg-3d-slider-threejs",
+    "zipName": "cg-3d-slider-threejs.zip",
+    "folderName": "src-0185-cg-3d-slider-threejs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg 3D Slider Threejs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0186-cg-aristidebenoist-slider",
+    "zipName": "cg-aristidebenoist-slider.zip",
+    "folderName": "src-0186-cg-aristidebenoist-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Aristidebenoist Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0187-cg-camille-mormal-slider",
+    "zipName": "cg-camille-mormal-slider.zip",
+    "folderName": "src-0187-cg-camille-mormal-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Camille Mormal Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0188-cg-dezea-digital-carousel",
+    "zipName": "cg-dezea-digital-carousel.zip",
+    "folderName": "src-0188-cg-dezea-digital-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Dezea Digital Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0189-cg-dynamic-gsap-carousel",
+    "zipName": "cg-dynamic-gsap-carousel.zip",
+    "folderName": "src-0189-cg-dynamic-gsap-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Dynamic Gsap Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0190-cg-exo-ape-infinite-carousel",
+    "zipName": "cg-exo-ape-infinite-carousel.zip",
+    "folderName": "src-0190-cg-exo-ape-infinite-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Exo Ape Infinite Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0191-cg-full-screen-slider",
+    "zipName": "cg-full-screen-slider.zip",
+    "folderName": "src-0191-cg-full-screen-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Full Screen Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0192-cg-gsap-clip-carousel",
+    "zipName": "cg-gsap-clip-carousel.zip",
+    "folderName": "src-0192-cg-gsap-clip-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Gsap Clip Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0193-cg-gsap-scrolltrigger-slider-on-scroll",
+    "zipName": "cg-gsap-scrolltrigger-slider-on-scroll.zip",
+    "folderName": "src-0193-cg-gsap-scrolltrigger-slider-on-scroll",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Gsap Scrolltrigger Slider On Scroll",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0194-cg-horizontal-scroll-img-slider",
+    "zipName": "cg-horizontal-scroll-img-slider.zip",
+    "folderName": "src-0194-cg-horizontal-scroll-img-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Horizontal Scroll Img Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0195-cg-infinite-horizontal-slider-nextjs",
+    "zipName": "cg-infinite-horizontal-slider-nextjs.zip",
+    "folderName": "src-0195-cg-infinite-horizontal-slider-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Infinite Horizontal Slider Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0196-cg-infinite-horizontal-slider",
+    "zipName": "cg-infinite-horizontal-slider.zip",
+    "folderName": "src-0196-cg-infinite-horizontal-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Infinite Horizontal Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0197-cg-karim-saab-work-carousel-nextjs",
+    "zipName": "cg-karim-saab-work-carousel-nextjs.zip",
+    "folderName": "src-0197-cg-karim-saab-work-carousel-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Karim Saab Work Carousel Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0198-cg-meetings-slider",
+    "zipName": "cg-meetings-slider.zip",
+    "folderName": "src-0198-cg-meetings-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Meetings Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0199-cg-modular-slider",
+    "zipName": "cg-modular-slider.zip",
+    "folderName": "src-0199-cg-modular-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Modular Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0200-cg-pure-js-vanilla-image-slider",
+    "zipName": "cg-pure-js-vanilla-image-slider.zip",
+    "folderName": "src-0200-cg-pure-js-vanilla-image-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Pure Js Vanilla Image Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0201-cg-story-world-carousel-slider",
+    "zipName": "cg-story-world-carousel-slider.zip",
+    "folderName": "src-0201-cg-story-world-carousel-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Story World Carousel Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0202-cg-warp-slider-next",
+    "zipName": "cg-warp-slider-next.zip",
+    "folderName": "src-0202-cg-warp-slider-next",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Warp Slider Next",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0203-cg-warp-slider",
+    "zipName": "cg-warp-slider.zip",
+    "folderName": "src-0203-cg-warp-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Warp Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0204-cg-work-carousel-karim-saab",
+    "zipName": "cg-work-carousel-karim-saab.zip",
+    "folderName": "src-0204-cg-work-carousel-karim-saab",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Work Carousel Karim Saab",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0205-cg-yzavoku-slider",
+    "zipName": "cg-yzavoku-slider.zip",
+    "folderName": "src-0205-cg-yzavoku-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Cg Yzavoku Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0206-codegrid-cielrose-threejs-slider-javascript",
+    "zipName": "codegrid-cielrose-threejs-slider-javascript.zip",
+    "folderName": "src-0206-codegrid-cielrose-threejs-slider-javascript",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Cielrose Threejs Slider Javascript",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0207-codegrid-cielrose-threejs-slider-nextjs",
+    "zipName": "codegrid-cielrose-threejs-slider-nextjs.zip",
+    "folderName": "src-0207-codegrid-cielrose-threejs-slider-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Cielrose Threejs Slider Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0208-codegrid-damso-product-slider",
+    "zipName": "codegrid-damso-product-slider.zip",
+    "folderName": "src-0208-codegrid-damso-product-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Damso Product Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0209-codegrid-detroit-paris-infinite-slider",
+    "zipName": "codegrid-detroit-paris-infinite-slider.zip",
+    "folderName": "src-0209-codegrid-detroit-paris-infinite-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Detroit Paris Infinite Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0210-codegrid-lacrapulestudio-carousel",
+    "zipName": "codegrid-lacrapulestudio-carousel.zip",
+    "folderName": "src-0210-codegrid-lacrapulestudio-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Lacrapulestudio Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0211-codegrid-next-carousel",
+    "zipName": "codegrid-next-carousel.zip",
+    "folderName": "src-0211-codegrid-next-carousel",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Next Carousel",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0212-codegrid-ova-scroll-slider-nextjs",
+    "zipName": "codegrid-ova-scroll-slider-nextjs.zip",
+    "folderName": "src-0212-codegrid-ova-scroll-slider-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Ova Scroll Slider Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0213-codegrid-ova-scroll-slider",
+    "zipName": "codegrid-ova-scroll-slider.zip",
+    "folderName": "src-0213-codegrid-ova-scroll-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Ova Scroll Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0214-codegrid-radaville-scroll-slider",
+    "zipName": "codegrid-radaville-scroll-slider.zip",
+    "folderName": "src-0214-codegrid-radaville-scroll-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Radaville Scroll Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0215-codegrid-ripple-displacement-slider",
+    "zipName": "codegrid-ripple-displacement-slider.zip",
+    "folderName": "src-0215-codegrid-ripple-displacement-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Ripple Displacement Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0216-codegrid-threejs-slider-final",
+    "zipName": "codegrid-threejs-slider-final.zip",
+    "folderName": "src-0216-codegrid-threejs-slider-final",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Threejs Slider Final",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0217-codegrid-threejs-slider-main",
+    "zipName": "codegrid-threejs-slider-main.zip",
+    "folderName": "src-0217-codegrid-threejs-slider-main",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Threejs Slider Main",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0218-codegrid-threejs-slider-nextjs",
+    "zipName": "codegrid-threejs-slider-nextjs.zip",
+    "folderName": "src-0218-codegrid-threejs-slider-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Threejs Slider Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0219-codegrid-voku-image-slider-nextjs",
+    "zipName": "codegrid-voku-image-slider-nextjs.zip",
+    "folderName": "src-0219-codegrid-voku-image-slider-nextjs",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Voku Image Slider Nextjs",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0220-codegrid-voku-image-slider",
+    "zipName": "codegrid-voku-image-slider.zip",
+    "folderName": "src-0220-codegrid-voku-image-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Codegrid Voku Image Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0221-slider",
+    "zipName": "slider.zip",
+    "folderName": "src-0221-slider",
+    "indexFile": "index.html",
+    "category": "04-sliders-carousels",
+    "kind": "source",
+    "title": "Slider",
+    "displayName": "Sliders & Carousels"
+  },
+  {
+    "id": "src-0222-cg-247artists-trail-nextjs",
+    "zipName": "cg-247artists-trail-nextjs.zip",
+    "folderName": "src-0222-cg-247artists-trail-nextjs",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg 247Artists Trail Nextjs",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0223-cg-247artists-trail",
+    "zipName": "cg-247artists-trail.zip",
+    "folderName": "src-0223-cg-247artists-trail",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg 247Artists Trail",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0224-cg-cosmos-parallax-effect-mousemove",
+    "zipName": "cg-cosmos-parallax-effect-mousemove.zip",
+    "folderName": "src-0224-cg-cosmos-parallax-effect-mousemove",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Cosmos Parallax Effect Mousemove",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0225-cg-futuristic-hover",
+    "zipName": "cg-futuristic-hover.zip",
+    "folderName": "src-0225-cg-futuristic-hover",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Futuristic Hover",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0226-cg-henriheymans-hover",
+    "zipName": "cg-henriheymans-hover.zip",
+    "folderName": "src-0226-cg-henriheymans-hover",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Henriheymans Hover",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0227-cg-img-trail",
+    "zipName": "cg-img-trail.zip",
+    "folderName": "src-0227-cg-img-trail",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Img Trail",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0228-cg-media-monks-hover",
+    "zipName": "cg-media-monks-hover.zip",
+    "folderName": "src-0228-cg-media-monks-hover",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Media Monks Hover",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0229-cg-mouse-trail-animation-svg-js",
+    "zipName": "cg-mouse-trail-animation-svg-js.zip",
+    "folderName": "src-0229-cg-mouse-trail-animation-svg-js",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Mouse Trail Animation Svg Js",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0230-cg-neoculture-mousemove",
+    "zipName": "cg-neoculture-mousemove.zip",
+    "folderName": "src-0230-cg-neoculture-mousemove",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Neoculture Mousemove",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0231-cg-pixelated-text-hover-shaders",
+    "zipName": "cg-pixelated-text-hover-shaders.zip",
+    "folderName": "src-0231-cg-pixelated-text-hover-shaders",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Pixelated Text Hover Shaders",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0232-cg-shader-distortion-img-hover-effect",
+    "zipName": "cg-shader-distortion-img-hover-effect.zip",
+    "folderName": "src-0232-cg-shader-distortion-img-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Shader Distortion Img Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0233-cg-text-hover-effect",
+    "zipName": "cg-text-hover-effect.zip",
+    "folderName": "src-0233-cg-text-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Text Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0234-cg-yard-hover",
+    "zipName": "cg-yard-hover.zip",
+    "folderName": "src-0234-cg-yard-hover",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Cg Yard Hover",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0235-codegrid-burocratik-image-trail-js",
+    "zipName": "codegrid-burocratik-image-trail-js.zip",
+    "folderName": "src-0235-codegrid-burocratik-image-trail-js",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Burocratik Image Trail Js",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0236-codegrid-burocratik-image-trail-nextjs",
+    "zipName": "codegrid-burocratik-image-trail-nextjs.zip",
+    "folderName": "src-0236-codegrid-burocratik-image-trail-nextjs",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Burocratik Image Trail Nextjs",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0237-codegrid-cursor-driven-material-spotlight",
+    "zipName": "codegrid-cursor-driven-material-spotlight.zip",
+    "folderName": "src-0237-codegrid-cursor-driven-material-spotlight",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Cursor Driven Material Spotlight",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0238-codegrid-direction-aware-hover-effect-javascript",
+    "zipName": "codegrid-direction-aware-hover-effect-javascript.zip",
+    "folderName": "src-0238-codegrid-direction-aware-hover-effect-javascript",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Direction Aware Hover Effect Javascript",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0239-codegrid-direction-aware-hover-effect-nextjs",
+    "zipName": "codegrid-direction-aware-hover-effect-nextjs.zip",
+    "folderName": "src-0239-codegrid-direction-aware-hover-effect-nextjs",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Direction Aware Hover Effect Nextjs",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0240-codegrid-fiddle-digital-hover-effect",
+    "zipName": "codegrid-fiddle-digital-hover-effect.zip",
+    "folderName": "src-0240-codegrid-fiddle-digital-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Fiddle Digital Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0241-codegrid-griflan-hover-effect",
+    "zipName": "codegrid-griflan-hover-effect.zip",
+    "folderName": "src-0241-codegrid-griflan-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Griflan Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0242-codegrid-mosaic-flip-hover-effect",
+    "zipName": "codegrid-mosaic-flip-hover-effect.zip",
+    "folderName": "src-0242-codegrid-mosaic-flip-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Mosaic Flip Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0243-codegrid-svg-image-hover-effect",
+    "zipName": "codegrid-svg-image-hover-effect.zip",
+    "folderName": "src-0243-codegrid-svg-image-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Svg Image Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0244-codegrid-turbulent-inversion-lens-hover-effect-javascript",
+    "zipName": "codegrid-turbulent-inversion-lens-hover-effect-javascript.zip",
+    "folderName": "src-0244-codegrid-turbulent-inversion-lens-hover-effect-javascript",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Turbulent Inversion Lens Hover Effect Javascript",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0245-codegrid-turbulent-inversion-lens-hover-effect-nextjs",
+    "zipName": "codegrid-turbulent-inversion-lens-hover-effect-nextjs.zip",
+    "folderName": "src-0245-codegrid-turbulent-inversion-lens-hover-effect-nextjs",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Turbulent Inversion Lens Hover Effect Nextjs",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0246-codegrid-wildyriftian-hover-effect",
+    "zipName": "codegrid-wildyriftian-hover-effect.zip",
+    "folderName": "src-0246-codegrid-wildyriftian-hover-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Wildyriftian Hover Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0247-codegrid-3d-card-hover-effect-css",
+    "zipName": "codegrid_3d_card_hover_effect_css.zip",
+    "folderName": "src-0247-codegrid-3d-card-hover-effect-css",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid 3D Card Hover Effect Css",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0248-codegrid-mouse-trail-effect",
+    "zipName": "codegrid_mouse_trail_effect.zip",
+    "folderName": "src-0248-codegrid-mouse-trail-effect",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Mouse Trail Effect",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0249-codegrid-project-hover-animation",
+    "zipName": "codegrid_project-hover-animation.zip",
+    "folderName": "src-0249-codegrid-project-hover-animation",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Codegrid Project Hover Animation",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0250-text-hover-effect-js",
+    "zipName": "text-hover-effect-js.zip",
+    "folderName": "src-0250-text-hover-effect-js",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Text Hover Effect Js",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0251-text-shuffle-hover-codegrid",
+    "zipName": "text-shuffle-hover-codegrid.zip",
+    "folderName": "src-0251-text-shuffle-hover-codegrid",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Text Shuffle Hover Codegrid",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0252-vrtlvrld-image-hover",
+    "zipName": "vrtlvrld-image-hover.zip",
+    "folderName": "src-0252-vrtlvrld-image-hover",
+    "indexFile": "index.html",
+    "category": "05-hover-effects",
+    "kind": "source",
+    "title": "Vrtlvrld Image Hover",
+    "displayName": "Hover Effects"
+  },
+  {
+    "id": "src-0253-cg-gsap-svg-motionpath-text-animation-js-version",
+    "zipName": "cg-gsap-svg-motionpath-text-animation-js-version.zip",
+    "folderName": "src-0253-cg-gsap-svg-motionpath-text-animation-js-version",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Cg Gsap Svg Motionpath Text Animation Js Version",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0254-cg-text-shuffle-animation-updated",
+    "zipName": "cg-text-shuffle-animation-updated.zip",
+    "folderName": "src-0254-cg-text-shuffle-animation-updated",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Cg Text Shuffle Animation Updated",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0255-cg-text-shuffle-animation",
+    "zipName": "cg-text-shuffle-animation.zip",
+    "folderName": "src-0255-cg-text-shuffle-animation",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Cg Text Shuffle Animation",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0256-codegrid-landonorris-text-reveal-animation-nextjs",
+    "zipName": "codegrid-landonorris-text-reveal-animation-nextjs.zip",
+    "folderName": "src-0256-codegrid-landonorris-text-reveal-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Landonorris Text Reveal Animation Nextjs",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0257-codegrid-magnetic-marquee",
+    "zipName": "codegrid-magnetic-marquee.zip",
+    "folderName": "src-0257-codegrid-magnetic-marquee",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Magnetic Marquee",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0258-codegrid-next-text-reveal-animation",
+    "zipName": "codegrid-next-text-reveal-animation.zip",
+    "folderName": "src-0258-codegrid-next-text-reveal-animation",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Next Text Reveal Animation",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0259-codegrid-nextjs-text-reveal-animation",
+    "zipName": "codegrid-nextjs-text-reveal-animation.zip",
+    "folderName": "src-0259-codegrid-nextjs-text-reveal-animation",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Nextjs Text Reveal Animation",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0260-codegrid-telescope-text-animation-nextjs",
+    "zipName": "codegrid-telescope-text-animation-nextjs.zip",
+    "folderName": "src-0260-codegrid-telescope-text-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Telescope Text Animation Nextjs",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0261-codegrid-telescope-text-animation",
+    "zipName": "codegrid-telescope-text-animation.zip",
+    "folderName": "src-0261-codegrid-telescope-text-animation",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Telescope Text Animation",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0262-codegrid-terminal-text-reveal-animation",
+    "zipName": "codegrid-terminal-text-reveal-animation.zip",
+    "folderName": "src-0262-codegrid-terminal-text-reveal-animation",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Codegrid Terminal Text Reveal Animation",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0263-marquee",
+    "zipName": "marquee.zip",
+    "folderName": "src-0263-marquee",
+    "indexFile": "index.html",
+    "category": "06-text-animations",
+    "kind": "source",
+    "title": "Marquee",
+    "displayName": "Text Animations"
+  },
+  {
+    "id": "src-0264-cg-absolute-cards",
+    "zipName": "cg-absolute-cards.zip",
+    "folderName": "src-0264-cg-absolute-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Absolute Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0265-cg-capsules-sticky-cards-javascript",
+    "zipName": "cg-capsules-sticky-cards-javascript.zip",
+    "folderName": "src-0265-cg-capsules-sticky-cards-javascript",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Capsules Sticky Cards Javascript",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0266-cg-cards",
+    "zipName": "cg-cards.zip",
+    "folderName": "src-0266-cg-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0267-cg-lusion-cards",
+    "zipName": "cg-lusion-cards.zip",
+    "folderName": "src-0267-cg-lusion-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Lusion Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0268-cg-phive-sticky-cards-nextjs",
+    "zipName": "cg-phive-sticky-cards-nextjs.zip",
+    "folderName": "src-0268-cg-phive-sticky-cards-nextjs",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Phive Sticky Cards Nextjs",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0269-cg-phive-sticky-cards",
+    "zipName": "cg-phive-sticky-cards.zip",
+    "folderName": "src-0269-cg-phive-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Phive Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0270-cg-react-cards",
+    "zipName": "cg-react-cards.zip",
+    "folderName": "src-0270-cg-react-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg React Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0271-cg-serious-business-sticky-cards",
+    "zipName": "cg-serious-business-sticky-cards.zip",
+    "folderName": "src-0271-cg-serious-business-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Serious Business Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0272-cg-sticky-cards",
+    "zipName": "cg-sticky-cards.zip",
+    "folderName": "src-0272-cg-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0273-cg-sticky-image-minimap",
+    "zipName": "cg-sticky-image-minimap.zip",
+    "folderName": "src-0273-cg-sticky-image-minimap",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Sticky Image Minimap",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0274-cg-sticky-sidebar-minimap",
+    "zipName": "cg-sticky-sidebar-minimap.zip",
+    "folderName": "src-0274-cg-sticky-sidebar-minimap",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Cg Sticky Sidebar Minimap",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0275-codegrid-brandappart-sticky-cards",
+    "zipName": "codegrid-brandappart-sticky-cards.zip",
+    "folderName": "src-0275-codegrid-brandappart-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Brandappart Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0276-codegrid-maximatherapy-sticky-cards",
+    "zipName": "codegrid-maximatherapy-sticky-cards.zip",
+    "folderName": "src-0276-codegrid-maximatherapy-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Maximatherapy Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0277-codegrid-nextjs-absolute-cards",
+    "zipName": "codegrid-nextjs-absolute-cards.zip",
+    "folderName": "src-0277-codegrid-nextjs-absolute-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Nextjs Absolute Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0278-codegrid-nextjs-cards",
+    "zipName": "codegrid-nextjs-cards.zip",
+    "folderName": "src-0278-codegrid-nextjs-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Nextjs Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0279-codegrid-nextjs-sticky-cards",
+    "zipName": "codegrid-nextjs-sticky-cards.zip",
+    "folderName": "src-0279-codegrid-nextjs-sticky-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Nextjs Sticky Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0280-codegrid-spencergabor-magnetic-cards",
+    "zipName": "codegrid-spencergabor-magnetic-cards.zip",
+    "folderName": "src-0280-codegrid-spencergabor-magnetic-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Spencergabor Magnetic Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0281-codegrid-sticky-cards-ashfall-rebuild-js",
+    "zipName": "codegrid-sticky-cards-ashfall-rebuild-js.zip",
+    "folderName": "src-0281-codegrid-sticky-cards-ashfall-rebuild-js",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Sticky Cards Ashfall Rebuild Js",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0282-codegrid-sticky-cards-ashfall-rebuild-nextjs",
+    "zipName": "codegrid-sticky-cards-ashfall-rebuild-nextjs.zip",
+    "folderName": "src-0282-codegrid-sticky-cards-ashfall-rebuild-nextjs",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Sticky Cards Ashfall Rebuild Nextjs",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0283-codegrid-sticky-cards-js",
+    "zipName": "codegrid-sticky-cards-js.zip",
+    "folderName": "src-0283-codegrid-sticky-cards-js",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Sticky Cards Js",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0284-codegrid-sticky-cards-nextjs",
+    "zipName": "codegrid-sticky-cards-nextjs.zip",
+    "folderName": "src-0284-codegrid-sticky-cards-nextjs",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Codegrid Sticky Cards Nextjs",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0285-verse-cards",
+    "zipName": "verse-cards.zip",
+    "folderName": "src-0285-verse-cards",
+    "indexFile": "index.html",
+    "category": "07-cards-sticky",
+    "kind": "source",
+    "title": "Verse Cards",
+    "displayName": "Cards & Sticky"
+  },
+  {
+    "id": "src-0286-cg-hypnotic-gallery-gsap-flip",
+    "zipName": "cg--hypnotic-gallery-gsap-flip.zip",
+    "folderName": "src-0286-cg-hypnotic-gallery-gsap-flip",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg  Hypnotic Gallery Gsap Flip",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0287-cg-3d-circular-img-gallery",
+    "zipName": "cg-3d-circular-img-gallery.zip",
+    "folderName": "src-0287-cg-3d-circular-img-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg 3D Circular Img Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0288-cg-chromatic-aberration-gallery",
+    "zipName": "cg-chromatic-aberration-gallery.zip",
+    "folderName": "src-0288-cg-chromatic-aberration-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Chromatic Aberration Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0289-cg-circular-img-gallery",
+    "zipName": "cg-circular-img-gallery.zip",
+    "folderName": "src-0289-cg-circular-img-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Circular Img Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0290-cg-gallery-of-fame",
+    "zipName": "cg-gallery-of-fame.zip",
+    "folderName": "src-0290-cg-gallery-of-fame",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Gallery Of Fame",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0291-cg-image-gallery-lightbox",
+    "zipName": "cg-image-gallery-lightbox.zip",
+    "folderName": "src-0291-cg-image-gallery-lightbox",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Image Gallery Lightbox",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0292-cg-kaitonote-3d-gallery-showcase-scroll-animation-nextjs",
+    "zipName": "cg-kaitonote-3d-gallery-showcase-scroll-animation-nextjs.zip",
+    "folderName": "src-0292-cg-kaitonote-3d-gallery-showcase-scroll-animation-nextjs",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Kaitonote 3D Gallery Showcase Scroll Animation Nextjs",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0293-cg-kaitonote-3d-gallery-showcase-scroll-animation",
+    "zipName": "cg-kaitonote-3d-gallery-showcase-scroll-animation.zip",
+    "folderName": "src-0293-cg-kaitonote-3d-gallery-showcase-scroll-animation",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Kaitonote 3D Gallery Showcase Scroll Animation",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0294-cg-lightbox",
+    "zipName": "cg-lightbox.zip",
+    "folderName": "src-0294-cg-lightbox",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Lightbox",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0295-cg-phantom-gallery-javascript",
+    "zipName": "cg-phantom-gallery-javascript.zip",
+    "folderName": "src-0295-cg-phantom-gallery-javascript",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Phantom Gallery Javascript",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0296-cg-threejs-video-gallery",
+    "zipName": "cg-threejs-video-gallery.zip",
+    "folderName": "src-0296-cg-threejs-video-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Cg Threejs Video Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0297-codegrid-infinite-draggable-image-gallery-javascript",
+    "zipName": "codegrid-infinite-draggable-image-gallery-javascript.zip",
+    "folderName": "src-0297-codegrid-infinite-draggable-image-gallery-javascript",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Infinite Draggable Image Gallery Javascript",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0298-codegrid-infinite-draggable-image-gallery-nextjs",
+    "zipName": "codegrid-infinite-draggable-image-gallery-nextjs.zip",
+    "folderName": "src-0298-codegrid-infinite-draggable-image-gallery-nextjs",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Infinite Draggable Image Gallery Nextjs",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0299-codegrid-inkwell-image-gallery-javascript",
+    "zipName": "codegrid-inkwell-image-gallery-javascript.zip",
+    "folderName": "src-0299-codegrid-inkwell-image-gallery-javascript",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Inkwell Image Gallery Javascript",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0300-codegrid-products-lightbox-gallery",
+    "zipName": "codegrid-products-lightbox-gallery.zip",
+    "folderName": "src-0300-codegrid-products-lightbox-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Products Lightbox Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0301-codegrid-responsive-lightbox-gallery",
+    "zipName": "codegrid-responsive-lightbox-gallery.zip",
+    "folderName": "src-0301-codegrid-responsive-lightbox-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Responsive Lightbox Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0302-codegrid-scroll-wave-image-gallery",
+    "zipName": "codegrid-scroll-wave-image-gallery.zip",
+    "folderName": "src-0302-codegrid-scroll-wave-image-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Scroll Wave Image Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0303-codegrid-studiodialect-image-gallery",
+    "zipName": "codegrid-studiodialect-image-gallery.zip",
+    "folderName": "src-0303-codegrid-studiodialect-image-gallery",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Codegrid Studiodialect Image Gallery",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0304-gallery-awwwards-rebuild",
+    "zipName": "gallery-awwwards-rebuild.zip",
+    "folderName": "src-0304-gallery-awwwards-rebuild",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Gallery Awwwards Rebuild",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0305-lightbox",
+    "zipName": "lightbox.zip",
+    "folderName": "src-0305-lightbox",
+    "indexFile": "index.html",
+    "category": "08-galleries",
+    "kind": "source",
+    "title": "Lightbox",
+    "displayName": "Galleries"
+  },
+  {
+    "id": "src-0306-block-reveal-page-transition",
+    "zipName": "block-reveal-page-transition.zip",
+    "folderName": "src-0306-block-reveal-page-transition",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Block Reveal Page Transition",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0307-cg-barba-js-page-transitions",
+    "zipName": "cg-barba-js-page-transitions.zip",
+    "folderName": "src-0307-cg-barba-js-page-transitions",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Cg Barba Js Page Transitions",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0308-cg-js-page-transitions",
+    "zipName": "cg-js-page-transitions.zip",
+    "folderName": "src-0308-cg-js-page-transitions",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Cg Js Page Transitions",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0309-cg-page-transitions-view-transition-api",
+    "zipName": "cg-page-transitions-view-transition-api.zip",
+    "folderName": "src-0309-cg-page-transitions-view-transition-api",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Cg Page Transitions View Transition Api",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0310-cg-page-transitions",
+    "zipName": "cg-page-transitions.zip",
+    "folderName": "src-0310-cg-page-transitions",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Cg Page Transitions",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0311-codegrid-grid-shutter-page-transition",
+    "zipName": "codegrid-grid-shutter-page-transition.zip",
+    "folderName": "src-0311-codegrid-grid-shutter-page-transition",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Codegrid Grid Shutter Page Transition",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0312-codegrid-madeinuxstudio-page-transition-nextjs",
+    "zipName": "codegrid-madeinuxstudio-page-transition-nextjs.zip",
+    "folderName": "src-0312-codegrid-madeinuxstudio-page-transition-nextjs",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Codegrid Madeinuxstudio Page Transition Nextjs",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0313-codegrid-nextjs-scroll-driven-page-transitions",
+    "zipName": "codegrid-nextjs-scroll-driven-page-transitions.zip",
+    "folderName": "src-0313-codegrid-nextjs-scroll-driven-page-transitions",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Codegrid Nextjs Scroll Driven Page Transitions",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0314-codegrid-svg-stroke-page-transition-nextjs",
+    "zipName": "codegrid-svg-stroke-page-transition-nextjs.zip",
+    "folderName": "src-0314-codegrid-svg-stroke-page-transition-nextjs",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Codegrid Svg Stroke Page Transition Nextjs",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0315-codegrid-zajno-page-transitions-nextjs",
+    "zipName": "codegrid-zajno-page-transitions-nextjs.zip",
+    "folderName": "src-0315-codegrid-zajno-page-transitions-nextjs",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Codegrid Zajno Page Transitions Nextjs",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0316-nextjs-view-transitions",
+    "zipName": "nextjs-view-transitions.zip",
+    "folderName": "src-0316-nextjs-view-transitions",
+    "indexFile": "index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "Nextjs View Transitions",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0317-react-page-transition",
+    "zipName": "react-page-transition.zip",
+    "folderName": "src-0317-react-page-transition",
+    "indexFile": "public/index.html",
+    "category": "09-page-transitions",
+    "kind": "source",
+    "title": "React Page Transition",
+    "displayName": "Page Transitions"
+  },
+  {
+    "id": "src-0318-cg-3d-garage",
+    "zipName": "cg-3d-garage.zip",
+    "folderName": "src-0318-cg-3d-garage",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg 3D Garage",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0319-cg-asset-orb-js",
+    "zipName": "cg-asset-orb-js.zip",
+    "folderName": "src-0319-cg-asset-orb-js",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Asset Orb Js",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0320-cg-asset-orb-next",
+    "zipName": "cg-asset-orb-next.zip",
+    "folderName": "src-0320-cg-asset-orb-next",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Asset Orb Next",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0321-cg-interactive-particle-logo-nextjs",
+    "zipName": "cg-interactive-particle-logo-nextjs.zip",
+    "folderName": "src-0321-cg-interactive-particle-logo-nextjs",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Interactive Particle Logo Nextjs",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0322-cg-interactive-particle-logo",
+    "zipName": "cg-interactive-particle-logo.zip",
+    "folderName": "src-0322-cg-interactive-particle-logo",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Interactive Particle Logo",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0323-cg-lusion-fluid-particles",
+    "zipName": "cg-lusion-fluid-particles.zip",
+    "folderName": "src-0323-cg-lusion-fluid-particles",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Lusion Fluid Particles",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0324-cg-parallax-snap-infinite-scroll",
+    "zipName": "cg-parallax-snap-infinite-scroll.zip",
+    "folderName": "src-0324-cg-parallax-snap-infinite-scroll",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Parallax Snap Infinite Scroll",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0325-cg-webgl-interactive-background-nextjs",
+    "zipName": "cg-webgl-interactive-background-nextjs.zip",
+    "folderName": "src-0325-cg-webgl-interactive-background-nextjs",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Webgl Interactive Background Nextjs",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0326-cg-webgl-interactive-gradient",
+    "zipName": "cg-webgl-interactive-gradient.zip",
+    "folderName": "src-0326-cg-webgl-interactive-gradient",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Cg Webgl Interactive Gradient",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0327-codegrid-3d-crt-display",
+    "zipName": "codegrid-3d-crt-display.zip",
+    "folderName": "src-0327-codegrid-3d-crt-display",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid 3D Crt Display",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0328-codegrid-3d-parallax-footer",
+    "zipName": "codegrid-3d-parallax-footer.zip",
+    "folderName": "src-0328-codegrid-3d-parallax-footer",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid 3D Parallax Footer",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0329-codegrid-cappen-fluid-simulation",
+    "zipName": "codegrid-cappen-fluid-simulation.zip",
+    "folderName": "src-0329-codegrid-cappen-fluid-simulation",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid Cappen Fluid Simulation",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0330-codegrid-fractal-glass-effect-nextjs",
+    "zipName": "codegrid-fractal-glass-effect-nextjs.zip",
+    "folderName": "src-0330-codegrid-fractal-glass-effect-nextjs",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid Fractal Glass Effect Nextjs",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0331-codegrid-fractal-glass-effect",
+    "zipName": "codegrid-fractal-glass-effect.zip",
+    "folderName": "src-0331-codegrid-fractal-glass-effect",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid Fractal Glass Effect",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0332-codegrid-infinite-parallax-scroll-with-minimap",
+    "zipName": "codegrid-infinite-parallax-scroll-with-minimap.zip",
+    "folderName": "src-0332-codegrid-infinite-parallax-scroll-with-minimap",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid Infinite Parallax Scroll With Minimap",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0333-codegrid-nextjs-parallax-effect",
+    "zipName": "codegrid-nextjs-parallax-effect.zip",
+    "folderName": "src-0333-codegrid-nextjs-parallax-effect",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Codegrid Nextjs Parallax Effect",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0334-parallax",
+    "zipName": "parallax.zip",
+    "folderName": "src-0334-parallax",
+    "indexFile": "index.html",
+    "category": "10-3d-threejs",
+    "kind": "source",
+    "title": "Parallax",
+    "displayName": "3D & Three.js"
+  },
+  {
+    "id": "src-0335-",
+    "zipName": "----.zip",
+    "folderName": "src-0335-",
+    "indexFile": "public/index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0336-01",
+    "zipName": "01..zip",
+    "folderName": "src-0336-01",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "01.",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0337-chiara",
+    "zipName": "CHIARA.zip",
+    "folderName": "src-0337-chiara",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Chiara",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0338-circular",
+    "zipName": "Circular.zip",
+    "folderName": "src-0338-circular",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Circular",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0339-grid",
+    "zipName": "GRID.zip",
+    "folderName": "src-0339-grid",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Grid",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0340-gsap-1",
+    "zipName": "GSAP-1.zip",
+    "folderName": "src-0340-gsap-1",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Gsap 1",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0341-gsap",
+    "zipName": "GSAP.zip",
+    "folderName": "src-0341-gsap",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Gsap",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0342-js",
+    "zipName": "JS.zip",
+    "folderName": "src-0342-js",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Js",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0343-mouse",
+    "zipName": "MOUSE.zip",
+    "folderName": "src-0343-mouse",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Mouse",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0344-responsive-1",
+    "zipName": "Responsive-1.zip",
+    "folderName": "src-0344-responsive-1",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Responsive 1",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0345-salvador",
+    "zipName": "SALVADOR.zip",
+    "folderName": "src-0345-salvador",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Salvador",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0346-video",
+    "zipName": "VIDEO.zip",
+    "folderName": "src-0346-video",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Video",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0347-website",
+    "zipName": "WEBSITE.zip",
+    "folderName": "src-0347-website",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Website",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0348-amw",
+    "zipName": "amw.zip",
+    "folderName": "src-0348-amw",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Amw",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0349-awwwards",
+    "zipName": "awwwards.zip",
+    "folderName": "src-0349-awwwards",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Awwwards",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0350-brutalist",
+    "zipName": "brutalist.zip",
+    "folderName": "src-0350-brutalist",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Brutalist",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0351-cg-brutalist-corridor",
+    "zipName": "cg-brutalist-corridor.zip",
+    "folderName": "src-0351-cg-brutalist-corridor",
+    "indexFile": "cg-brutalist-corridor-scene/index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Cg Brutalist Corridor",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0352-cg-lp-gsap-responsive",
+    "zipName": "cg-lp-gsap-responsive.zip",
+    "folderName": "src-0352-cg-lp-gsap-responsive",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Cg Lp Gsap Responsive",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0353-cg-oshane-howard-lp-responsive",
+    "zipName": "cg-oshane-howard-lp-responsive.zip",
+    "folderName": "src-0353-cg-oshane-howard-lp-responsive",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Cg Oshane Howard Lp Responsive",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0354-cg",
+    "zipName": "cg.zip",
+    "folderName": "src-0354-cg",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Cg",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0355-digitize",
+    "zipName": "digitize.zip",
+    "folderName": "src-0355-digitize",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Digitize",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0356-full",
+    "zipName": "full.zip",
+    "folderName": "src-0356-full",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Full",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0357-gsap-2",
+    "zipName": "gsap-2.zip",
+    "folderName": "src-0357-gsap-2",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Gsap 2",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0358-infinite",
+    "zipName": "infinite.zip",
+    "folderName": "src-0358-infinite",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Infinite",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0359-link",
+    "zipName": "link.zip",
+    "folderName": "src-0359-link",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Link",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0360-logo",
+    "zipName": "logo.zip",
+    "folderName": "src-0360-logo",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Logo",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0361-macos-dock-js",
+    "zipName": "macos-dock-js.zip",
+    "folderName": "src-0361-macos-dock-js",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Macos Dock Js",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0362-minimalist-portfolio-css-codegrid",
+    "zipName": "minimalist-portfolio-css-codegrid.zip",
+    "folderName": "src-0362-minimalist-portfolio-css-codegrid",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Minimalist Portfolio Css Codegrid",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0363-minimalist",
+    "zipName": "minimalist.zip",
+    "folderName": "src-0363-minimalist",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Minimalist",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0364-modern-1",
+    "zipName": "modern-1.zip",
+    "folderName": "src-0364-modern-1",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Modern 1",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0365-modern",
+    "zipName": "modern.zip",
+    "folderName": "src-0365-modern",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Modern",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0366-plastic-1",
+    "zipName": "plastic-1.zip",
+    "folderName": "src-0366-plastic-1",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Plastic 1",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0367-plastic",
+    "zipName": "plastic.zip",
+    "folderName": "src-0367-plastic",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Plastic",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0368-play",
+    "zipName": "play.zip",
+    "folderName": "src-0368-play",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Play",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0369-portfolio",
+    "zipName": "portfolio.zip",
+    "folderName": "src-0369-portfolio",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Portfolio",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0370-refix",
+    "zipName": "refix.zip",
+    "folderName": "src-0370-refix",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Refix",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0371-responsive-2",
+    "zipName": "responsive-2.zip",
+    "folderName": "src-0371-responsive-2",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Responsive 2",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0372-responsive",
+    "zipName": "responsive.zip",
+    "folderName": "src-0372-responsive",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Responsive",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0373-subscription",
+    "zipName": "subscription.zip",
+    "folderName": "src-0373-subscription",
+    "indexFile": "index.html",
+    "category": "11-miscellaneous",
+    "kind": "source",
+    "title": "Subscription",
+    "displayName": "Miscellaneous"
+  },
+  {
+    "id": "src-0374-cg-preload-lp",
+    "zipName": "cg-preload-lp.zip",
+    "folderName": "src-0374-cg-preload-lp",
+    "indexFile": "index.html",
+    "category": "12-preloaders",
+    "kind": "source",
+    "title": "Cg Preload Lp",
+    "displayName": "Preloaders"
+  },
+  {
+    "id": "src-0375-codegrid-maxmilkin-preloader",
+    "zipName": "codegrid-maxmilkin-preloader.zip",
+    "folderName": "src-0375-codegrid-maxmilkin-preloader",
+    "indexFile": "index.html",
+    "category": "12-preloaders",
+    "kind": "source",
+    "title": "Codegrid Maxmilkin Preloader",
+    "displayName": "Preloaders"
+  },
+  {
+    "id": "src-0376-dima-kutsenko-preloader",
+    "zipName": "dima-kutsenko-preloader.zip",
+    "folderName": "src-0376-dima-kutsenko-preloader",
+    "indexFile": "index.html",
+    "category": "12-preloaders",
+    "kind": "source",
+    "title": "Dima Kutsenko Preloader",
+    "displayName": "Preloaders"
+  },
+  {
+    "id": "src-0377-31012024-contact-form",
+    "zipName": "31012024-Contact-Form.zip",
+    "folderName": "src-0377-31012024-contact-form",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "31012024 Contact Form",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0378-product",
+    "zipName": "PRODUCT.zip",
+    "folderName": "src-0378-product",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Product",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0379-project",
+    "zipName": "PROJECT.zip",
+    "folderName": "src-0379-project",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Project",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0380-product-1",
+    "zipName": "Product-1.zip",
+    "folderName": "src-0380-product-1",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Product 1",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0381-basement-contact-us-page",
+    "zipName": "basement-contact-us-page.zip",
+    "folderName": "src-0381-basement-contact-us-page",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Basement Contact Us Page",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0382-cg-responsive-team-page",
+    "zipName": "cg-responsive-team-page.zip",
+    "folderName": "src-0382-cg-responsive-team-page",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Cg Responsive Team Page",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0383-codegrid-interactive-team-section-javascript",
+    "zipName": "codegrid-interactive-team-section-javascript.zip",
+    "folderName": "src-0383-codegrid-interactive-team-section-javascript",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Codegrid Interactive Team Section Javascript",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0384-codegrid-interactive-team-section-nextjs",
+    "zipName": "codegrid-interactive-team-section-nextjs.zip",
+    "folderName": "src-0384-codegrid-interactive-team-section-nextjs",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Codegrid Interactive Team Section Nextjs",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0385-codegrid-workingstiff-animated-teams-section-nextjs",
+    "zipName": "codegrid-workingstiff-animated-teams-section-nextjs.zip",
+    "folderName": "src-0385-codegrid-workingstiff-animated-teams-section-nextjs",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Codegrid Workingstiff Animated Teams Section Nextjs",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0386-codegrid-workingstiff-animated-teams-section",
+    "zipName": "codegrid-workingstiff-animated-teams-section.zip",
+    "folderName": "src-0386-codegrid-workingstiff-animated-teams-section",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Codegrid Workingstiff Animated Teams Section",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0387-contact",
+    "zipName": "contact.zip",
+    "folderName": "src-0387-contact",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Contact",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0388-project-page-codegrid",
+    "zipName": "project-page-codegrid.zip",
+    "folderName": "src-0388-project-page-codegrid",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Project Page Codegrid",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0389-project-page-overlay-animation",
+    "zipName": "project-page-overlay-animation.zip",
+    "folderName": "src-0389-project-page-overlay-animation",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Project Page Overlay Animation",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0390-project-page",
+    "zipName": "project-page.zip",
+    "folderName": "src-0390-project-page",
+    "indexFile": "index.html",
+    "category": "13-ui-sections",
+    "kind": "source",
+    "title": "Project Page",
+    "displayName": "UI Sections"
+  },
+  {
+    "id": "src-0391-cg-javascript-responsive-minimap",
+    "zipName": "cg-javascript-responsive-minimap.zip",
+    "folderName": "src-0391-cg-javascript-responsive-minimap",
+    "indexFile": "index.html",
+    "category": "14-minimap",
+    "kind": "source",
+    "title": "Cg Javascript Responsive Minimap",
+    "displayName": "Minimap"
+  },
+  {
+    "id": "src-0392-cg-js-image-minimap",
+    "zipName": "cg-js-image-minimap.zip",
+    "folderName": "src-0392-cg-js-image-minimap",
+    "indexFile": "index.html",
+    "category": "14-minimap",
+    "kind": "source",
+    "title": "Cg Js Image Minimap",
+    "displayName": "Minimap"
+  },
+  {
+    "id": "src-0393-draggable",
+    "zipName": "Draggable.zip",
+    "folderName": "src-0393-draggable",
+    "indexFile": "index.html",
+    "category": "15-draggable",
+    "kind": "source",
+    "title": "Draggable",
+    "displayName": "Draggable"
+  },
+  {
+    "id": "src-0394-28012024-canvas-draw-animation",
+    "zipName": "28012024-Canvas-Draw-Animation.zip",
+    "folderName": "src-0394-28012024-canvas-draw-animation",
+    "indexFile": "index.html",
+    "category": "16-canvas",
+    "kind": "source",
+    "title": "28012024 Canvas Draw Animation",
+    "displayName": "Canvas"
+  },
+  {
+    "id": "src-0395-canvas-draw",
+    "zipName": "canvas-draw.zip",
+    "folderName": "src-0395-canvas-draw",
+    "indexFile": "index.html",
+    "category": "16-canvas",
+    "kind": "source",
+    "title": "Canvas Draw",
+    "displayName": "Canvas"
+  },
+  {
+    "id": "src-0396-cg-canvas-animated-gradients",
+    "zipName": "cg-canvas-animated-gradients.zip",
+    "folderName": "src-0396-cg-canvas-animated-gradients",
+    "indexFile": "index.html",
+    "category": "16-canvas",
+    "kind": "source",
+    "title": "Cg Canvas Animated Gradients",
+    "displayName": "Canvas"
+  },
+  {
+    "id": "src-0397-cg-react-pan-canvas",
+    "zipName": "cg-react-pan-canvas.zip",
+    "folderName": "src-0397-cg-react-pan-canvas",
+    "indexFile": "index.html",
+    "category": "16-canvas",
+    "kind": "source",
+    "title": "Cg React Pan Canvas",
+    "displayName": "Canvas"
+  },
+  {
+    "id": "src-0398-offcanvas",
+    "zipName": "offcanvas.zip",
+    "folderName": "src-0398-offcanvas",
+    "indexFile": "index.html",
+    "category": "16-canvas",
+    "kind": "source",
+    "title": "Offcanvas",
+    "displayName": "Canvas"
+  },
+  {
+    "id": "src-0399-cg-lp-shuffle-reveal",
+    "zipName": "cg-lp-shuffle-reveal.zip",
+    "folderName": "src-0399-cg-lp-shuffle-reveal",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Cg Lp Shuffle Reveal",
+    "displayName": "Clip & Mask"
+  },
+  {
+    "id": "src-0400-cg-mask-reveal",
+    "zipName": "cg-mask-reveal.zip",
+    "folderName": "src-0400-cg-mask-reveal",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Cg Mask Reveal",
+    "displayName": "Clip & Mask"
+  },
+  {
+    "id": "src-0401-codegrid-ascii-image-reveal-effect",
+    "zipName": "codegrid-ascii-image-reveal-effect.zip",
+    "folderName": "src-0401-codegrid-ascii-image-reveal-effect",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Codegrid Ascii Image Reveal Effect",
+    "displayName": "Clip & Mask"
+  },
+  {
+    "id": "src-0402-codegrid-ashleybrookecs-smudge-revealer",
+    "zipName": "codegrid-ashleybrookecs-smudge-revealer.zip",
+    "folderName": "src-0402-codegrid-ashleybrookecs-smudge-revealer",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Codegrid Ashleybrookecs Smudge Revealer",
+    "displayName": "Clip & Mask"
+  },
+  {
+    "id": "src-0403-codegrid-kvs-studio-image-reveal",
+    "zipName": "codegrid-kvs-studio-image-reveal.zip",
+    "folderName": "src-0403-codegrid-kvs-studio-image-reveal",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Codegrid Kvs Studio Image Reveal",
+    "displayName": "Clip & Mask"
+  },
+  {
+    "id": "src-0404-gsap-click-reveal",
+    "zipName": "gsap-click-reveal.zip",
+    "folderName": "src-0404-gsap-click-reveal",
+    "indexFile": "index.html",
+    "category": "17-clip-mask",
+    "kind": "source",
+    "title": "Gsap Click Reveal",
+    "displayName": "Clip & Mask"
+  }
+]
