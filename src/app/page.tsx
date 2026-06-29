@@ -77,6 +77,11 @@ export default function Home() {
                 <div className="text-xs text-zinc-500 mt-0.5">{s.label}</div>
               </div>
             ))}
+            <Link href="/stats" className="flex items-center">
+              <div className="text-xs text-[#a78bfa] hover:text-[#c4b5fd] transition-colors border border-[#8b5cf6]/20 rounded-lg px-3 py-1.5">
+                View Stats →
+              </div>
+            </Link>
           </div>
         </div>
       </section>

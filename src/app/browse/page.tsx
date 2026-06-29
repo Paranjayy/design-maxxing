@@ -1,5 +1,7 @@
 import Link from "next/link";
 import { getSourceCategories, getItemsByFilter } from "@/lib/items";
+import InstantSearch from "@/components/InstantSearch";
+import { getItems } from "@/lib/items";
 
 function formatCatName(name: string): string {
   return name
@@ -21,6 +23,7 @@ export default async function BrowsePage({
   const { cat, kind, q, sort } = await searchParams;
   const categories = getSourceCategories();
   const items = getItemsByFilter({ category: cat, kind, q, sort });
+  const allItems = getItems();
 
   const buildHref = (overrides: Record<string, string | undefined>) => {
     const params = new URLSearchParams();
@@ -31,8 +34,19 @@ export default async function BrowsePage({
     return `/browse?${params.toString()}`;
   };
 
+  const searchItems = allItems.map((item) => ({
+    id: item.id,
+    title: item.title || item.zipName.replace(/\.zip$/, ""),
+    category: item.category,
+    kind: item.kind,
+    folderName: item.folderName,
+    indexFile: item.indexFile,
+  }));
+
   return (
     <div className="min-h-screen flex flex-col">
+      <InstantSearch items={searchItems} />
+
       {/* Sticky header */}
       <header className="sticky top-0 z-30 bg-[#080808]/80 backdrop-blur-xl border-b border-white/5">
         <div className="max-w-7xl mx-auto px-5 h-14 flex items-center gap-4">
@@ -116,6 +130,13 @@ export default async function BrowsePage({
             </h1>
             <p className="text-sm text-zinc-500 mt-1">
               {items.length} item{items.length !== 1 ? "s" : ""}
+              <span className="text-zinc-700 ml-2">
+                Press{" "}
+                <kbd className="px-1 py-0.5 rounded bg-white/5 text-zinc-500 font-mono text-[10px]">
+                  /
+                </kbd>{" "}
+                to quick search
+              </span>
             </p>
           </div>
           <div className="flex items-center gap-1 bg-white/5 rounded-lg p-1">

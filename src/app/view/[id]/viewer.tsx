@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import ShortcutsModal from "@/components/ShortcutsModal";
 
 interface ViewerProps {
   src: string;
@@ -16,6 +17,18 @@ interface ViewerProps {
 }
 
 type Mode = "desktop" | "tablet" | "mobile" | "full";
+
+function getRandomItem(): { id: string; title: string } | null {
+  try {
+    const stored = window.sessionStorage.getItem("items-ids");
+    if (!stored) return null;
+    const ids: string[] = JSON.parse(stored);
+    if (!ids.length) return null;
+    return { id: ids[Math.floor(Math.random() * ids.length)], title: "" };
+  } catch {
+    return null;
+  }
+}
 
 export default function Viewer({
   src,
@@ -32,7 +45,19 @@ export default function Viewer({
   const [isLoading, setIsLoading] = useState(true);
   const [refreshKey, setRefreshKey] = useState(0);
   const [showChrome, setShowChrome] = useState(true);
-  const [showNav, setShowNav] = useState(false);
+  const [bgDark, setBgDark] = useState(true);
+  const [showShortcuts, setShowShortcuts] = useState(false);
+  const [randomHref, setRandomHref] = useState<string | null>(null);
+
+  // Fetch a random item id on mount
+  useEffect(() => {
+    fetch("/api/random-item")
+      .then((r) => r.json())
+      .then((data) => {
+        if (data?.id) setRandomHref(`/view/${data.id}`);
+      })
+      .catch(() => {});
+  }, []);
 
   // Auto-hide chrome in full mode
   useEffect(() => {
@@ -59,6 +84,15 @@ export default function Viewer({
     function handleKey(e: KeyboardEvent) {
       const tag = (e.target as HTMLElement).tagName;
       if (tag === "INPUT" || tag === "TEXTAREA") return;
+
+      if (e.key === "?") {
+        e.preventDefault();
+        setShowShortcuts((s) => !s);
+        return;
+      }
+
+      if (showShortcuts) return;
+
       if (e.key === "1") setMode("desktop");
       if (e.key === "2") setMode("tablet");
       if (e.key === "3") setMode("mobile");
@@ -76,39 +110,58 @@ export default function Viewer({
     }
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
-  }, [prevId, nextId]);
+  }, [prevId, nextId, showShortcuts]);
 
   const iframeWidth =
     mode === "mobile" ? "375px" : mode === "tablet" ? "768px" : "100%";
 
+  const bgColor = bgDark ? "#0c0c0c" : "#ffffff";
+  const loadingBg = bgDark ? "#0c0c0c" : "#f5f5f5";
+
   return (
     <>
+      <ShortcutsModal
+        isOpen={showShortcuts}
+        onClose={() => setShowShortcuts(false)}
+      />
+
       {/* Iframe */}
-      <div className="flex-1 relative bg-[#0c0c0c] overflow-hidden">
+      <div
+        className="flex-1 relative overflow-hidden transition-colors duration-300"
+        style={{ backgroundColor: bgColor }}
+      >
         {isLoading && (
-          <div className="absolute inset-0 flex items-center justify-center z-0 bg-[#0c0c0c]">
+          <div
+            className="absolute inset-0 flex items-center justify-center z-0 transition-colors duration-300"
+            style={{ backgroundColor: loadingBg }}
+          >
             <div className="flex flex-col items-center gap-3">
               <div className="w-6 h-6 border-2 border-[#8b5cf6]/30 border-t-[#8b5cf6] rounded-full animate-spin" />
-              <div className="text-zinc-500 text-xs">{title}</div>
+              <div
+                className={`text-xs ${bgDark ? "text-zinc-500" : "text-zinc-400"}`}
+              >
+                {title}
+              </div>
             </div>
           </div>
         )}
         <iframe
           key={refreshKey}
           src={src}
-          className="absolute inset-0 w-full h-full border-0 bg-white transition-all duration-300"
+          className="absolute inset-0 w-full h-full border-0 transition-all duration-300"
           style={{
             width: mode === "full" ? "100%" : iframeWidth,
             maxWidth: "100%",
             left: mode === "full" ? 0 : "50%",
             transform: mode === "full" ? "none" : "translateX(-50%)",
+            backgroundColor: bgDark ? "#ffffff" : "#0c0c0c",
           }}
           sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
           onLoad={() => setIsLoading(false)}
           title={title}
         />
 
-        {/* Side nav arrows (on hover zones) */}
+        {/* Side nav arrows */}
         {prevId && (
           <Link
             href={`/view/${prevId}`}
@@ -160,6 +213,24 @@ export default function Viewer({
               {title}
             </div>
             <div className="flex-1" />
+            <button
+              onClick={() => setBgDark((d) => !d)}
+              className="px-2 py-1 rounded-md text-sm hover:bg-white/10 transition-colors"
+              title={
+                bgDark
+                  ? "Switch to light background"
+                  : "Switch to dark background"
+              }
+            >
+              {bgDark ? "☀️" : "🌙"}
+            </button>
+            <button
+              onClick={() => setShowShortcuts(true)}
+              className="px-2 py-1 rounded-md text-xs font-medium text-zinc-500 hover:text-white hover:bg-white/10 transition-colors"
+              title="Keyboard shortcuts (?)"
+            >
+              ?
+            </button>
             <span
               className={`px-2 py-0.5 rounded text-[10px] font-medium ${kind === "template" ? "bg-[#10b981]/15 text-[#34d399]" : "bg-[#8b5cf6]/15 text-[#a78bfa]"}`}
             >
@@ -214,12 +285,21 @@ export default function Viewer({
               </Link>
             )}
             <div className="w-px h-5 bg-white/10 mx-1" />
+            {randomHref && (
+              <Link
+                href={randomHref}
+                className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+                title="Random project"
+              >
+                🎲 Random
+              </Link>
+            )}
             <button
               onClick={() => {
                 setRefreshKey((k) => k + 1);
                 setIsLoading(true);
               }}
-              className="px-3 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+              className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
               title="Refresh (⌘R)"
             >
               ↻ Refresh
@@ -228,7 +308,7 @@ export default function Viewer({
               href={src}
               target="_blank"
               rel="noopener noreferrer"
-              className="px-3 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+              className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
             >
               ↗ Open Raw
             </a>
@@ -243,9 +323,9 @@ export default function Viewer({
               </kbd>{" "}
               full ·{" "}
               <kbd className="px-1 py-0.5 rounded bg-white/5 text-zinc-400 font-mono">
-                Esc
+                ?
               </kbd>{" "}
-              back
+              help
             </div>
           </div>
         </div>
