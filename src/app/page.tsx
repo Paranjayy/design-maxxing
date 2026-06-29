@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { getStats, getSourceCategories, getItems } from "@/lib/items";
+import RecentlyViewed from "@/components/RecentlyViewed";
 
 function formatCatName(name: string): string {
   return name
@@ -15,6 +16,15 @@ export default function Home() {
 
   // Pick a random item for the "Surprise Me" button
   const randomItem = items[Math.floor(Math.random() * items.length)];
+
+  // All items data for RecentlyViewed component
+  const allItemsData = items.map((item) => ({
+    id: item.id,
+    title: item.title || item.zipName.replace(/\.zip$/, ""),
+    category: item.category,
+    folderName: item.folderName,
+    indexFile: item.indexFile,
+  }));
 
   return (
     <main className="min-h-screen">
@@ -86,6 +96,11 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Recently Viewed */}
+      <section className="max-w-7xl mx-auto px-5 pt-14">
+        <RecentlyViewed items={allItemsData} />
+      </section>
+
       {/* Categories Grid */}
       <section className="max-w-7xl mx-auto px-5 py-14">
         <h2 className="text-lg font-semibold text-white mb-6">
@@ -127,12 +142,6 @@ export default function Home() {
           </div>
         </Link>
       </section>
-
-      <footer className="border-t border-white/5 py-8">
-        <div className="max-w-7xl mx-auto px-5 text-xs text-zinc-600">
-          design maxxing viewer
-        </div>
-      </footer>
     </main>
   );
 }

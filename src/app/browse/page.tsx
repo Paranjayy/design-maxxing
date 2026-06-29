@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getSourceCategories, getItemsByFilter } from "@/lib/items";
 import InstantSearch from "@/components/InstantSearch";
 import { getItems } from "@/lib/items";
+import FavoritesCount from "@/components/FavoritesCount";
 
 function formatCatName(name: string): string {
   return name
@@ -94,6 +95,8 @@ export default async function BrowsePage({
               </Link>
             ))}
           </div>
+
+          <FavoritesCount />
 
           <form
             className="shrink-0 hidden sm:block"

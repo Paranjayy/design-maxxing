@@ -3,10 +3,12 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import ShortcutsModal from "@/components/ShortcutsModal";
+import { addToHistory } from "@/lib/history";
 
 interface ViewerProps {
   src: string;
   title: string;
+  id: string;
   category: string;
   categoryDisplay: string;
   kind: string;
@@ -33,6 +35,7 @@ function getRandomItem(): { id: string; title: string } | null {
 export default function Viewer({
   src,
   title,
+  id,
   category,
   categoryDisplay,
   kind,
@@ -48,6 +51,58 @@ export default function Viewer({
   const [bgDark, setBgDark] = useState(true);
   const [showShortcuts, setShowShortcuts] = useState(false);
   const [randomHref, setRandomHref] = useState<string | null>(null);
+  const [swipeHint, setSwipeHint] = useState<"left" | "right" | null>(null);
+
+  // Track this item in recently viewed history
+  useEffect(() => {
+    addToHistory(id);
+  }, [id]);
+
+  // Swipe gesture support
+  useEffect(() => {
+    let touchStartX = 0;
+    let touchStartY = 0;
+    let isSwiping = false;
+
+    function onTouchStart(e: TouchEvent) {
+      touchStartX = e.touches[0].clientX;
+      touchStartY = e.touches[0].clientY;
+      isSwiping = false;
+    }
+
+    function onTouchMove(e: TouchEvent) {
+      const dx = e.touches[0].clientX - touchStartX;
+      const dy = e.touches[0].clientY - touchStartY;
+      // Only register horizontal swipes (dx > dy threshold)
+      if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy) * 1.5) {
+        isSwiping = true;
+        setSwipeHint(dx < 0 ? "right" : "left");
+      }
+    }
+
+    function onTouchEnd(e: TouchEvent) {
+      if (!isSwiping) {
+        setSwipeHint(null);
+        return;
+      }
+      const dx = e.changedTouches[0].clientX - touchStartX;
+      if (dx < -60 && nextId) {
+        window.location.href = `/view/${nextId}`;
+      } else if (dx > 60 && prevId) {
+        window.location.href = `/view/${prevId}`;
+      }
+      setSwipeHint(null);
+    }
+
+    window.addEventListener("touchstart", onTouchStart, { passive: true });
+    window.addEventListener("touchmove", onTouchMove, { passive: true });
+    window.addEventListener("touchend", onTouchEnd, { passive: true });
+    return () => {
+      window.removeEventListener("touchstart", onTouchStart);
+      window.removeEventListener("touchmove", onTouchMove);
+      window.removeEventListener("touchend", onTouchEnd);
+    };
+  }, [prevId, nextId]);
 
   // Fetch a random item id on mount
   useEffect(() => {
@@ -184,12 +239,23 @@ export default function Viewer({
         )}
       </div>
 
+      {/* Swipe hint overlay */}
+      {swipeHint && (
+        <div
+          className={`fixed inset-0 z-[60] flex items-center pointer-events-none transition-opacity duration-200 ${swipeHint === "left" ? "justify-start pl-4" : "justify-end pr-4"}`}
+        >
+          <div className="w-12 h-12 rounded-full bg-[#8b5cf6]/20 backdrop-blur flex items-center justify-center text-white text-lg">
+            {swipeHint === "left" ? "←" : "→"}
+          </div>
+        </div>
+      )}
+
       {/* Top bar */}
       <div
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${showChrome ? "opacity-100 translate-y-0" : "opacity-0 -translate-y-full"}`}
       >
         <div className="bg-[#080808]/90 backdrop-blur-xl border-b border-white/5">
-          <div className="px-4 h-11 flex items-center gap-3">
+          <div className="px-3 sm:px-4 h-9 sm:h-11 flex items-center gap-2 sm:gap-3">
             <Link
               href="/browse"
               className="flex items-center gap-2 text-white hover:text-[#c4b5fd] transition-colors shrink-0"
@@ -204,18 +270,18 @@ export default function Viewer({
             <div className="h-4 w-px bg-white/10 shrink-0" />
             <Link
               href={`/browse?cat=${category}`}
-              className="text-xs text-zinc-400 hover:text-[#a78bfa] transition-colors truncate"
+              className="text-[11px] sm:text-xs text-zinc-400 hover:text-[#a78bfa] transition-colors truncate"
             >
               {categoryDisplay}
             </Link>
             <div className="h-4 w-px bg-white/10 shrink-0 hidden sm:block" />
-            <div className="text-xs text-zinc-500 truncate hidden sm:block max-w-[300px]">
+            <div className="text-[11px] sm:text-xs text-zinc-500 truncate hidden sm:block max-w-[300px]">
               {title}
             </div>
             <div className="flex-1" />
             <button
               onClick={() => setBgDark((d) => !d)}
-              className="px-2 py-1 rounded-md text-sm hover:bg-white/10 transition-colors"
+              className="w-7 h-7 sm:w-8 sm:h-8 rounded-md flex items-center justify-center text-sm hover:bg-white/10 transition-colors"
               title={
                 bgDark
                   ? "Switch to light background"
@@ -226,7 +292,7 @@ export default function Viewer({
             </button>
             <button
               onClick={() => setShowShortcuts(true)}
-              className="px-2 py-1 rounded-md text-xs font-medium text-zinc-500 hover:text-white hover:bg-white/10 transition-colors"
+              className="w-7 h-7 sm:w-8 sm:h-8 rounded-md flex items-center justify-center text-xs font-medium text-zinc-500 hover:text-white hover:bg-white/10 transition-colors"
               title="Keyboard shortcuts (?)"
             >
               ?
@@ -245,8 +311,8 @@ export default function Viewer({
         className={`fixed bottom-0 left-0 right-0 z-50 transition-all duration-300 ${showChrome ? "opacity-100 translate-y-0" : "opacity-0 translate-y-full"}`}
       >
         <div className="bg-[#080808]/90 backdrop-blur-xl border-t border-white/5">
-          <div className="px-4 h-12 flex items-center gap-2 justify-center">
-            <div className="flex items-center gap-1 bg-white/5 rounded-lg p-1">
+          <div className="px-3 sm:px-4 h-10 sm:h-12 flex items-center gap-1.5 sm:gap-2 justify-center">
+            <div className="flex items-center gap-0.5 sm:gap-1 bg-white/5 rounded-lg p-0.5 sm:p-1">
               {(
                 [
                   ["desktop", "🖥", "Desktop"],
@@ -258,18 +324,18 @@ export default function Viewer({
                 <button
                   key={key}
                   onClick={() => setMode(key)}
-                  className={`px-3 py-1.5 rounded-md text-[11px] font-medium transition-all ${mode === key ? "bg-[#8b5cf6]/20 text-[#a78bfa]" : "text-zinc-500 hover:text-white hover:bg-white/5"}`}
+                  className={`px-2 sm:px-3 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium transition-all ${mode === key ? "bg-[#8b5cf6]/20 text-[#a78bfa]" : "text-zinc-500 hover:text-white hover:bg-white/5"}`}
                 >
-                  <span className="mr-1">{icon}</span>
+                  <span className="mr-0.5 sm:mr-1">{icon}</span>
                   <span className="hidden sm:inline">{label}</span>
                 </button>
               ))}
             </div>
-            <div className="w-px h-5 bg-white/10 mx-1" />
+            <div className="w-px h-4 sm:h-5 bg-white/10 mx-0.5 sm:mx-1" />
             {prevId && (
               <Link
                 href={`/view/${prevId}`}
-                className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+                className="px-1.5 sm:px-2.5 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
                 title={prevTitle || ""}
               >
                 ← Prev
@@ -278,17 +344,17 @@ export default function Viewer({
             {nextId && (
               <Link
                 href={`/view/${nextId}`}
-                className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+                className="px-1.5 sm:px-2.5 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
                 title={nextTitle || ""}
               >
                 Next →
               </Link>
             )}
-            <div className="w-px h-5 bg-white/10 mx-1" />
+            <div className="w-px h-4 sm:h-5 bg-white/10 mx-0.5 sm:mx-1 hidden sm:block" />
             {randomHref && (
               <Link
                 href={randomHref}
-                className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+                className="px-1.5 sm:px-2.5 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all hidden sm:inline-flex"
                 title="Random project"
               >
                 🎲 Random
@@ -299,20 +365,20 @@ export default function Viewer({
                 setRefreshKey((k) => k + 1);
                 setIsLoading(true);
               }}
-              className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+              className="px-1.5 sm:px-2.5 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
               title="Refresh (⌘R)"
             >
-              ↻ Refresh
+              ↻<span className="hidden sm:inline"> Refresh</span>
             </button>
             <a
               href={src}
               target="_blank"
               rel="noopener noreferrer"
-              className="px-2.5 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+              className="px-1.5 sm:px-2.5 py-1 sm:py-1.5 rounded-md text-[10px] sm:text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all hidden sm:inline-flex"
             >
               ↗ Open Raw
             </a>
-            <div className="w-px h-5 bg-white/10 mx-1 hidden sm:block" />
+            <div className="w-px h-4 sm:h-5 bg-white/10 mx-0.5 sm:mx-1 hidden sm:block" />
             <div className="text-[10px] text-zinc-600 hidden md:block">
               <kbd className="px-1 py-0.5 rounded bg-white/5 text-zinc-400 font-mono">
                 ←→

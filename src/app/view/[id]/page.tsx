@@ -32,6 +32,7 @@ export default async function ViewPage({
       <Viewer
         src={src}
         title={title}
+        id={id}
         category={item.category}
         categoryDisplay={formatCategoryName(item.category)}
         kind={item.kind}
