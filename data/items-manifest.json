@@ -1,315 +1,5 @@
 [
   {
-    "id": "tpl-0000-2023-05-portfolio",
-    "zipName": "2023-05-portfolio.zip",
-    "folderName": "tpl-0000-2023-05-portfolio",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0001-2023-06-portfolio",
-    "zipName": "2023-06-portfolio.zip",
-    "folderName": "tpl-0001-2023-06-portfolio",
-    "indexFile": "codegrid-react-portfolio/public/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0002-2023-07-creative-agency",
-    "zipName": "2023-07-creative-agency.zip",
-    "folderName": "tpl-0002-2023-07-creative-agency",
-    "indexFile": "unusual-studio/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Creative Agency",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0003-2023-08-brutalist-portfolio",
-    "zipName": "2023-08-brutalist-portfolio.zip",
-    "folderName": "tpl-0003-2023-08-brutalist-portfolio",
-    "indexFile": "Brutalist Portfolio/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Brutalist Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0004-2023-09-minimal-creative-studio",
-    "zipName": "2023-09-minimal-creative-studio.zip",
-    "folderName": "tpl-0004-2023-09-minimal-creative-studio",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Minimal Creative Studio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0005-2023-10-creative-agency",
-    "zipName": "2023-10-creative-agency.zip",
-    "folderName": "tpl-0005-2023-10-creative-agency",
-    "indexFile": "neoteric/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Creative Agency",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0006-2023-11-modern-saas",
-    "zipName": "2023-11-modern-saas.zip",
-    "folderName": "tpl-0006-2023-11-modern-saas",
-    "indexFile": "vertex/blog.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Modern Saas",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0007-2023-12-portfolio-video-gallery",
-    "zipName": "2023-12-portfolio-video-gallery.zip",
-    "folderName": "tpl-0007-2023-12-portfolio-video-gallery",
-    "indexFile": "velasco-solari/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Portfolio Video Gallery",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0008-2024-01-creative-studio",
-    "zipName": "2024-01-creative-studio.zip",
-    "folderName": "tpl-0008-2024-01-creative-studio",
-    "indexFile": "elevate/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Creative Studio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0009-2024-02-saas-website",
-    "zipName": "2024-02-saas-website.zip",
-    "folderName": "tpl-0009-2024-02-saas-website",
-    "indexFile": "byteforge/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Saas Website",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0010-2024-03-responsive-portfolio",
-    "zipName": "2024-03-responsive-portfolio.zip",
-    "folderName": "tpl-0010-2024-03-responsive-portfolio",
-    "indexFile": "cura-futuri/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Responsive Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0011-2024-04-minimalist-portfolio",
-    "zipName": "2024-04-minimalist-portfolio.zip",
-    "folderName": "tpl-0011-2024-04-minimalist-portfolio",
-    "indexFile": "soren/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Minimalist Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0012-2024-05-responsive-portfolio",
-    "zipName": "2024-05-responsive-portfolio.zip",
-    "folderName": "tpl-0012-2024-05-responsive-portfolio",
-    "indexFile": "Source Code /alejandro-ortiz/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Responsive Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0013-2024-06-web3-ai-studio",
-    "zipName": "2024-06-web3-ai-studio.zip",
-    "folderName": "tpl-0013-2024-06-web3-ai-studio",
-    "indexFile": "nexus/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Web3 Ai Studio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0014-2024-07-creative-director-portfolio",
-    "zipName": "2024-07-creative-director-portfolio.zip",
-    "folderName": "tpl-0014-2024-07-creative-director-portfolio",
-    "indexFile": "damien-tsarantos/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Creative Director Portfolio",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0015-2025-02-isochrome",
-    "zipName": "2025-02-isochrome.zip",
-    "folderName": "tpl-0015-2025-02-isochrome",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Isochrome",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0016-2025-03-nico-palmer",
-    "zipName": "2025-03-nico-palmer.zip",
-    "folderName": "tpl-0016-2025-03-nico-palmer",
-    "indexFile": "nico-palmer/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Nico Palmer",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0017-2025-04-format-archive",
-    "zipName": "2025-04-format-archive.zip",
-    "folderName": "tpl-0017-2025-04-format-archive",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Format Archive",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0018-2025-05-otis-valen",
-    "zipName": "2025-05-otis-valen.zip",
-    "folderName": "tpl-0018-2025-05-otis-valen",
-    "indexFile": "otis-valen/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Otis Valen",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0019-2025-06-wu-wei",
-    "zipName": "2025-06-wu-wei.zip",
-    "folderName": "tpl-0019-2025-06-wu-wei",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Wu Wei",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0020-2025-07-juno-watts",
-    "zipName": "2025-07-juno-watts.zip",
-    "folderName": "tpl-0020-2025-07-juno-watts",
-    "indexFile": "juno-watts/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Juno Watts",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0021-2025-08-terrene",
-    "zipName": "2025-08-terrene.zip",
-    "folderName": "tpl-0021-2025-08-terrene",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Terrene",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0022-2025-09-negative-films",
-    "zipName": "2025-09-negative-films.zip",
-    "folderName": "tpl-0022-2025-09-negative-films",
-    "indexFile": "negative-films/directors.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Negative Films",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0023-2025-10-polite-chaos",
-    "zipName": "2025-10-polite-chaos.zip",
-    "folderName": "tpl-0023-2025-10-polite-chaos",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Polite Chaos",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0024-2025-11-orbit-matter",
-    "zipName": "2025-11-orbit-matter.zip",
-    "folderName": "tpl-0024-2025-11-orbit-matter",
-    "indexFile": "orbit-matter/index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Orbit Matter",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0025-2025-12-nrmlss",
-    "zipName": "2025-12-nrmlss.zip",
-    "folderName": "tpl-0025-2025-12-nrmlss",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Nrmlss",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0026-2026-01-deadspace",
-    "zipName": "2026-01-deadspace.zip",
-    "folderName": "tpl-0026-2026-01-deadspace",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Deadspace",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0027-2026-02-salle-blanche",
-    "zipName": "2026-02-salle-blanche.zip",
-    "folderName": "tpl-0027-2026-02-salle-blanche",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Salle Blanche",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0028-2026-03-house-of-epochs",
-    "zipName": "2026-03-house-of-epochs.zip",
-    "folderName": "tpl-0028-2026-03-house-of-epochs",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "House Of Epochs",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0029-2026-04-lemon-bureau",
-    "zipName": "2026-04-lemon-bureau.zip",
-    "folderName": "tpl-0029-2026-04-lemon-bureau",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Lemon Bureau",
-    "displayName": "Website Templates"
-  },
-  {
-    "id": "tpl-0030-2026-05-deadlock-studios",
-    "zipName": "2026-05-deadlock-studios.zip",
-    "folderName": "tpl-0030-2026-05-deadlock-studios",
-    "indexFile": "index.html",
-    "category": "templates",
-    "kind": "template",
-    "title": "Deadlock Studios",
-    "displayName": "Website Templates"
-  },
-  {
     "id": "src-0000-04022024-image-reveal-on-scroll",
     "zipName": "04022024-Image-Reveal-On-Scroll.zip",
     "folderName": "src-0000-04022024-image-reveal-on-scroll",
@@ -336,7 +26,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Minimal Portfolio Website Html Css Javascript Main",
+    "title": "Minimal Portfolio Website HTML CSS JavaScript main",
     "displayName": "Scroll Animations"
   },
   {
@@ -346,7 +36,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg 404",
+    "title": "cg 404",
     "displayName": "Scroll Animations"
   },
   {
@@ -356,7 +46,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Adaline Scroll Animation Nextjs",
+    "title": "cg adaline scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -366,7 +56,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Adaline Scroll Animation",
+    "title": "cg adaline scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -376,7 +66,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Advanced Infinite Scroll",
+    "title": "cg advanced infinite scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -386,7 +76,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Bennett Clive Scroll Animation",
+    "title": "cg bennett clive scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -396,7 +86,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Button Click Animation",
+    "title": "cg button click animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -406,7 +96,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Capsules Animated Columns Nextjs",
+    "title": "cg capsules animated columns nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -416,7 +106,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Capsules Animated Columns",
+    "title": "cg capsules animated columns",
     "displayName": "Scroll Animations"
   },
   {
@@ -426,7 +116,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Crftd",
+    "title": "cg crftd",
     "displayName": "Scroll Animations"
   },
   {
@@ -436,7 +126,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Criticaldanger Rebuild",
+    "title": "cg criticaldanger rebuild",
     "displayName": "Scroll Animations"
   },
   {
@@ -446,7 +136,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Eduardbodak Scroll Animation",
+    "title": "cg eduardbodak scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -456,7 +146,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Epic Mousemove Scrolltrigger Anim",
+    "title": "cg epic mousemove scrolltrigger anim",
     "displayName": "Scroll Animations"
   },
   {
@@ -466,7 +156,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Epic Scroll Anims Scrolltrigger Gsap",
+    "title": "cg epic scroll anims scrolltrigger gsap",
     "displayName": "Scroll Animations"
   },
   {
@@ -476,7 +166,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Ethnocare",
+    "title": "cg ethnocare",
     "displayName": "Scroll Animations"
   },
   {
@@ -486,7 +176,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Explode Text On Scroll Matterjs",
+    "title": "cg explode text on scroll matterjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -496,7 +186,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Filters Fielddaysound",
+    "title": "cg filters fielddaysound",
     "displayName": "Scroll Animations"
   },
   {
@@ -506,7 +196,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Gabrielcontassot Scroll",
+    "title": "cg gabrielcontassot scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -516,7 +206,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Gentlerain",
+    "title": "cg gentlerain",
     "displayName": "Scroll Animations"
   },
   {
@@ -526,7 +216,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Gregorylalle",
+    "title": "cg gregorylalle",
     "displayName": "Scroll Animations"
   },
   {
@@ -536,7 +226,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Heurebleue Scroll Animation",
+    "title": "cg heurebleue scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -546,7 +236,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Image Scroll Reveal",
+    "title": "cg image scroll reveal",
     "displayName": "Scroll Animations"
   },
   {
@@ -556,7 +246,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Inkfish Horizontal Scroll",
+    "title": "cg inkfish horizontal scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -566,7 +256,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Junni",
+    "title": "cg junni",
     "displayName": "Scroll Animations"
   },
   {
@@ -576,7 +266,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Karim Saab Scroll Animation",
+    "title": "cg karim saab scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -586,7 +276,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Lava Buster",
+    "title": "cg lava buster",
     "displayName": "Scroll Animations"
   },
   {
@@ -596,7 +286,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Lottie Scroll Animation",
+    "title": "cg lottie scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -606,7 +296,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Mat Voyce Scroll Animation",
+    "title": "cg mat voyce scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -616,7 +306,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Metalab Lp Rebuild",
+    "title": "cg metalab lp rebuild",
     "displayName": "Scroll Animations"
   },
   {
@@ -626,7 +316,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Mormal",
+    "title": "cg mormal",
     "displayName": "Scroll Animations"
   },
   {
@@ -636,7 +326,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Navigate Scroll Animated Text Javascript",
+    "title": "cg navigate scroll animated text javascript",
     "displayName": "Scroll Animations"
   },
   {
@@ -646,7 +336,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Nordquantique Scroll",
+    "title": "cg nordquantique scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -656,7 +346,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Nvg8 Scroll Animation",
+    "title": "cg nvg8 scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -666,7 +356,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Offficestud",
+    "title": "cg offficestud",
     "displayName": "Scroll Animations"
   },
   {
@@ -676,7 +366,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Orken World Scroll Animation",
+    "title": "cg orken world scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -686,7 +376,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Our Revolution Lp",
+    "title": "cg our revolution lp",
     "displayName": "Scroll Animations"
   },
   {
@@ -696,7 +386,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Phive Text Scroll Animation Nextjs",
+    "title": "cg phive text scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -706,7 +396,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Phive Text Scroll Animation",
+    "title": "cg phive text scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -716,7 +406,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Physics Anim",
+    "title": "cg physics anim",
     "displayName": "Scroll Animations"
   },
   {
@@ -726,7 +416,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Playable Objects",
+    "title": "cg playable objects",
     "displayName": "Scroll Animations"
   },
   {
@@ -736,7 +426,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Product Page On Scroll",
+    "title": "cg product page on scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -746,7 +436,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Qindustrial Scroll",
+    "title": "cg qindustrial scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -756,7 +446,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Radga Horizontal Scroll Animation",
+    "title": "cg radga horizontal scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -766,7 +456,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Radial Rotating Texts",
+    "title": "cg radial rotating texts",
     "displayName": "Scroll Animations"
   },
   {
@@ -776,7 +466,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Sageeast 3D Scroll",
+    "title": "cg sageeast 3d scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -786,7 +476,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Samuelsiebler Js",
+    "title": "cg samuelsiebler js",
     "displayName": "Scroll Animations"
   },
   {
@@ -796,7 +486,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Sarah Bassett",
+    "title": "cg sarah bassett",
     "displayName": "Scroll Animations"
   },
   {
@@ -806,7 +496,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Savoirfaire Lp",
+    "title": "cg savoirfaire lp",
     "displayName": "Scroll Animations"
   },
   {
@@ -816,7 +506,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scroll Controlled 3D Cubes",
+    "title": "cg scroll controlled 3d cubes",
     "displayName": "Scroll Animations"
   },
   {
@@ -826,7 +516,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scroll Img Scale",
+    "title": "cg scroll img scale",
     "displayName": "Scroll Animations"
   },
   {
@@ -836,7 +526,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scroll Text Animation Rebuild Sotd",
+    "title": "cg scroll text animation rebuild sotd",
     "displayName": "Scroll Animations"
   },
   {
@@ -846,7 +536,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scroll Triggered Cards Js",
+    "title": "cg scroll triggered cards js",
     "displayName": "Scroll Animations"
   },
   {
@@ -856,7 +546,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scrolltrigger Dash",
+    "title": "cg scrolltrigger dash",
     "displayName": "Scroll Animations"
   },
   {
@@ -866,7 +556,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Scrolltrigger Gsap Clipmask",
+    "title": "cg scrolltrigger gsap clipmask",
     "displayName": "Scroll Animations"
   },
   {
@@ -876,7 +566,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Silenceo",
+    "title": "cg silenceo",
     "displayName": "Scroll Animations"
   },
   {
@@ -886,7 +576,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Sofihealth Product Scroll Animation",
+    "title": "cg sofihealth product scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -896,7 +586,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Stories",
+    "title": "cg stories",
     "displayName": "Scroll Animations"
   },
   {
@@ -906,7 +596,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Takepill",
+    "title": "cg takepill",
     "displayName": "Scroll Animations"
   },
   {
@@ -916,7 +606,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Telescope Img Scroll Animation Nextjs",
+    "title": "cg telescope img scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -926,7 +616,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Telescope Img Scroll Animation",
+    "title": "cg telescope img scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -936,7 +626,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Telescope Scroll Animation",
+    "title": "cg telescope scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -946,7 +636,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg The Happy Few",
+    "title": "cg the happy few",
     "displayName": "Scroll Animations"
   },
   {
@@ -956,7 +646,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Thefirstthelast Scroll Animation",
+    "title": "cg thefirstthelast scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -966,7 +656,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Toyfight Filters Js",
+    "title": "cg toyfight filters js",
     "displayName": "Scroll Animations"
   },
   {
@@ -976,7 +666,7 @@
     "indexFile": "version1/index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Tunnel",
+    "title": "cg tunnel",
     "displayName": "Scroll Animations"
   },
   {
@@ -986,7 +676,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Var Font Anim",
+    "title": "cg var font anim",
     "displayName": "Scroll Animations"
   },
   {
@@ -996,7 +686,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Video Player",
+    "title": "cg video player",
     "displayName": "Scroll Animations"
   },
   {
@@ -1006,7 +696,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Villainy Scroll",
+    "title": "cg villainy scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -1016,7 +706,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg We Go Again",
+    "title": "cg we go again",
     "displayName": "Scroll Animations"
   },
   {
@@ -1026,7 +716,7 @@
     "indexFile": "v1/index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Wodniack Work Section Scroll",
+    "title": "cg wodniack work section scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -1036,7 +726,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Zajno Lp",
+    "title": "cg zajno lp",
     "displayName": "Scroll Animations"
   },
   {
@@ -1046,7 +736,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Zentry Scroll",
+    "title": "cg zentry scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -1056,7 +746,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Cg Zetr Scroll Animations",
+    "title": "cg zetr scroll animations",
     "displayName": "Scroll Animations"
   },
   {
@@ -1066,7 +756,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "3D Scroll Tunnel",
+    "title": "codegrid 3d scroll tunnel",
     "displayName": "Scroll Animations"
   },
   {
@@ -1076,7 +766,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Artefakt Interactive Ascii Logo",
+    "title": "codegrid artefakt interactive ascii logo",
     "displayName": "Scroll Animations"
   },
   {
@@ -1086,7 +776,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Circular Widgets Nextjs",
+    "title": "codegrid circular widgets nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1096,7 +786,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Circular Widgets",
+    "title": "codegrid circular widgets",
     "displayName": "Scroll Animations"
   },
   {
@@ -1106,7 +796,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Clayboan Scroll Animation",
+    "title": "codegrid clayboan scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1116,7 +806,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Deepjudge Scroll Animation",
+    "title": "codegrid deepjudge scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1126,7 +816,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Elementis Scroll Animation Javascript",
+    "title": "codegrid elementis scroll animation javascript",
     "displayName": "Scroll Animations"
   },
   {
@@ -1136,7 +826,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Eseagency Scroll Carousel Javascript",
+    "title": "codegrid eseagency scroll carousel javascript",
     "displayName": "Scroll Animations"
   },
   {
@@ -1146,7 +836,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Fameestate Scroll Animation",
+    "title": "codegrid fameestate scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1156,7 +846,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Fiddle Digital Scroll Animation",
+    "title": "codegrid fiddle digital scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1166,7 +856,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Followart Scroll Animation Nextjs",
+    "title": "codegrid followart scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1176,7 +866,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Followart Scroll Animation",
+    "title": "codegrid followart scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1186,7 +876,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Gsap Creative Clutter",
+    "title": "codegrid gsap creative clutter",
     "displayName": "Scroll Animations"
   },
   {
@@ -1196,7 +886,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Gta Vi Landing Page Scroll Final",
+    "title": "codegrid gta vi landing page scroll final",
     "displayName": "Scroll Animations"
   },
   {
@@ -1206,7 +896,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Gta Vi Landing Page Scroll Javascript",
+    "title": "codegrid gta vi landing page scroll javascript",
     "displayName": "Scroll Animations"
   },
   {
@@ -1216,7 +906,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Guiding Light",
+    "title": "codegrid guiding light",
     "displayName": "Scroll Animations"
   },
   {
@@ -1226,7 +916,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Image Explosion Scroll Animation Js",
+    "title": "codegrid image explosion scroll animation js",
     "displayName": "Scroll Animations"
   },
   {
@@ -1236,7 +926,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Image Explosion Scroll Animation Nextjs",
+    "title": "codegrid image explosion scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1246,7 +936,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Ingamana Scroll Animation Nextjs",
+    "title": "codegrid ingamana scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1256,7 +946,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Ingamana Scroll Animation",
+    "title": "codegrid ingamana scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1266,7 +956,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Inversa Scroll Animation",
+    "title": "codegrid inversa scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1276,7 +966,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Ironhill Scroll Animation",
+    "title": "codegrid ironhill scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1286,7 +976,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Jeskojets Scroll Animation",
+    "title": "codegrid jeskojets scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1296,7 +986,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Larevoltosa Scroll Animation",
+    "title": "codegrid larevoltosa scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1306,7 +996,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Moblinks Interactive Logo",
+    "title": "codegrid moblinks interactive logo",
     "displayName": "Scroll Animations"
   },
   {
@@ -1316,7 +1006,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Mubien Scroll Animation Nextjs",
+    "title": "codegrid mubien scroll animation nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1326,7 +1016,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Mubien Scroll Animation",
+    "title": "codegrid mubien scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1336,7 +1026,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Nakedcityfilms Scroll Animation",
+    "title": "codegrid nakedcityfilms scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1346,7 +1036,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Next Accordion Frames",
+    "title": "codegrid next accordion frames",
     "displayName": "Scroll Animations"
   },
   {
@@ -1356,7 +1046,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Next Vinyl Cover",
+    "title": "codegrid next vinyl cover",
     "displayName": "Scroll Animations"
   },
   {
@@ -1366,7 +1056,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Nextjs Cards Reveal Scroll Animation",
+    "title": "codegrid nextjs cards reveal scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1376,7 +1066,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Nvg8 Scroll Animation",
+    "title": "codegrid nvg8 scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1386,7 +1076,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Poly App Photo Dump",
+    "title": "codegrid poly app photo dump",
     "displayName": "Scroll Animations"
   },
   {
@@ -1396,7 +1086,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Prototypestudio Scroll Animation",
+    "title": "codegrid prototypestudio scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1406,7 +1096,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Ribbit Lottie Scroll Animation",
+    "title": "codegrid ribbit lottie scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1416,7 +1106,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Samuelsiebler Scroll Animation",
+    "title": "codegrid samuelsiebler scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1426,7 +1116,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Scroll Activated Text Blocks",
+    "title": "codegrid scroll activated text blocks",
     "displayName": "Scroll Animations"
   },
   {
@@ -1436,7 +1126,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Scroll Powered Svg Stroke Nextjs",
+    "title": "codegrid scroll powered svg stroke nextjs",
     "displayName": "Scroll Animations"
   },
   {
@@ -1446,7 +1136,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Scroll Powered Svg Stroke",
+    "title": "codegrid scroll powered svg stroke",
     "displayName": "Scroll Animations"
   },
   {
@@ -1456,7 +1146,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Senseitech Scroll Animation",
+    "title": "codegrid senseitech scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1466,7 +1156,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Seventeenagency Scroll Animation",
+    "title": "codegrid seventeenagency scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1476,7 +1166,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Split Card Scroll Animation",
+    "title": "codegrid split card scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1486,7 +1176,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Vanilla Js Music Player",
+    "title": "codegrid vanilla js music player",
     "displayName": "Scroll Animations"
   },
   {
@@ -1496,7 +1186,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Vucko Scroll Animation Javascript",
+    "title": "codegrid vucko scroll animation javascript",
     "displayName": "Scroll Animations"
   },
   {
@@ -1506,7 +1196,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Waabi Scroll Animation",
+    "title": "codegrid waabi scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1516,7 +1206,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Werowallet Scroll Animation",
+    "title": "codegrid werowallet scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1526,7 +1216,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Wonjyou Horizontal Scroll",
+    "title": "codegrid wonjyou horizontal scroll",
     "displayName": "Scroll Animations"
   },
   {
@@ -1536,7 +1226,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Wonjyou Scroll Animation",
+    "title": "codegrid wonjyou scroll animation",
     "displayName": "Scroll Animations"
   },
   {
@@ -1546,7 +1236,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Infinite Horizontal Scroll",
+    "title": "infinite horizontal scroll codegrid",
     "displayName": "Scroll Animations"
   },
   {
@@ -1556,7 +1246,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Next Transitions",
+    "title": "next transitions",
     "displayName": "Scroll Animations"
   },
   {
@@ -1566,7 +1256,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Scrolltrigger 1",
+    "title": "scrolltrigger 1",
     "displayName": "Scroll Animations"
   },
   {
@@ -1576,7 +1266,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Scrolltrigger",
+    "title": "scrolltrigger",
     "displayName": "Scroll Animations"
   },
   {
@@ -1586,7 +1276,7 @@
     "indexFile": "index.html",
     "category": "01-scroll-animations",
     "kind": "source",
-    "title": "Shooting Fire Microinteraction",
+    "title": "shooting fire microinteraction",
     "displayName": "Scroll Animations"
   },
   {
@@ -1597,7 +1287,7 @@
     "category": "02-landing-page-reveals",
     "kind": "source",
     "title": "24012024 Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0129-block-reveal-landing-page",
@@ -1606,8 +1296,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Block Reveal Landing Page",
-    "displayName": "Landing Pages"
+    "title": "block reveal landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0130-cg-kin-landing-page",
@@ -1616,8 +1306,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Kin Landing Page",
-    "displayName": "Landing Pages"
+    "title": "cg kin landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0131-cg-konpo-lp-reveal",
@@ -1626,8 +1316,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Konpo Lp Reveal",
-    "displayName": "Landing Pages"
+    "title": "cg konpo lp reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0132-cg-lp-reveal-anim",
@@ -1636,8 +1326,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Lp Reveal Anim",
-    "displayName": "Landing Pages"
+    "title": "cg lp reveal anim",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0133-cg-lusion-lp-reveal",
@@ -1646,8 +1336,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Lusion Lp Reveal",
-    "displayName": "Landing Pages"
+    "title": "cg lusion lp reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0134-cg-mousemove-landing-page-reveal",
@@ -1656,8 +1346,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Mousemove Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "title": "cg mousemove landing page reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0135-cg-p10-landing-page-reveal-gsap",
@@ -1666,8 +1356,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg P10 Landing Page Reveal Gsap",
-    "displayName": "Landing Pages"
+    "title": "cg p10 landing page reveal gsap",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0136-cg-portfolio-landing-page",
@@ -1676,8 +1366,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Portfolio Landing Page",
-    "displayName": "Landing Pages"
+    "title": "cg portfolio landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0137-cg-responsive-landing-page",
@@ -1686,8 +1376,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Responsive Landing Page",
-    "displayName": "Landing Pages"
+    "title": "cg responsive landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0138-cg-savoirfaire-landing-page-reveal-animation",
@@ -1696,8 +1386,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Cg Savoirfaire Landing Page Reveal Animation",
-    "displayName": "Landing Pages"
+    "title": "cg savoirfaire landing page reveal animation",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0139-codegrid-abetkaua-landing-page-reveal-animation",
@@ -1706,8 +1396,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Abetkaua Landing Page Reveal Animation",
-    "displayName": "Landing Pages"
+    "title": "codegrid abetkaua landing page reveal animation",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0140-codegrid-aladesign-landing-page-reveal-js",
@@ -1716,8 +1406,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Aladesign Landing Page Reveal Js",
-    "displayName": "Landing Pages"
+    "title": "codegrid aladesign landing page reveal js",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0141-codegrid-aladesign-landing-page-reveal-nextjs",
@@ -1726,8 +1416,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Aladesign Landing Page Reveal Nextjs",
-    "displayName": "Landing Pages"
+    "title": "codegrid aladesign landing page reveal nextjs",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0142-codegrid-aminezegmou-landing-page",
@@ -1736,8 +1426,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Aminezegmou Landing Page",
-    "displayName": "Landing Pages"
+    "title": "codegrid aminezegmou landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0143-codegrid-capsules-landing-page-reveal-animation",
@@ -1746,8 +1436,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Capsules Landing Page Reveal Animation",
-    "displayName": "Landing Pages"
+    "title": "codegrid capsules landing page reveal animation",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0144-codegrid-davidalaba-landing-page-reveal",
@@ -1756,8 +1446,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Davidalaba Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "title": "codegrid davidalaba landing page reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0145-codegrid-landonorris-interactive-landing-page",
@@ -1766,8 +1456,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Landonorris Interactive Landing Page",
-    "displayName": "Landing Pages"
+    "title": "codegrid landonorris interactive landing page",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0146-codegrid-laserbysonymusic-landing-page-reveal-animation",
@@ -1776,8 +1466,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Laserbysonymusic Landing Page Reveal Animation",
-    "displayName": "Landing Pages"
+    "title": "codegrid laserbysonymusic landing page reveal animation",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0147-codegrid-nite-riot-landing-page-reveal-javascript",
@@ -1786,8 +1476,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Nite Riot Landing Page Reveal Javascript",
-    "displayName": "Landing Pages"
+    "title": "codegrid nite riot landing page reveal javascript",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0148-codegrid-outfit-landing-page-reveal",
@@ -1796,8 +1486,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Outfit Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "title": "codegrid outfit landing page reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0149-codegrid-permianworld-landing-page-animation",
@@ -1806,8 +1496,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Permianworld Landing Page Animation",
-    "displayName": "Landing Pages"
+    "title": "codegrid permianworld landing page animation",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0150-codegrid-steelworks-landing-page-reveal",
@@ -1816,8 +1506,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Steelworks Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "title": "codegrid steelworks landing page reveal",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0151-codegrid-truekindskincare-landing-page-reveal-javascript",
@@ -1826,8 +1516,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Truekindskincare Landing Page Reveal Javascript",
-    "displayName": "Landing Pages"
+    "title": "codegrid truekindskincare landing page reveal javascript",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0152-codegrid-truekindskincare-landing-page-reveal-nextjs",
@@ -1836,8 +1526,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Truekindskincare Landing Page Reveal Nextjs",
-    "displayName": "Landing Pages"
+    "title": "codegrid truekindskincare landing page reveal nextjs",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0153-gsap-landing-page-reveal-codegrid",
@@ -1846,8 +1536,8 @@
     "indexFile": "index.html",
     "category": "02-landing-page-reveals",
     "kind": "source",
-    "title": "Gsap Landing Page Reveal",
-    "displayName": "Landing Pages"
+    "title": "gsap landing page reveal codegrid",
+    "displayName": "Landing Page Reveals"
   },
   {
     "id": "src-0154-awwwards-foam-nav",
@@ -1856,7 +1546,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Awwwards Foam Nav",
+    "title": "awwwards foam nav",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1866,7 +1556,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Block Reveal Menu Awwwards Rebuild",
+    "title": "block reveal menu awwwards rebuild",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1876,7 +1566,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Akaru Menu Js",
+    "title": "cg akaru menu js",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1886,7 +1576,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Arock Menu",
+    "title": "cg arock menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1896,7 +1586,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Art Tech Nav",
+    "title": "cg art tech nav",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1906,7 +1596,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Awwwards Nav",
+    "title": "cg awwwards nav",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1916,7 +1606,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Bitkraft Menu Nextjs",
+    "title": "cg bitkraft menu nextjs",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1926,7 +1616,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Bitkraft Menu",
+    "title": "cg bitkraft menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1936,7 +1626,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Clip Menu",
+    "title": "cg clip menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1946,7 +1636,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Fs Responsive Menu",
+    "title": "cg fs responsive menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1956,7 +1646,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Jamarea Menu Nextjs",
+    "title": "cg jamarea menu nextjs",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1966,7 +1656,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Jamarea Menu",
+    "title": "cg jamarea menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1976,7 +1666,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Kpverse Menu",
+    "title": "cg kpverse menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1986,7 +1676,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Menu Root Food",
+    "title": "cg menu root food",
     "displayName": "Menus & Navigation"
   },
   {
@@ -1996,7 +1686,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Next Navigation",
+    "title": "cg next navigation",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2006,7 +1696,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Nm Menu Rebuild",
+    "title": "cg nm menu rebuild",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2016,7 +1706,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Push Over Overlay Menu",
+    "title": "cg push over overlay menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2026,7 +1716,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Rejoice Menu",
+    "title": "cg rejoice menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2036,7 +1726,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Responsive Nav",
+    "title": "cg responsive nav",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2046,7 +1736,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Cg Sidebar Slide Out Menu",
+    "title": "cg sidebar slide out menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2056,7 +1746,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Akaru Menu Nextjs",
+    "title": "codegrid akaru menu nextjs",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2066,7 +1756,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Audemarspiguet Menu",
+    "title": "codegrid audemarspiguet menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2076,7 +1766,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Draggable Menu",
+    "title": "codegrid draggable menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2086,7 +1776,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Exoape Menu Javascript",
+    "title": "codegrid exoape menu javascript",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2096,7 +1786,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Menuxl Text Displacement Animation Nextjs",
+    "title": "codegrid menuxl text displacement animation nextjs",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2106,7 +1796,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Menuxl Text Displacement Animation",
+    "title": "codegrid menuxl text displacement animation",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2116,7 +1806,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Poppr Menu Nextjs",
+    "title": "codegrid poppr menu nextjs",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2126,7 +1816,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Poppr Menu",
+    "title": "codegrid poppr menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2136,7 +1826,7 @@
     "indexFile": "index.html",
     "category": "03-menus-navigation",
     "kind": "source",
-    "title": "Silver Pinewood Menu",
+    "title": "codegrid silver pinewood menu",
     "displayName": "Menus & Navigation"
   },
   {
@@ -2146,7 +1836,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg25022024 Cg 3D Slider",
+    "title": "CG25022024 CG 3D SLIDER",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2156,7 +1846,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Benmingo Slider",
+    "title": "benmingo slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2166,7 +1856,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg 3D Slider Threejs",
+    "title": "cg 3d slider threejs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2176,7 +1866,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Aristidebenoist Slider",
+    "title": "cg aristidebenoist slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2186,7 +1876,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Camille Mormal Slider",
+    "title": "cg camille mormal slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2196,7 +1886,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Dezea Digital Carousel",
+    "title": "cg dezea digital carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2206,7 +1896,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Dynamic Gsap Carousel",
+    "title": "cg dynamic gsap carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2216,7 +1906,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Exo Ape Infinite Carousel",
+    "title": "cg exo ape infinite carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2226,7 +1916,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Full Screen Slider",
+    "title": "cg full screen slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2236,7 +1926,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Gsap Clip Carousel",
+    "title": "cg gsap clip carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2246,7 +1936,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Gsap Scrolltrigger Slider On Scroll",
+    "title": "cg gsap scrolltrigger slider on scroll",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2256,7 +1946,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Horizontal Scroll Img Slider",
+    "title": "cg horizontal scroll img slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2266,7 +1956,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Infinite Horizontal Slider Nextjs",
+    "title": "cg infinite horizontal slider nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2276,7 +1966,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Infinite Horizontal Slider",
+    "title": "cg infinite horizontal slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2286,7 +1976,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Karim Saab Work Carousel Nextjs",
+    "title": "cg karim saab work carousel nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2296,7 +1986,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Meetings Slider",
+    "title": "cg meetings slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2306,7 +1996,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Modular Slider",
+    "title": "cg modular slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2316,7 +2006,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Pure Js Vanilla Image Slider",
+    "title": "cg pure js vanilla image slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2326,7 +2016,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Story World Carousel Slider",
+    "title": "cg story world carousel slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2336,7 +2026,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Warp Slider Next",
+    "title": "cg warp slider next",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2346,7 +2036,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Warp Slider",
+    "title": "cg warp slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2356,7 +2046,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Work Carousel Karim Saab",
+    "title": "cg work carousel karim saab",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2366,7 +2056,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cg Yzavoku Slider",
+    "title": "cg yzavoku slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2376,7 +2066,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cielrose Threejs Slider Javascript",
+    "title": "codegrid cielrose threejs slider javascript",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2386,7 +2076,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Cielrose Threejs Slider Nextjs",
+    "title": "codegrid cielrose threejs slider nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2396,7 +2086,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Damso Product Slider",
+    "title": "codegrid damso product slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2406,7 +2096,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Detroit Paris Infinite Slider",
+    "title": "codegrid detroit paris infinite slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2416,7 +2106,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Lacrapulestudio Carousel",
+    "title": "codegrid lacrapulestudio carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2426,7 +2116,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Next Carousel",
+    "title": "codegrid next carousel",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2436,7 +2126,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Ova Scroll Slider Nextjs",
+    "title": "codegrid ova scroll slider nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2446,7 +2136,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Ova Scroll Slider",
+    "title": "codegrid ova scroll slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2456,7 +2146,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Radaville Scroll Slider",
+    "title": "codegrid radaville scroll slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2466,7 +2156,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Ripple Displacement Slider",
+    "title": "codegrid ripple displacement slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2476,7 +2166,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Threejs Slider Final",
+    "title": "codegrid threejs slider final",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2486,7 +2176,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Threejs Slider Main",
+    "title": "codegrid threejs slider main",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2496,7 +2186,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Threejs Slider Nextjs",
+    "title": "codegrid threejs slider nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2506,7 +2196,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Voku Image Slider Nextjs",
+    "title": "codegrid voku image slider nextjs",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2516,7 +2206,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Voku Image Slider",
+    "title": "codegrid voku image slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2526,7 +2216,7 @@
     "indexFile": "index.html",
     "category": "04-sliders-carousels",
     "kind": "source",
-    "title": "Slider",
+    "title": "slider",
     "displayName": "Sliders & Carousels"
   },
   {
@@ -2536,7 +2226,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg 247Artists Trail Nextjs",
+    "title": "cg 247artists trail nextjs",
     "displayName": "Hover Effects"
   },
   {
@@ -2546,7 +2236,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg 247Artists Trail",
+    "title": "cg 247artists trail",
     "displayName": "Hover Effects"
   },
   {
@@ -2556,7 +2246,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Cosmos Parallax Effect Mousemove",
+    "title": "cg cosmos parallax effect mousemove",
     "displayName": "Hover Effects"
   },
   {
@@ -2566,7 +2256,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Futuristic Hover",
+    "title": "cg futuristic hover",
     "displayName": "Hover Effects"
   },
   {
@@ -2576,7 +2266,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Henriheymans Hover",
+    "title": "cg henriheymans hover",
     "displayName": "Hover Effects"
   },
   {
@@ -2586,7 +2276,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Img Trail",
+    "title": "cg img trail",
     "displayName": "Hover Effects"
   },
   {
@@ -2596,7 +2286,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Media Monks Hover",
+    "title": "cg media monks hover",
     "displayName": "Hover Effects"
   },
   {
@@ -2606,7 +2296,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Mouse Trail Animation Svg Js",
+    "title": "cg mouse trail animation svg js",
     "displayName": "Hover Effects"
   },
   {
@@ -2616,7 +2306,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Neoculture Mousemove",
+    "title": "cg neoculture mousemove",
     "displayName": "Hover Effects"
   },
   {
@@ -2626,7 +2316,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Pixelated Text Hover Shaders",
+    "title": "cg pixelated text hover shaders",
     "displayName": "Hover Effects"
   },
   {
@@ -2636,7 +2326,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Shader Distortion Img Hover Effect",
+    "title": "cg shader distortion img hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2646,7 +2336,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Text Hover Effect",
+    "title": "cg text hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2656,7 +2346,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cg Yard Hover",
+    "title": "cg yard hover",
     "displayName": "Hover Effects"
   },
   {
@@ -2666,7 +2356,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Burocratik Image Trail Js",
+    "title": "codegrid burocratik image trail js",
     "displayName": "Hover Effects"
   },
   {
@@ -2676,7 +2366,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Burocratik Image Trail Nextjs",
+    "title": "codegrid burocratik image trail nextjs",
     "displayName": "Hover Effects"
   },
   {
@@ -2686,7 +2376,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Cursor Driven Material Spotlight",
+    "title": "codegrid cursor driven material spotlight",
     "displayName": "Hover Effects"
   },
   {
@@ -2696,7 +2386,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Direction Aware Hover Effect Javascript",
+    "title": "codegrid direction aware hover effect javascript",
     "displayName": "Hover Effects"
   },
   {
@@ -2706,7 +2396,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Direction Aware Hover Effect Nextjs",
+    "title": "codegrid direction aware hover effect nextjs",
     "displayName": "Hover Effects"
   },
   {
@@ -2716,7 +2406,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Fiddle Digital Hover Effect",
+    "title": "codegrid fiddle digital hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2726,7 +2416,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Griflan Hover Effect",
+    "title": "codegrid griflan hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2736,7 +2426,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Mosaic Flip Hover Effect",
+    "title": "codegrid mosaic flip hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2746,7 +2436,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Svg Image Hover Effect",
+    "title": "codegrid svg image hover effect",
     "displayName": "Hover Effects"
   },
   {
@@ -2756,7 +2446,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Turbulent Inversion Lens Hover Effect Javascript",
+    "title": "codegrid turbulent inversion lens hover effect javascript",
     "displayName": "Hover Effects"
   },
   {
@@ -2766,7 +2456,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Turbulent Inversion Lens Hover Effect Nextjs",
+    "title": "codegrid turbulent inversion lens hover effect nextjs",
     "displayName": "Hover Effects"
   },
   {
@@ -2776,37 +2466,37 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Wildyriftian Hover Effect",
+    "title": "codegrid wildyriftian hover effect",
     "displayName": "Hover Effects"
   },
   {
-    "id": "src-0247-codegrid-3d-card-hover-effect-css",
+    "id": "src-0247-codegrid_3d_card_hover_effect_css",
     "zipName": "codegrid_3d_card_hover_effect_css.zip",
-    "folderName": "src-0247-codegrid-3d-card-hover-effect-css",
+    "folderName": "src-0247-codegrid_3d_card_hover_effect_css",
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "3D Card Hover Effect Css",
+    "title": "codegrid 3d card hover effect css",
     "displayName": "Hover Effects"
   },
   {
-    "id": "src-0248-codegrid-mouse-trail-effect",
+    "id": "src-0248-codegrid_mouse_trail_effect",
     "zipName": "codegrid_mouse_trail_effect.zip",
-    "folderName": "src-0248-codegrid-mouse-trail-effect",
+    "folderName": "src-0248-codegrid_mouse_trail_effect",
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Mouse Trail Effect",
+    "title": "codegrid mouse trail effect",
     "displayName": "Hover Effects"
   },
   {
-    "id": "src-0249-codegrid-project-hover-animation",
+    "id": "src-0249-codegrid_project-hover-animation",
     "zipName": "codegrid_project-hover-animation.zip",
-    "folderName": "src-0249-codegrid-project-hover-animation",
+    "folderName": "src-0249-codegrid_project-hover-animation",
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Project Hover Animation",
+    "title": "codegrid project hover animation",
     "displayName": "Hover Effects"
   },
   {
@@ -2816,7 +2506,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Text Hover Effect Js",
+    "title": "text hover effect js",
     "displayName": "Hover Effects"
   },
   {
@@ -2826,7 +2516,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Text Shuffle Hover",
+    "title": "text shuffle hover codegrid",
     "displayName": "Hover Effects"
   },
   {
@@ -2836,7 +2526,7 @@
     "indexFile": "index.html",
     "category": "05-hover-effects",
     "kind": "source",
-    "title": "Vrtlvrld Image Hover",
+    "title": "vrtlvrld image hover",
     "displayName": "Hover Effects"
   },
   {
@@ -2846,7 +2536,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Cg Gsap Svg Motionpath Text Animation Js Version",
+    "title": "cg gsap svg motionpath text animation js version",
     "displayName": "Text Animations"
   },
   {
@@ -2856,7 +2546,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Cg Text Shuffle Animation Updated",
+    "title": "cg text shuffle animation updated",
     "displayName": "Text Animations"
   },
   {
@@ -2866,7 +2556,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Cg Text Shuffle Animation",
+    "title": "cg text shuffle animation",
     "displayName": "Text Animations"
   },
   {
@@ -2876,7 +2566,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Landonorris Text Reveal Animation Nextjs",
+    "title": "codegrid landonorris text reveal animation nextjs",
     "displayName": "Text Animations"
   },
   {
@@ -2886,7 +2576,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Magnetic Marquee",
+    "title": "codegrid magnetic marquee",
     "displayName": "Text Animations"
   },
   {
@@ -2896,7 +2586,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Next Text Reveal Animation",
+    "title": "codegrid next text reveal animation",
     "displayName": "Text Animations"
   },
   {
@@ -2906,7 +2596,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Nextjs Text Reveal Animation",
+    "title": "codegrid nextjs text reveal animation",
     "displayName": "Text Animations"
   },
   {
@@ -2916,7 +2606,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Telescope Text Animation Nextjs",
+    "title": "codegrid telescope text animation nextjs",
     "displayName": "Text Animations"
   },
   {
@@ -2926,7 +2616,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Telescope Text Animation",
+    "title": "codegrid telescope text animation",
     "displayName": "Text Animations"
   },
   {
@@ -2936,7 +2626,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Terminal Text Reveal Animation",
+    "title": "codegrid terminal text reveal animation",
     "displayName": "Text Animations"
   },
   {
@@ -2946,7 +2636,7 @@
     "indexFile": "index.html",
     "category": "06-text-animations",
     "kind": "source",
-    "title": "Marquee",
+    "title": "marquee",
     "displayName": "Text Animations"
   },
   {
@@ -2956,7 +2646,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Absolute Cards",
+    "title": "cg absolute cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -2966,7 +2656,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Capsules Sticky Cards Javascript",
+    "title": "cg capsules sticky cards javascript",
     "displayName": "Cards & Sticky"
   },
   {
@@ -2976,7 +2666,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Cards",
+    "title": "cg cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -2986,7 +2676,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Lusion Cards",
+    "title": "cg lusion cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -2996,7 +2686,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Phive Sticky Cards Nextjs",
+    "title": "cg phive sticky cards nextjs",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3006,7 +2696,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Phive Sticky Cards",
+    "title": "cg phive sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3016,7 +2706,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg React Cards",
+    "title": "cg react cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3026,7 +2716,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Serious Business Sticky Cards",
+    "title": "cg serious business sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3036,7 +2726,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Sticky Cards",
+    "title": "cg sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3046,7 +2736,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Sticky Image Minimap",
+    "title": "cg sticky image minimap",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3056,7 +2746,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Cg Sticky Sidebar Minimap",
+    "title": "cg sticky sidebar minimap",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3066,7 +2756,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Brandappart Sticky Cards",
+    "title": "codegrid brandappart sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3076,7 +2766,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Maximatherapy Sticky Cards",
+    "title": "codegrid maximatherapy sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3086,7 +2776,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Nextjs Absolute Cards",
+    "title": "codegrid nextjs absolute cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3096,7 +2786,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Nextjs Cards",
+    "title": "codegrid nextjs cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3106,7 +2796,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Nextjs Sticky Cards",
+    "title": "codegrid nextjs sticky cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3116,7 +2806,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Spencergabor Magnetic Cards",
+    "title": "codegrid spencergabor magnetic cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3126,7 +2816,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Sticky Cards Ashfall Rebuild Js",
+    "title": "codegrid sticky cards ashfall rebuild js",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3136,7 +2826,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Sticky Cards Ashfall Rebuild Nextjs",
+    "title": "codegrid sticky cards ashfall rebuild nextjs",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3146,7 +2836,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Sticky Cards Js",
+    "title": "codegrid sticky cards js",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3156,7 +2846,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Sticky Cards Nextjs",
+    "title": "codegrid sticky cards nextjs",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3166,7 +2856,7 @@
     "indexFile": "index.html",
     "category": "07-cards-sticky",
     "kind": "source",
-    "title": "Verse Cards",
+    "title": "verse cards",
     "displayName": "Cards & Sticky"
   },
   {
@@ -3176,7 +2866,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Hypnotic Gallery Gsap Flip",
+    "title": "cg hypnotic gallery gsap flip",
     "displayName": "Galleries"
   },
   {
@@ -3186,7 +2876,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg 3D Circular Img Gallery",
+    "title": "cg 3d circular img gallery",
     "displayName": "Galleries"
   },
   {
@@ -3196,7 +2886,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Chromatic Aberration Gallery",
+    "title": "cg chromatic aberration gallery",
     "displayName": "Galleries"
   },
   {
@@ -3206,7 +2896,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Circular Img Gallery",
+    "title": "cg circular img gallery",
     "displayName": "Galleries"
   },
   {
@@ -3216,7 +2906,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Gallery Of Fame",
+    "title": "cg gallery of fame",
     "displayName": "Galleries"
   },
   {
@@ -3226,7 +2916,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Image Gallery Lightbox",
+    "title": "cg image gallery lightbox",
     "displayName": "Galleries"
   },
   {
@@ -3236,7 +2926,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Kaitonote 3D Gallery Showcase Scroll Animation Nextjs",
+    "title": "cg kaitonote 3d gallery showcase scroll animation nextjs",
     "displayName": "Galleries"
   },
   {
@@ -3246,7 +2936,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Kaitonote 3D Gallery Showcase Scroll Animation",
+    "title": "cg kaitonote 3d gallery showcase scroll animation",
     "displayName": "Galleries"
   },
   {
@@ -3256,7 +2946,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Lightbox",
+    "title": "cg lightbox",
     "displayName": "Galleries"
   },
   {
@@ -3266,7 +2956,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Phantom Gallery Javascript",
+    "title": "cg phantom gallery javascript",
     "displayName": "Galleries"
   },
   {
@@ -3276,7 +2966,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Cg Threejs Video Gallery",
+    "title": "cg threejs video gallery",
     "displayName": "Galleries"
   },
   {
@@ -3286,7 +2976,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Infinite Draggable Image Gallery Javascript",
+    "title": "codegrid infinite draggable image gallery javascript",
     "displayName": "Galleries"
   },
   {
@@ -3296,7 +2986,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Infinite Draggable Image Gallery Nextjs",
+    "title": "codegrid infinite draggable image gallery nextjs",
     "displayName": "Galleries"
   },
   {
@@ -3306,7 +2996,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Inkwell Image Gallery Javascript",
+    "title": "codegrid inkwell image gallery javascript",
     "displayName": "Galleries"
   },
   {
@@ -3316,7 +3006,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Products Lightbox Gallery",
+    "title": "codegrid products lightbox gallery",
     "displayName": "Galleries"
   },
   {
@@ -3326,7 +3016,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Responsive Lightbox Gallery",
+    "title": "codegrid responsive lightbox gallery",
     "displayName": "Galleries"
   },
   {
@@ -3336,7 +3026,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Scroll Wave Image Gallery",
+    "title": "codegrid scroll wave image gallery",
     "displayName": "Galleries"
   },
   {
@@ -3346,7 +3036,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Studiodialect Image Gallery",
+    "title": "codegrid studiodialect image gallery",
     "displayName": "Galleries"
   },
   {
@@ -3356,7 +3046,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Gallery Awwwards Rebuild",
+    "title": "gallery awwwards rebuild",
     "displayName": "Galleries"
   },
   {
@@ -3366,7 +3056,7 @@
     "indexFile": "index.html",
     "category": "08-galleries",
     "kind": "source",
-    "title": "Lightbox",
+    "title": "lightbox",
     "displayName": "Galleries"
   },
   {
@@ -3376,7 +3066,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Block Reveal Page Transition",
+    "title": "block reveal page transition",
     "displayName": "Page Transitions"
   },
   {
@@ -3386,7 +3076,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Cg Barba Js Page Transitions",
+    "title": "cg barba js page transitions",
     "displayName": "Page Transitions"
   },
   {
@@ -3396,7 +3086,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Cg Js Page Transitions",
+    "title": "cg js page transitions",
     "displayName": "Page Transitions"
   },
   {
@@ -3406,7 +3096,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Cg Page Transitions View Transition Api",
+    "title": "cg page transitions view transition api",
     "displayName": "Page Transitions"
   },
   {
@@ -3416,7 +3106,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Cg Page Transitions",
+    "title": "cg page transitions",
     "displayName": "Page Transitions"
   },
   {
@@ -3426,7 +3116,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Grid Shutter Page Transition",
+    "title": "codegrid grid shutter page transition",
     "displayName": "Page Transitions"
   },
   {
@@ -3436,7 +3126,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Madeinuxstudio Page Transition Nextjs",
+    "title": "codegrid madeinuxstudio page transition nextjs",
     "displayName": "Page Transitions"
   },
   {
@@ -3446,7 +3136,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Nextjs Scroll Driven Page Transitions",
+    "title": "codegrid nextjs scroll driven page transitions",
     "displayName": "Page Transitions"
   },
   {
@@ -3456,7 +3146,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Svg Stroke Page Transition Nextjs",
+    "title": "codegrid svg stroke page transition nextjs",
     "displayName": "Page Transitions"
   },
   {
@@ -3466,7 +3156,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Zajno Page Transitions Nextjs",
+    "title": "codegrid zajno page transitions nextjs",
     "displayName": "Page Transitions"
   },
   {
@@ -3476,7 +3166,7 @@
     "indexFile": "index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "Nextjs View Transitions",
+    "title": "nextjs view transitions",
     "displayName": "Page Transitions"
   },
   {
@@ -3486,7 +3176,7 @@
     "indexFile": "public/index.html",
     "category": "09-page-transitions",
     "kind": "source",
-    "title": "React Page Transition",
+    "title": "react page transition",
     "displayName": "Page Transitions"
   },
   {
@@ -3496,7 +3186,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg 3D Garage",
+    "title": "cg 3d garage",
     "displayName": "3D & Three.js"
   },
   {
@@ -3506,7 +3196,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Asset Orb Js",
+    "title": "cg asset orb js",
     "displayName": "3D & Three.js"
   },
   {
@@ -3516,7 +3206,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Asset Orb Next",
+    "title": "cg asset orb next",
     "displayName": "3D & Three.js"
   },
   {
@@ -3526,7 +3216,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Interactive Particle Logo Nextjs",
+    "title": "cg interactive particle logo nextjs",
     "displayName": "3D & Three.js"
   },
   {
@@ -3536,7 +3226,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Interactive Particle Logo",
+    "title": "cg interactive particle logo",
     "displayName": "3D & Three.js"
   },
   {
@@ -3546,7 +3236,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Lusion Fluid Particles",
+    "title": "cg lusion fluid particles",
     "displayName": "3D & Three.js"
   },
   {
@@ -3556,7 +3246,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Parallax Snap Infinite Scroll",
+    "title": "cg parallax snap infinite scroll",
     "displayName": "3D & Three.js"
   },
   {
@@ -3566,7 +3256,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Webgl Interactive Background Nextjs",
+    "title": "cg webgl interactive background nextjs",
     "displayName": "3D & Three.js"
   },
   {
@@ -3576,7 +3266,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cg Webgl Interactive Gradient",
+    "title": "cg webgl interactive gradient",
     "displayName": "3D & Three.js"
   },
   {
@@ -3586,7 +3276,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "3D Crt Display",
+    "title": "codegrid 3d crt display",
     "displayName": "3D & Three.js"
   },
   {
@@ -3596,7 +3286,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "3D Parallax Footer",
+    "title": "codegrid 3d parallax footer",
     "displayName": "3D & Three.js"
   },
   {
@@ -3606,7 +3296,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Cappen Fluid Simulation",
+    "title": "codegrid cappen fluid simulation",
     "displayName": "3D & Three.js"
   },
   {
@@ -3616,7 +3306,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Fractal Glass Effect Nextjs",
+    "title": "codegrid fractal glass effect nextjs",
     "displayName": "3D & Three.js"
   },
   {
@@ -3626,7 +3316,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Fractal Glass Effect",
+    "title": "codegrid fractal glass effect",
     "displayName": "3D & Three.js"
   },
   {
@@ -3636,7 +3326,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Infinite Parallax Scroll With Minimap",
+    "title": "codegrid infinite parallax scroll with minimap",
     "displayName": "3D & Three.js"
   },
   {
@@ -3646,7 +3336,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Nextjs Parallax Effect",
+    "title": "codegrid nextjs parallax effect",
     "displayName": "3D & Three.js"
   },
   {
@@ -3656,7 +3346,7 @@
     "indexFile": "index.html",
     "category": "10-3d-threejs",
     "kind": "source",
-    "title": "Parallax",
+    "title": "parallax",
     "displayName": "3D & Three.js"
   },
   {
@@ -3686,7 +3376,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Chiara",
+    "title": "CHIARA",
     "displayName": "Miscellaneous"
   },
   {
@@ -3706,7 +3396,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Grid",
+    "title": "GRID",
     "displayName": "Miscellaneous"
   },
   {
@@ -3716,7 +3406,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Gsap 1",
+    "title": "GSAP 1",
     "displayName": "Miscellaneous"
   },
   {
@@ -3726,7 +3416,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Gsap",
+    "title": "GSAP",
     "displayName": "Miscellaneous"
   },
   {
@@ -3736,7 +3426,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Js",
+    "title": "JS",
     "displayName": "Miscellaneous"
   },
   {
@@ -3746,7 +3436,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Mouse",
+    "title": "MOUSE",
     "displayName": "Miscellaneous"
   },
   {
@@ -3766,7 +3456,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Salvador",
+    "title": "SALVADOR",
     "displayName": "Miscellaneous"
   },
   {
@@ -3776,7 +3466,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Video",
+    "title": "VIDEO",
     "displayName": "Miscellaneous"
   },
   {
@@ -3786,7 +3476,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Website",
+    "title": "WEBSITE",
     "displayName": "Miscellaneous"
   },
   {
@@ -3796,7 +3486,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Amw",
+    "title": "amw",
     "displayName": "Miscellaneous"
   },
   {
@@ -3806,7 +3496,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Awwwards",
+    "title": "awwwards",
     "displayName": "Miscellaneous"
   },
   {
@@ -3816,17 +3506,17 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Brutalist",
+    "title": "brutalist",
     "displayName": "Miscellaneous"
   },
   {
     "id": "src-0351-cg-brutalist-corridor",
     "zipName": "cg-brutalist-corridor.zip",
     "folderName": "src-0351-cg-brutalist-corridor",
-    "indexFile": "cg-brutalist-corridor-scene/index.html",
+    "indexFile": "cg-brutalist-corridor-lp/index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Cg Brutalist Corridor",
+    "title": "cg brutalist corridor",
     "displayName": "Miscellaneous"
   },
   {
@@ -3836,7 +3526,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Cg Lp Gsap Responsive",
+    "title": "cg lp gsap responsive",
     "displayName": "Miscellaneous"
   },
   {
@@ -3846,7 +3536,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Cg Oshane Howard Lp Responsive",
+    "title": "cg oshane howard lp responsive",
     "displayName": "Miscellaneous"
   },
   {
@@ -3856,7 +3546,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Cg",
+    "title": "cg",
     "displayName": "Miscellaneous"
   },
   {
@@ -3866,7 +3556,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Digitize",
+    "title": "digitize",
     "displayName": "Miscellaneous"
   },
   {
@@ -3876,7 +3566,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Full",
+    "title": "full",
     "displayName": "Miscellaneous"
   },
   {
@@ -3886,7 +3576,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Gsap 2",
+    "title": "gsap 2",
     "displayName": "Miscellaneous"
   },
   {
@@ -3896,7 +3586,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Infinite",
+    "title": "infinite",
     "displayName": "Miscellaneous"
   },
   {
@@ -3906,7 +3596,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Link",
+    "title": "link",
     "displayName": "Miscellaneous"
   },
   {
@@ -3916,7 +3606,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Logo",
+    "title": "logo",
     "displayName": "Miscellaneous"
   },
   {
@@ -3926,7 +3616,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Macos Dock Js",
+    "title": "macos dock js",
     "displayName": "Miscellaneous"
   },
   {
@@ -3936,7 +3626,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Minimalist Portfolio Css",
+    "title": "minimalist portfolio css codegrid",
     "displayName": "Miscellaneous"
   },
   {
@@ -3946,7 +3636,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Minimalist",
+    "title": "minimalist",
     "displayName": "Miscellaneous"
   },
   {
@@ -3956,7 +3646,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Modern 1",
+    "title": "modern 1",
     "displayName": "Miscellaneous"
   },
   {
@@ -3966,7 +3656,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Modern",
+    "title": "modern",
     "displayName": "Miscellaneous"
   },
   {
@@ -3976,7 +3666,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Plastic 1",
+    "title": "plastic 1",
     "displayName": "Miscellaneous"
   },
   {
@@ -3986,7 +3676,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Plastic",
+    "title": "plastic",
     "displayName": "Miscellaneous"
   },
   {
@@ -3996,7 +3686,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Play",
+    "title": "play",
     "displayName": "Miscellaneous"
   },
   {
@@ -4006,7 +3696,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Portfolio",
+    "title": "portfolio",
     "displayName": "Miscellaneous"
   },
   {
@@ -4016,7 +3706,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Refix",
+    "title": "refix",
     "displayName": "Miscellaneous"
   },
   {
@@ -4026,7 +3716,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Responsive 2",
+    "title": "responsive 2",
     "displayName": "Miscellaneous"
   },
   {
@@ -4036,7 +3726,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Responsive",
+    "title": "responsive",
     "displayName": "Miscellaneous"
   },
   {
@@ -4046,7 +3736,7 @@
     "indexFile": "index.html",
     "category": "11-miscellaneous",
     "kind": "source",
-    "title": "Subscription",
+    "title": "subscription",
     "displayName": "Miscellaneous"
   },
   {
@@ -4056,7 +3746,7 @@
     "indexFile": "index.html",
     "category": "12-preloaders",
     "kind": "source",
-    "title": "Cg Preload Lp",
+    "title": "cg preload lp",
     "displayName": "Preloaders"
   },
   {
@@ -4066,7 +3756,7 @@
     "indexFile": "index.html",
     "category": "12-preloaders",
     "kind": "source",
-    "title": "Maxmilkin Preloader",
+    "title": "codegrid maxmilkin preloader",
     "displayName": "Preloaders"
   },
   {
@@ -4076,7 +3766,7 @@
     "indexFile": "index.html",
     "category": "12-preloaders",
     "kind": "source",
-    "title": "Dima Kutsenko Preloader",
+    "title": "dima kutsenko preloader",
     "displayName": "Preloaders"
   },
   {
@@ -4096,7 +3786,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Product",
+    "title": "PRODUCT",
     "displayName": "UI Sections"
   },
   {
@@ -4106,7 +3796,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Project",
+    "title": "PROJECT",
     "displayName": "UI Sections"
   },
   {
@@ -4126,7 +3816,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Basement Contact Us Page",
+    "title": "basement contact us page",
     "displayName": "UI Sections"
   },
   {
@@ -4136,7 +3826,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Cg Responsive Team Page",
+    "title": "cg responsive team page",
     "displayName": "UI Sections"
   },
   {
@@ -4146,7 +3836,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Interactive Team Section Javascript",
+    "title": "codegrid interactive team section javascript",
     "displayName": "UI Sections"
   },
   {
@@ -4156,7 +3846,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Interactive Team Section Nextjs",
+    "title": "codegrid interactive team section nextjs",
     "displayName": "UI Sections"
   },
   {
@@ -4166,7 +3856,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Workingstiff Animated Teams Section Nextjs",
+    "title": "codegrid workingstiff animated teams section nextjs",
     "displayName": "UI Sections"
   },
   {
@@ -4176,7 +3866,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Workingstiff Animated Teams Section",
+    "title": "codegrid workingstiff animated teams section",
     "displayName": "UI Sections"
   },
   {
@@ -4186,7 +3876,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Contact",
+    "title": "contact",
     "displayName": "UI Sections"
   },
   {
@@ -4196,7 +3886,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Project Page",
+    "title": "project page codegrid",
     "displayName": "UI Sections"
   },
   {
@@ -4206,7 +3896,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Project Page Overlay Animation",
+    "title": "project page overlay animation",
     "displayName": "UI Sections"
   },
   {
@@ -4216,7 +3906,7 @@
     "indexFile": "index.html",
     "category": "13-ui-sections",
     "kind": "source",
-    "title": "Project Page",
+    "title": "project page",
     "displayName": "UI Sections"
   },
   {
@@ -4226,7 +3916,7 @@
     "indexFile": "index.html",
     "category": "14-minimap",
     "kind": "source",
-    "title": "Cg Javascript Responsive Minimap",
+    "title": "cg javascript responsive minimap",
     "displayName": "Minimap"
   },
   {
@@ -4236,7 +3926,7 @@
     "indexFile": "index.html",
     "category": "14-minimap",
     "kind": "source",
-    "title": "Cg Js Image Minimap",
+    "title": "cg js image minimap",
     "displayName": "Minimap"
   },
   {
@@ -4266,7 +3956,7 @@
     "indexFile": "index.html",
     "category": "16-canvas",
     "kind": "source",
-    "title": "Canvas Draw",
+    "title": "canvas draw",
     "displayName": "Canvas"
   },
   {
@@ -4276,7 +3966,7 @@
     "indexFile": "index.html",
     "category": "16-canvas",
     "kind": "source",
-    "title": "Cg Canvas Animated Gradients",
+    "title": "cg canvas animated gradients",
     "displayName": "Canvas"
   },
   {
@@ -4286,7 +3976,7 @@
     "indexFile": "index.html",
     "category": "16-canvas",
     "kind": "source",
-    "title": "Cg React Pan Canvas",
+    "title": "cg react pan canvas",
     "displayName": "Canvas"
   },
   {
@@ -4296,7 +3986,7 @@
     "indexFile": "index.html",
     "category": "16-canvas",
     "kind": "source",
-    "title": "Offcanvas",
+    "title": "offcanvas",
     "displayName": "Canvas"
   },
   {
@@ -4306,7 +3996,7 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Cg Lp Shuffle Reveal",
+    "title": "cg lp shuffle reveal",
     "displayName": "Clip & Mask"
   },
   {
@@ -4316,7 +4006,7 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Cg Mask Reveal",
+    "title": "cg mask reveal",
     "displayName": "Clip & Mask"
   },
   {
@@ -4326,7 +4016,7 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Ascii Image Reveal Effect",
+    "title": "codegrid ascii image reveal effect",
     "displayName": "Clip & Mask"
   },
   {
@@ -4336,7 +4026,7 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Ashleybrookecs Smudge Revealer",
+    "title": "codegrid ashleybrookecs smudge revealer",
     "displayName": "Clip & Mask"
   },
   {
@@ -4346,7 +4036,7 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Kvs Studio Image Reveal",
+    "title": "codegrid kvs studio image reveal",
     "displayName": "Clip & Mask"
   },
   {
@@ -4356,7 +4046,317 @@
     "indexFile": "index.html",
     "category": "17-clip-mask",
     "kind": "source",
-    "title": "Gsap Click Reveal",
+    "title": "gsap click reveal",
     "displayName": "Clip & Mask"
+  },
+  {
+    "id": "tpl-0405-2023-05-portfolio",
+    "zipName": "2023-05-portfolio.zip",
+    "folderName": "tpl-0405-2023-05-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 05 portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0406-2023-06-portfolio",
+    "zipName": "2023-06-portfolio.zip",
+    "folderName": "tpl-0406-2023-06-portfolio",
+    "indexFile": "public/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 06 portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0407-2023-07-creative-agency",
+    "zipName": "2023-07-creative-agency.zip",
+    "folderName": "tpl-0407-2023-07-creative-agency",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 07 creative agency",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0408-2023-08-brutalist-portfolio",
+    "zipName": "2023-08-brutalist-portfolio.zip",
+    "folderName": "tpl-0408-2023-08-brutalist-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 08 brutalist portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0409-2023-09-minimal-creative-studio",
+    "zipName": "2023-09-minimal-creative-studio.zip",
+    "folderName": "tpl-0409-2023-09-minimal-creative-studio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 09 minimal creative studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0410-2023-10-creative-agency",
+    "zipName": "2023-10-creative-agency.zip",
+    "folderName": "tpl-0410-2023-10-creative-agency",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 10 creative agency",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0411-2023-11-modern-saas",
+    "zipName": "2023-11-modern-saas.zip",
+    "folderName": "tpl-0411-2023-11-modern-saas",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 11 modern saas",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0412-2023-12-portfolio-video-gallery",
+    "zipName": "2023-12-portfolio-video-gallery.zip",
+    "folderName": "tpl-0412-2023-12-portfolio-video-gallery",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2023 12 portfolio video gallery",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0413-2024-01-creative-studio",
+    "zipName": "2024-01-creative-studio.zip",
+    "folderName": "tpl-0413-2024-01-creative-studio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 01 creative studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0414-2024-02-saas-website",
+    "zipName": "2024-02-saas-website.zip",
+    "folderName": "tpl-0414-2024-02-saas-website",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 02 saas website",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0415-2024-03-responsive-portfolio",
+    "zipName": "2024-03-responsive-portfolio.zip",
+    "folderName": "tpl-0415-2024-03-responsive-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 03 responsive portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0416-2024-04-minimalist-portfolio",
+    "zipName": "2024-04-minimalist-portfolio.zip",
+    "folderName": "tpl-0416-2024-04-minimalist-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 04 minimalist portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0417-2024-05-responsive-portfolio",
+    "zipName": "2024-05-responsive-portfolio.zip",
+    "folderName": "tpl-0417-2024-05-responsive-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 05 responsive portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0418-2024-06-web3-ai-studio",
+    "zipName": "2024-06-web3-ai-studio.zip",
+    "folderName": "tpl-0418-2024-06-web3-ai-studio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 06 web3 ai studio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0419-2024-07-creative-director-portfolio",
+    "zipName": "2024-07-creative-director-portfolio.zip",
+    "folderName": "tpl-0419-2024-07-creative-director-portfolio",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2024 07 creative director portfolio",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0420-2025-02-isochrome",
+    "zipName": "2025-02-isochrome.zip",
+    "folderName": "tpl-0420-2025-02-isochrome",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 02 isochrome",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0421-2025-03-nico-palmer",
+    "zipName": "2025-03-nico-palmer.zip",
+    "folderName": "tpl-0421-2025-03-nico-palmer",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 03 nico palmer",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0422-2025-04-format-archive",
+    "zipName": "2025-04-format-archive.zip",
+    "folderName": "tpl-0422-2025-04-format-archive",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 04 format archive",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0423-2025-05-otis-valen",
+    "zipName": "2025-05-otis-valen.zip",
+    "folderName": "tpl-0423-2025-05-otis-valen",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 05 otis valen",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0424-2025-06-wu-wei",
+    "zipName": "2025-06-wu-wei.zip",
+    "folderName": "tpl-0424-2025-06-wu-wei",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 06 wu wei",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0425-2025-07-juno-watts",
+    "zipName": "2025-07-juno-watts.zip",
+    "folderName": "tpl-0425-2025-07-juno-watts",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 07 juno watts",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0426-2025-08-terrene",
+    "zipName": "2025-08-terrene.zip",
+    "folderName": "tpl-0426-2025-08-terrene",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 08 terrene",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0427-2025-09-negative-films",
+    "zipName": "2025-09-negative-films.zip",
+    "folderName": "tpl-0427-2025-09-negative-films",
+    "indexFile": "negative-films/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 09 negative films",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0428-2025-10-polite-chaos",
+    "zipName": "2025-10-polite-chaos.zip",
+    "folderName": "tpl-0428-2025-10-polite-chaos",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 10 polite chaos",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0429-2025-11-orbit-matter",
+    "zipName": "2025-11-orbit-matter.zip",
+    "folderName": "tpl-0429-2025-11-orbit-matter",
+    "indexFile": "orbit-matter/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 11 orbit matter",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0430-2025-12-nrmlss",
+    "zipName": "2025-12-nrmlss.zip",
+    "folderName": "tpl-0430-2025-12-nrmlss",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2025 12 nrmlss",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0431-2026-01-deadspace",
+    "zipName": "2026-01-deadspace.zip",
+    "folderName": "tpl-0431-2026-01-deadspace",
+    "indexFile": "deadspace/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2026 01 deadspace",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0432-2026-02-salle-blanche",
+    "zipName": "2026-02-salle-blanche.zip",
+    "folderName": "tpl-0432-2026-02-salle-blanche",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2026 02 salle blanche",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0433-2026-03-house-of-epochs",
+    "zipName": "2026-03-house-of-epochs.zip",
+    "folderName": "tpl-0433-2026-03-house-of-epochs",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2026 03 house of epochs",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0434-2026-04-lemon-bureau",
+    "zipName": "2026-04-lemon-bureau.zip",
+    "folderName": "tpl-0434-2026-04-lemon-bureau",
+    "indexFile": "lemon-bureau/index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2026 04 lemon bureau",
+    "displayName": "Website Templates"
+  },
+  {
+    "id": "tpl-0435-2026-05-deadlock-studios",
+    "zipName": "2026-05-deadlock-studios.zip",
+    "folderName": "tpl-0435-2026-05-deadlock-studios",
+    "indexFile": "index.html",
+    "category": "templates",
+    "kind": "template",
+    "title": "2026 05 deadlock studios",
+    "displayName": "Website Templates"
   }
 ]

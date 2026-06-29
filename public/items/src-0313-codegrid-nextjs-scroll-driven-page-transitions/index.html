@@ -1,41 +1,123 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Codegrid Nextjs Scroll Driven Page Transitions</title>
-<style>
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: system-ui, -apple-system, sans-serif; background: #0a0a0a; color: #e4e4e7; padding: 24px; }
-.header { margin-bottom: 24px; }
-.title { font-size: 1.25rem; font-weight: 600; color: #fff; margin-bottom: 4px; }
-.meta { font-size: 0.75rem; color: #71717a; }
-.badge { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.65rem; font-weight: 500; }
-.badge-js { background: #f59e0b22; color: #fbbf24; border: 1px solid #f59e0b44; }
-.badge-react { background: #3b82f622; color: #60a5fa; border: 1px solid #3b82f644; }
-.badge-next { background: #fff1; color: #a1a1aa; border: 1px solid #fff2; }
-.badge-other { background: #8b5cf622; color: #a78bfa; border: 1px solid #8b5cf644; }
-.files { background: #111; border: 1px solid #222; border-radius: 8px; padding: 16px; margin-top: 16px; }
-.files-title { font-size: 0.75rem; font-weight: 600; color: #a1a1aa; margin-bottom: 12px; text-transform: uppercase; letter-spacing: 0.05em; }
-.file-row { display: flex; align-items: center; gap: 8px; padding: 4px 0; font-size: 0.8rem; }
-.file-icon { color: #52525b; font-size: 0.7rem; width: 16px; text-align: center; }
-.file-name { color: #d4d4d8; font-family: 'SF Mono', Monaco, monospace; font-size: 0.75rem; }
-.file-ext { color: #52525b; font-size: 0.65rem; margin-left: auto; }
-.source { background: #111; border: 1px solid #222; border-radius: 8px; padding: 16px; margin-top: 16px; }
-.source pre { font-family: 'SF Mono', Monaco, monospace; font-size: 0.7rem; color: #a1a1aa; white-space: pre-wrap; word-break: break-all; max-height: 400px; overflow-y: auto; }
-.code-header { font-size: 0.7rem; color: #52525b; margin-bottom: 8px; font-family: 'SF Mono', Monaco, monospace; }
-.no-preview { text-align: center; padding: 48px; color: #52525b; font-size: 0.85rem; }
-.icon { font-size: 2rem; margin-bottom: 12px; opacity: 0.4; }
-</style>
-</head>
-<body>
-<div class="header">
-  <div class="title">Codegrid Nextjs Scroll Driven Page Transitions</div>
-  <div class="meta">
-    <span class="badge badge-react">React/JSX</span>
-    &middot; 09 Page Transitions
-  </div>
-</div>
-<div class="files"><div class="files-title">File Types</div><div class="file-row"><span class="file-icon">JS</span><span class="file-name">.js</span><span class="file-ext">36 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.gz</span><span class="file-ext">34 files</span></div><div class="file-row"><span class="file-icon">{}</span><span class="file-name">.json</span><span class="file-ext">16 files</span></div><div class="file-row"><span class="file-icon">IMG</span><span class="file-name">.jpg</span><span class="file-ext">15 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.sample</span><span class="file-ext">13 files</span></div><div class="file-row"><span class="file-icon">TS</span><span class="file-name">.ts</span><span class="file-ext">5 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.woff2</span><span class="file-ext">4 files</span></div><div class="file-row"><span class="file-icon">CSS</span><span class="file-name">.css</span><span class="file-ext">3 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.jsx</span><span class="file-ext">3 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.old</span><span class="file-ext">2 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.mjs</span><span class="file-ext">1 files</span></div><div class="file-row"><span class="file-icon">·</span><span class="file-name">.md</span><span class="file-ext">1 files</span></div></div>
-</body>
-</html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0"><title>codegrid nextjs scroll driven page transitions</title><style>body{font-family:system-ui,sans-serif;max-width:800px;margin:2rem auto;padding:0 1rem}h1{font-size:1.4rem}ul{list-style:none;padding:0}li{padding:.3rem 0}a{color:#06c;text-decoration:none}a:hover{text-decoration:underline}</style></head><body><h1>codegrid nextjs scroll driven page transitions</h1><p>No HTML files found. Available files:</p><ul>  <li><a href="0.pack.gz">0.pack.gz</a></li>
+  <li><a href="0.pack.gz">0.pack.gz</a></li>
+  <li><a href="0.pack.gz">0.pack.gz</a></li>
+  <li><a href="1.pack.gz">1.pack.gz</a></li>
+  <li><a href="1.pack.gz">1.pack.gz</a></li>
+  <li><a href="10.pack.gz">10.pack.gz</a></li>
+  <li><a href="10.pack.gz">10.pack.gz</a></li>
+  <li><a href="11.pack.gz">11.pack.gz</a></li>
+  <li><a href="11.pack.gz">11.pack.gz</a></li>
+  <li><a href="12.pack.gz">12.pack.gz</a></li>
+  <li><a href="12.pack.gz">12.pack.gz</a></li>
+  <li><a href="13.pack.gz">13.pack.gz</a></li>
+  <li><a href="14.pack.gz">14.pack.gz</a></li>
+  <li><a href="15.pack.gz">15.pack.gz</a></li>
+  <li><a href="16.pack.gz">16.pack.gz</a></li>
+  <li><a href="2.pack.gz">2.pack.gz</a></li>
+  <li><a href="2.pack.gz">2.pack.gz</a></li>
+  <li><a href="3.pack.gz">3.pack.gz</a></li>
+  <li><a href="3.pack.gz">3.pack.gz</a></li>
+  <li><a href="30317cea2e8cd83e.webpack.hot-update.json">30317cea2e8cd83e.webpack.hot-update.json</a></li>
+  <li><a href="4.pack.gz">4.pack.gz</a></li>
+  <li><a href="4.pack.gz">4.pack.gz</a></li>
+  <li><a href="5.pack.gz">5.pack.gz</a></li>
+  <li><a href="5.pack.gz">5.pack.gz</a></li>
+  <li><a href="569ce4b8f30dc480-s.p.woff2">569ce4b8f30dc480-s.p.woff2</a></li>
+  <li><a href="6.pack.gz">6.pack.gz</a></li>
+  <li><a href="6.pack.gz">6.pack.gz</a></li>
+  <li><a href="633457081244afec._.hot-update.json">633457081244afec._.hot-update.json</a></li>
+  <li><a href="7.pack.gz">7.pack.gz</a></li>
+  <li><a href="7.pack.gz">7.pack.gz</a></li>
+  <li><a href="747892c23ea88013-s.woff2">747892c23ea88013-s.woff2</a></li>
+  <li><a href="8.pack.gz">8.pack.gz</a></li>
+  <li><a href="8.pack.gz">8.pack.gz</a></li>
+  <li><a href="9.pack.gz">9.pack.gz</a></li>
+  <li><a href="9.pack.gz">9.pack.gz</a></li>
+  <li><a href="93f479601ee12b01-s.p.woff2">93f479601ee12b01-s.p.woff2</a></li>
+  <li><a href="9fb22608dd579233.webpack.hot-update.json">9fb22608dd579233.webpack.hot-update.json</a></li>
+  <li><a href="@studio-freight.js">@studio-freight.js</a></li>
+  <li><a href="@swc.js">@swc.js</a></li>
+  <li><a href="README.md">README.md</a></li>
+  <li><a href="_buildManifest.js">_buildManifest.js</a></li>
+  <li><a href="_ssgManifest.js">_ssgManifest.js</a></li>
+  <li><a href="app-build-manifest.json">app-build-manifest.json</a></li>
+  <li><a href="app-pages-internals.js">app-pages-internals.js</a></li>
+  <li><a href="app-paths-manifest.json">app-paths-manifest.json</a></li>
+  <li><a href="ba015fad6dcf6784-s.woff2">ba015fad6dcf6784-s.woff2</a></li>
+  <li><a href="build-manifest.json">build-manifest.json</a></li>
+  <li><a href="cache-life.d.ts">cache-life.d.ts</a></li>
+  <li><a href="clsx.js">clsx.js</a></li>
+  <li><a href="favicon.ico">favicon.ico</a></li>
+  <li><a href="globals.css">globals.css</a></li>
+  <li><a href="gsap.js">gsap.js</a></li>
+  <li><a href="index.pack.gz">index.pack.gz</a></li>
+  <li><a href="index.pack.gz">index.pack.gz</a></li>
+  <li><a href="index.pack.gz">index.pack.gz</a></li>
+  <li><a href="index.pack.gz.old">index.pack.gz.old</a></li>
+  <li><a href="index.pack.gz.old">index.pack.gz.old</a></li>
+  <li><a href="interception-route-rewrite-manifest.js">interception-route-rewrite-manifest.js</a></li>
+  <li><a href="jsconfig.json">jsconfig.json</a></li>
+  <li><a href="just-debounce-it.js">just-debounce-it.js</a></li>
+  <li><a href="layout.css">layout.css</a></li>
+  <li><a href="layout.js">layout.js</a></li>
+  <li><a href="layout.js">layout.js</a></li>
+  <li><a href="layout.ts">layout.ts</a></li>
+  <li><a href="main-app.js">main-app.js</a></li>
+  <li><a href="middleware-build-manifest.js">middleware-build-manifest.js</a></li>
+  <li><a href="middleware-manifest.json">middleware-manifest.json</a></li>
+  <li><a href="middleware-react-loadable-manifest.js">middleware-react-loadable-manifest.js</a></li>
+  <li><a href="nanoevents.js">nanoevents.js</a></li>
+  <li><a href="next-font-manifest.js">next-font-manifest.js</a></li>
+  <li><a href="next-font-manifest.json">next-font-manifest.json</a></li>
+  <li><a href="next.config.mjs">next.config.mjs</a></li>
+  <li><a href="next.js">next.js</a></li>
+  <li><a href="package-lock.json">package-lock.json</a></li>
+  <li><a href="package.json">package.json</a></li>
+  <li><a href="package.json">package.json</a></li>
+  <li><a href="package.json">package.json</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.js">page.js</a></li>
+  <li><a href="page.jsx">page.jsx</a></li>
+  <li><a href="page.jsx">page.jsx</a></li>
+  <li><a href="page.module.css">page.module.css</a></li>
+  <li><a href="page.ts">page.ts</a></li>
+  <li><a href="page.ts">page.ts</a></li>
+  <li><a href="page.ts">page.ts</a></li>
+  <li><a href="page_client-reference-manifest.js">page_client-reference-manifest.js</a></li>
+  <li><a href="page_client-reference-manifest.js">page_client-reference-manifest.js</a></li>
+  <li><a href="page_client-reference-manifest.js">page_client-reference-manifest.js</a></li>
+  <li><a href="pages-manifest.json">pages-manifest.json</a></li>
+  <li><a href="polyfills.js">polyfills.js</a></li>
+  <li><a href="project-1-1.jpg">project-1-1.jpg</a></li>
+  <li><a href="project-1-2.jpg">project-1-2.jpg</a></li>
+  <li><a href="project-1-3.jpg">project-1-3.jpg</a></li>
+  <li><a href="project-1-4.jpg">project-1-4.jpg</a></li>
+  <li><a href="project-1-5.jpg">project-1-5.jpg</a></li>
+  <li><a href="project-2-1.jpg">project-2-1.jpg</a></li>
+  <li><a href="project-2-2.jpg">project-2-2.jpg</a></li>
+  <li><a href="project-2-3.jpg">project-2-3.jpg</a></li>
+  <li><a href="project-2-4.jpg">project-2-4.jpg</a></li>
+  <li><a href="project-2-5.jpg">project-2-5.jpg</a></li>
+  <li><a href="project-3-1.jpg">project-3-1.jpg</a></li>
+  <li><a href="project-3-2.jpg">project-3-2.jpg</a></li>
+  <li><a href="project-3-3.jpg">project-3-3.jpg</a></li>
+  <li><a href="project-3-4.jpg">project-3-4.jpg</a></li>
+  <li><a href="project-3-5.jpg">project-3-5.jpg</a></li>
+  <li><a href="project-client.jsx">project-client.jsx</a></li>
+  <li><a href="projects.js">projects.js</a></li>
+  <li><a href="react-loadable-manifest.json">react-loadable-manifest.json</a></li>
+  <li><a href="server-reference-manifest.js">server-reference-manifest.js</a></li>
+  <li><a href="server-reference-manifest.json">server-reference-manifest.json</a></li>
+  <li><a href="trace">trace</a></li>
+  <li><a href="use-sync-external-store.js">use-sync-external-store.js</a></li>
+  <li><a href="webpack-runtime.js">webpack-runtime.js</a></li>
+  <li><a href="webpack.30317cea2e8cd83e.hot-update.js">webpack.30317cea2e8cd83e.hot-update.js</a></li>
+  <li><a href="webpack.9fb22608dd579233.hot-update.js">webpack.9fb22608dd579233.hot-update.js</a></li>
+  <li><a href="webpack.js">webpack.js</a></li>
+  <li><a href="zustand.js">zustand.js</a></li></ul></body></html>
