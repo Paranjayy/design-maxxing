@@ -1,119 +1,236 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
+import Link from "next/link";
 
 interface ViewerProps {
   src: string;
   title: string;
+  category: string;
+  categoryDisplay: string;
+  kind: string;
 }
 
 type Mode = "desktop" | "tablet" | "mobile" | "full";
 
-const MODES: { key: Mode; label: string; width: string }[] = [
-  { key: "desktop", label: "Desktop", width: "100%" },
-  { key: "tablet", label: "Tablet", width: "768px" },
-  { key: "mobile", label: "Mobile", width: "375px" },
-  { key: "full", label: "Full", width: "100%" },
-];
-
-export default function Viewer({ src, title }: ViewerProps) {
+export default function Viewer({
+  src,
+  title,
+  category,
+  categoryDisplay,
+  kind,
+}: ViewerProps) {
   const [mode, setMode] = useState<Mode>("full");
   const [isLoading, setIsLoading] = useState(true);
   const [refreshKey, setRefreshKey] = useState(0);
+  const [showChrome, setShowChrome] = useState(true);
+  const [showToolbar, setShowToolbar] = useState(true);
+  const hideTimer = useState<ReturnType<typeof setTimeout> | null>(null)[0];
+
+  // Auto-hide chrome after inactivity
+  const resetHideTimer = useCallback(() => {
+    setShowChrome(true);
+    setShowToolbar(true);
+  }, []);
 
   useEffect(() => {
+    let timer: ReturnType<typeof setTimeout>;
+    const onMove = () => {
+      setShowChrome(true);
+      setShowToolbar(true);
+      clearTimeout(timer);
+      timer = setTimeout(() => {
+        if (mode === "full") {
+          setShowChrome(false);
+          setShowToolbar(false);
+        }
+      }, 2500);
+    };
+    window.addEventListener("mousemove", onMove);
+    window.addEventListener("touchstart", onMove);
+    onMove(); // start timer
+    return () => {
+      window.removeEventListener("mousemove", onMove);
+      window.removeEventListener("touchstart", onMove);
+      clearTimeout(timer);
+    };
+  }, [mode, refreshKey]);
+
+  // Keyboard shortcuts
+  useEffect(() => {
     function handleKey(e: KeyboardEvent) {
-      // Don't fire when typing in an input
       const tag = (e.target as HTMLElement).tagName;
       if (tag === "INPUT" || tag === "TEXTAREA") return;
-
       if (e.key === "1") setMode("desktop");
       if (e.key === "2") setMode("tablet");
       if (e.key === "3") setMode("mobile");
-      if (e.key === "f") setMode("full");
+      if (e.key === "f" || e.key === "F") setMode("full");
+      if (e.key === "Escape") {
+        window.history.back();
+      }
       if (e.key === "r" && (e.metaKey || e.ctrlKey)) {
         e.preventDefault();
         setRefreshKey((k) => k + 1);
+        setIsLoading(true);
       }
     }
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
   }, []);
 
-  const iframeWidth = MODES.find((m) => m.key === mode)?.width || "100%";
+  const iframeWidth =
+    mode === "mobile" ? "375px" : mode === "tablet" ? "768px" : "100%";
 
   return (
-    <div className="flex-1 flex flex-col min-h-0">
-      {/* Toolbar */}
-      <div className="shrink-0 bg-[#0a0a0a] border-b border-white/5 px-5 h-11 flex items-center gap-2">
-        <div className="flex items-center gap-1.5">
-          {MODES.map((opt) => (
-            <button
-              key={opt.key}
-              onClick={() => setMode(opt.key)}
-              className={`px-2.5 py-1 rounded-md text-[11px] font-medium transition-all ${
-                mode === opt.key
-                  ? "bg-[#8b5cf6]/15 text-[#a78bfa]"
-                  : "text-zinc-500 hover:text-white hover:bg-white/5"
-              }`}
-            >
-              <span className="mr-1">
-                {opt.key === "desktop"
-                  ? "🖥"
-                  : opt.key === "tablet"
-                    ? "📱"
-                    : opt.key === "mobile"
-                      ? "📲"
-                      : "⛶"}
-              </span>
-              <span className="hidden sm:inline">{opt.label}</span>
-            </button>
-          ))}
-        </div>
-
-        <div className="flex-1" />
-
-        <button
-          onClick={() => setRefreshKey((k) => k + 1)}
-          className="px-2.5 py-1 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
-          title="Refresh (⌘R)"
-        >
-          ↻ Refresh
-        </button>
-
-        <a
-          href={src}
-          target="_blank"
-          rel="noopener noreferrer"
-          className="px-2.5 py-1 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
-        >
-          ↗ Open
-        </a>
-      </div>
-
-      {/* Iframe area */}
-      <div className="flex-1 bg-[#0c0c0c] relative overflow-hidden flex justify-center">
+    <>
+      {/* Iframe fills entire screen behind everything */}
+      <div className="flex-1 relative bg-[#0c0c0c] overflow-hidden">
         {isLoading && (
-          <div className="absolute inset-0 flex items-center justify-center z-10">
-            <div className="flex items-center gap-3 text-zinc-500 text-sm">
-              <div className="w-4 h-4 border-2 border-[#8b5cf6]/30 border-t-[#8b5cf6] rounded-full animate-spin" />
-              Loading...
+          <div className="absolute inset-0 flex items-center justify-center z-0 bg-[#0c0c0c]">
+            <div className="flex flex-col items-center gap-3">
+              <div className="w-6 h-6 border-2 border-[#8b5cf6]/30 border-t-[#8b5cf6] rounded-full animate-spin" />
+              <div className="text-zinc-500 text-xs">{title}</div>
             </div>
           </div>
         )}
         <iframe
           key={refreshKey}
           src={src}
-          className="h-full border-0 bg-white transition-all duration-300"
+          className="absolute inset-0 w-full h-full border-0 bg-white transition-all duration-300"
           style={{
-            width: iframeWidth,
+            width: mode === "full" ? "100%" : iframeWidth,
             maxWidth: "100%",
+            left: mode === "full" ? 0 : "50%",
+            transform: mode === "full" ? "none" : "translateX(-50%)",
           }}
           sandbox="allow-scripts allow-same-origin allow-forms allow-popups"
           onLoad={() => setIsLoading(false)}
           title={title}
         />
       </div>
-    </div>
+
+      {/* Top bar - auto-hides in full mode */}
+      <div
+        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+          showChrome
+            ? "opacity-100 translate-y-0"
+            : "opacity-0 -translate-y-full"
+        }`}
+      >
+        <div className="bg-[#080808]/90 backdrop-blur-xl border-b border-white/5">
+          <div className="px-4 h-11 flex items-center gap-3">
+            <Link
+              href="/browse"
+              className="flex items-center gap-2 text-white hover:text-[#c4b5fd] transition-colors shrink-0"
+            >
+              <div className="w-6 h-6 rounded-md bg-[#8b5cf6] flex items-center justify-center text-white font-bold text-[10px]">
+                D
+              </div>
+              <span className="text-[11px] font-semibold tracking-tight hidden sm:inline">
+                design maxxing
+              </span>
+            </Link>
+
+            <div className="h-4 w-px bg-white/10 shrink-0" />
+
+            <Link
+              href={`/browse?cat=${category}`}
+              className="text-xs text-zinc-400 hover:text-[#a78bfa] transition-colors truncate"
+            >
+              {categoryDisplay}
+            </Link>
+
+            <div className="h-4 w-px bg-white/10 shrink-0 hidden sm:block" />
+
+            <div className="text-xs text-zinc-500 truncate hidden sm:block max-w-[300px]">
+              {title}
+            </div>
+
+            <div className="flex-1" />
+
+            <span
+              className={`px-2 py-0.5 rounded text-[10px] font-medium ${
+                kind === "template"
+                  ? "bg-[#10b981]/15 text-[#34d399]"
+                  : "bg-[#8b5cf6]/15 text-[#a78bfa]"
+              }`}
+            >
+              {kind === "template" ? "Template" : "Source"}
+            </span>
+          </div>
+        </div>
+      </div>
+
+      {/* Bottom toolbar - auto-hides in full mode */}
+      <div
+        className={`fixed bottom-0 left-0 right-0 z-50 transition-all duration-300 ${
+          showToolbar
+            ? "opacity-100 translate-y-0"
+            : "opacity-0 translate-y-full"
+        }`}
+      >
+        <div className="bg-[#080808]/90 backdrop-blur-xl border-t border-white/5">
+          <div className="px-4 h-12 flex items-center gap-2 justify-center">
+            <div className="flex items-center gap-1 bg-white/5 rounded-lg p-1">
+              {[
+                { key: "desktop" as Mode, icon: "🖥", label: "Desktop" },
+                { key: "tablet" as Mode, icon: "📱", label: "Tablet" },
+                { key: "mobile" as Mode, icon: "📲", label: "Mobile" },
+                { key: "full" as Mode, icon: "⛶", label: "Full" },
+              ].map((opt) => (
+                <button
+                  key={opt.key}
+                  onClick={() => setMode(opt.key)}
+                  className={`px-3 py-1.5 rounded-md text-[11px] font-medium transition-all ${
+                    mode === opt.key
+                      ? "bg-[#8b5cf6]/20 text-[#a78bfa]"
+                      : "text-zinc-500 hover:text-white hover:bg-white/5"
+                  }`}
+                >
+                  <span className="mr-1">{opt.icon}</span>
+                  <span className="hidden sm:inline">{opt.label}</span>
+                </button>
+              ))}
+            </div>
+
+            <div className="w-px h-5 bg-white/10 mx-1" />
+
+            <button
+              onClick={() => {
+                setRefreshKey((k) => k + 1);
+                setIsLoading(true);
+              }}
+              className="px-3 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+              title="Refresh (⌘R)"
+            >
+              ↻ Refresh
+            </button>
+
+            <a
+              href={src}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-1.5 rounded-md text-[11px] font-medium text-zinc-500 hover:text-white hover:bg-white/5 transition-all"
+            >
+              ↗ Open Raw
+            </a>
+
+            <div className="w-px h-5 bg-white/10 mx-1 hidden sm:block" />
+
+            <div className="text-[10px] text-zinc-600 hidden sm:block">
+              Press{" "}
+              <kbd className="px-1 py-0.5 rounded bg-white/5 text-zinc-400 font-mono">
+                F
+              </kbd>{" "}
+              full &middot;{" "}
+              <kbd className="px-1 py-0.5 rounded bg-white/5 text-zinc-400 font-mono">
+                Esc
+              </kbd>{" "}
+              back
+            </div>
+          </div>
+        </div>
+      </div>
+    </>
   );
 }
