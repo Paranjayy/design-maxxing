@@ -86,6 +86,7 @@ export function getItemsByFilter(opts: {
   category?: string;
   kind?: string;
   q?: string;
+  sort?: string;
 }): Item[] {
   let items = getItems();
   if (opts.category && opts.category !== "all")
@@ -99,9 +100,28 @@ export function getItemsByFilter(opts: {
         i.category.toLowerCase().includes(q),
     );
   }
+  if (opts.sort === "az")
+    items = [...items].sort((a, b) => a.title.localeCompare(b.title));
+  else if (opts.sort === "za")
+    items = [...items].sort((a, b) => b.title.localeCompare(a.title));
+  else if (opts.sort === "cat")
+    items = [...items].sort((a, b) => a.category.localeCompare(b.category));
   return items;
 }
 
 export function getItem(id: string): Item | undefined {
   return getItems().find((i) => i.id === id);
+}
+
+export function getAdjacentItems(id: string): {
+  prev: Item | null;
+  next: Item | null;
+} {
+  const items = getItems();
+  const idx = items.findIndex((i) => i.id === id);
+  if (idx === -1) return { prev: null, next: null };
+  return {
+    prev: idx > 0 ? items[idx - 1] : null,
+    next: idx < items.length - 1 ? items[idx + 1] : null,
+  };
 }

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getItem, getItems } from "@/lib/items";
+import { getItem, getItems, getAdjacentItems } from "@/lib/items";
 import { notFound } from "next/navigation";
 import Viewer from "./viewer";
 
@@ -25,6 +25,7 @@ export default async function ViewPage({
 
   const src = `/items/${item.folderName}/${item.indexFile}`;
   const title = item.title || item.zipName.replace(/\.zip$/, "");
+  const { prev, next } = getAdjacentItems(id);
 
   return (
     <div className="h-screen flex flex-col overflow-hidden">
@@ -34,6 +35,10 @@ export default async function ViewPage({
         category={item.category}
         categoryDisplay={formatCategoryName(item.category)}
         kind={item.kind}
+        prevId={prev?.id || null}
+        prevTitle={prev?.title || null}
+        nextId={next?.id || null}
+        nextTitle={next?.title || null}
       />
     </div>
   );
